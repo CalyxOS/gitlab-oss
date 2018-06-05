@@ -48,3 +48,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+### equalOS
+ Currently an open source site and CI pipeline using Hugo and PostCSS. Can be cloned and served locally. Project is for creating an automated CI pipeline for building and distributing Linux from source inside containers using a tiling window manager, like i3 or Sway.
+ https://equalos.org
+ Gold
