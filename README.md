@@ -42,7 +42,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 ## License/subscription details
 
 - You'll receive a 1 year license for GitLab Ultimate or subscription for GitLab Gold.
-- Support is not included, but can be purchased for 95% off. Please contact sales for further details.
+- Support is not included, but can be purchased for 95% off, at $4.95/user/month.
 - Your license/subscription can be renewed each year if your project still meets the requirements.
    - Contact us at the [support web form](https://support.gitlab.com/hc/en-us) 30 days before your license/subscription ends.
 - Licenses and subscriptions cannot be transferred or sold.
