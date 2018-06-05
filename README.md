@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Wownero
+Wownero is a fairly launched software fork of the privacy focused cryptocurrency Monero without a pre-mine. The project aims to implement experimental blockchain features while having fun as a meme coin.  
+http://wownero.org  
+Gold  
