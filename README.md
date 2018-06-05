@@ -48,3 +48,21 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Astian OS
+It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](ḧttps://astian.org)
+https://www.astian.org/astian-os
+
+Gold
+
+### JIoT
+JIoT Platform and framework open source for build applications and solutions IoT and automation system for the industrie and home, JIoT have support for: MQTT, CoAP, LoraWan, Modbus, Sigfox and anothers protocols, Device Management, Telemetry, multi-tenancy and much more. Developed by [Astian Foundation](ḧttps://astian.org)
+https://www.astian.org/jiot
+
+Gold
+
+### Projects
+
+There are other projects developed by the Astian Foundation that later applied to enter gitlab gold, you can see the projects we developed in https://gitlab.com/astian.
+
+Thanks.
