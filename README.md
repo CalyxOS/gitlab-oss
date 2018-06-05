@@ -48,3 +48,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### lainradio.club
+Lainradio.club is an open-source static website using Hugo as the generator.
+It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
+https://lainradio.club
+Ultimate or Gold? Ultimate
