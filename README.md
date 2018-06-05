@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+ ### CavApps
+ A standalone 'home' application that any Gamming clan can use to manage their community, along with plugin tooling and creation 
+ https://7cav.us
+ Gold
