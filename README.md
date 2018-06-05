@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Ruetomel
+An educative project for CS students to learn about devops, based on a given stack (java, springboot, docker, git/gitlab, k8s)
+https://www.devops.pf or https://gitlab.com/teriiehina/ruetomel
+Ultimate
