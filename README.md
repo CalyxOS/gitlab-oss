@@ -48,3 +48,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+Project Name: pgjdbc
+JDBC driver for PostgreSQL
+Gitlab Gold
+License: PostgreSQL license
+
+
