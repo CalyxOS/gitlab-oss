@@ -28,7 +28,7 @@ Gold (SaaS) to all open source projects.
 
 ## Requirements
 
-To apply, you need to be a project lead or a core contributor for an active open source project that is at least 30 days old.
+To apply, you need to be a project lead or a core contributor for an active open source project.
 
 Your project needs to use a standard open source license and must be non-commercial. It should not have paid support or pay
 contributors. If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/). 
