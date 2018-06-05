@@ -35,7 +35,7 @@ To apply:
 - Your project should not have paid support or pay contributors.
 
 If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/). 
-If you're not sure if your project meets these requirements, please [contact our support team](https://support.gitlab.com/hc/en-us) for help.
+If you're not sure if your project meets these requirements, please [contact our support team](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447) for help.
 
 We'll review all requests and accept them at our discretion. If accepted, your project will stay listed below.
 
