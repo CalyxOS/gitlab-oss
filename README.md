@@ -15,7 +15,7 @@ Gold (SaaS) to all open source projects.
 ## Here's how to apply
 
 1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
-1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimat or Gold](#open-source-projects-using-gitlab-ultimate-or-gold) 
+1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimate or Gold](#open-source-projects-using-gitlab-ultimate-or-gold) 
 section at the bottom of this page (all lines required):
 
      ```
