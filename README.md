@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+ ### AzuraCast
+ A self-hosted, all-in-one, turnkey web radio management suite, including a powerful and intuitive web interface for managing every aspect of a web radio station.
+ https://azuracast.com
+ Gold
