@@ -47,4 +47,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
    - [Contact Sales](https://ultimate-free-post.about.gitlab.com/sales/) 30 days before your license/subscription ends.
 - Licenses and subscriptions cannot be transferred or sold.
 
-## Open source projects using GitLab Ultimate or Gold
+## Open source projects using GitLab Ultimate or 
+### Freeradius Admin
+### https://gitlab.com/junelsolis/freeradius-admin
+ This project is a web GUI for a FreeRADIUS 3 server with a My-SQL backend.
+ https://freeradiusadmin-demo.junelsolis.com/
+ Gold
+
