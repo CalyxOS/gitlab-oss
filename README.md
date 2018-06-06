@@ -31,13 +31,13 @@ section at the bottom of this page (all lines required):
 
 To apply:
 - You need to be a project lead or a core contributor for an active open source project.
-- Your project needs to use a standard open source license and must be non-commercial.
-- Your project should not have paid support or pay contributors.
+- Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
+- Your project must not seek to make profit from the resulting project software.
 
 If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/). 
 If you're not sure if your project meets these requirements, please [contact our support team](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447) for help.
 
-We'll review all requests and accept them at our discretion. If accepted, your project will stay listed below.
+We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will contact you.
 
 ## License/subscription details
 
