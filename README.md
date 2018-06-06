@@ -48,3 +48,19 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+### NOC
+NOC is web-scale Operation Support System (OSS) for telecom and service providers.
+Areas covered by NOC include Network Resource Inventory (NRI), IP Address Management (IPAM),
+Fault Management (FM), Performance Management (PM), Peering Management.
+System is developed by telecom professionals and for telecom professionals.
+
+Project Repo: https://code.getnoc.com/noc/noc
+License Type: BSD 3-clause
+License URL: https://code.getnoc.com/noc/noc/blob/microservices/LICENSE
+Project Age: 10+ years
+Number of core contributors: 20
+
+## Tell us about yourself
+Name: Dmitry Volodin
+Email: dv@nocproject.org
+Project role: Project Lead
