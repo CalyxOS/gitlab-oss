@@ -50,6 +50,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 ## Open source projects using GitLab Ultimate or Gold
 
 ### Better With Mods
-     A highly modular hardcode mod for Minecraft 
+     A highly modular hardcore mod for Minecraft 
      https://betterwithmods.com
      Gold
