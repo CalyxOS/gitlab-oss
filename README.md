@@ -48,3 +48,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+ ### JRebirth
+ JRebirth is a JavaFX Application Framework used to build efficient desktop applications. it contains some sample projects
+ http://www.jrebirth.org
+ Ultimate or Gold?
+
