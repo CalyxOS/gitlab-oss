@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+ ### coala
+ Linting and fixing code for all languages.
+ https://coala.io
+ Gold
