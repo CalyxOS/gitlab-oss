@@ -57,5 +57,7 @@ tasks :
 * graphical models learning/elicitation,
 * probabilistic inference with graphical models,
 * planification.
+
 http://agrum.gitlab.io
+
 Gold
