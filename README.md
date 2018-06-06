@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+    ### GNU Mailman
+    GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://github.com/mailman) and Continuous Integration.
+    https://list.org
+    Ultimate
