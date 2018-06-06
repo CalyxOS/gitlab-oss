@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Splits I/O
+A sharing and analyzation tool for speedrunners!
+https://splits.io/
+Gold
