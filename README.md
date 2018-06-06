@@ -48,3 +48,5 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+### [LeafPic](https://gitlab.com/HoraApps/LeafPic) (Gold)
+> An ad-free, open-source and material-designed android gallery alternative
