@@ -48,3 +48,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+
+### Aetherya
+Aetherya is an open-source moderation/utilitarian bot created for a Twitch streamer's Discord server. She tracks users joining, users leaving, users editing/deleting their messages, and has taken a large workload off the mod team.
+https://gitlab.com/TotallyAWeebDev/Aetherya
+Gold
