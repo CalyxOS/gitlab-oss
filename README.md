@@ -48,3 +48,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Chakra Linux
+
+A community-developed GNU/Linux distribution with an emphasis on KDE and Qt technologies, utilizing a unique half-rolling release model that allows users to enjoy the latest versions of the Plasma desktop and their favorite applications on top of a periodically updated system core.
+https://www.chakralinux.org
+Ultimate
