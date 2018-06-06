@@ -48,3 +48,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### OpenGAG
+
+An alternative to 9gag. But 100% open source. Driven by the community a bit like this [awesome thing](https://gitlab.com/gitlab-org/gitlab-ce)
+
+No url yet; project is stil in pre-development. We have no official code yet but would still benefit GitLab features.
+
+Ultimate
