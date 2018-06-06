@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+ ### InactiveLockette
+ Bukkit plugin to allow removal of Lockette locks when owner is inactive, as they tend to clutter the server
+ http://dev.bukkit.org/bukkit-plugins/inactive-lockette/
+ Gold
+
