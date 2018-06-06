@@ -48,3 +48,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+### Board Summary For Trello Chrome Extension
+The Board Summary for Trello extension for Google Chrome retrieves and displays summary data for Trello boards, and allows for creating nested boards (i.e. cards that reference other boards).
+https://gitlab.com/aarongoldenthal/BoardSummaryForTrelloChromeExtension
+Gold
