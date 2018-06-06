@@ -49,7 +49,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
- ### Gibberfish
- Gibberfish provides free software tools to activists
- https://gibberfish.org
- Gold
+### Gibberfish
+Gibberfish provides free software tools to activists
+https://gibberfish.org
+Gold
