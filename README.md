@@ -49,10 +49,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-Python Discord - https://gitlab.com/discord-python/
-
-We're a large, friendly community focused around the Python programming language, open to those who wish to learn the language or improve their skills, as well 
-as those looking to help others.
-
-In order to run our community, we maintain a whole host of open-source projects. Additionally, we host code jams every once in a while - traditionally on
-GitHub, but we're almost done moving to GitLab!
+```
+### Python Discord
+We're a large, friendly community focused around the Python programming language, open to those who wish to learn the language or improve their skills, as well as those looking to help others. We're a completely voluntary community of Python lovers, and we're passionate about helping our users learn.
+https://pythondiscord.com
+Gold
+```
