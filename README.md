@@ -48,3 +48,12 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Ansible - PostgresXL cluster
+
+The main goal of this project is to have an ansible installer for full Postgres-XL cluster with gtms, coordinators, masters and slaves.  
+The other goal is to have tests using role provision docker, to check behavior in a real environment.
+
+https://gitlab.com/elrender/postgres-xl-cluster
+
+Ultimate
