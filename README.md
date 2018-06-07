@@ -49,7 +49,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-    ### GNU Mailman
-    GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://github.com/mailman) and Continuous Integration.
-    https://list.org
-    Ultimate
+    ### papirus-netapp
+    PaPiRus Netapp is a free script for Raspberry Pi's that uses the PaPiRus E-Paper display to carry out various network testing scripts
+    https://www.talktech.info
+    Gold
