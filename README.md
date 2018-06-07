@@ -63,3 +63,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     NOC is web-scale Operation Support System (OSS) for telecom and service providers. Areas covered by NOC include Network Resource Inventory (NRI), IP Address Management (IPAM), Fault Management (FM), Performance Management (PM), Peering Managemen. System is developed by telecom professionals and for telecom professionals.
     https://nocproject.org/
     Ultimate
+
+    ### eelo
+    An open source mobile phone OS that respects user’s data privacy
+    https://www.eelo.io/
+    Ultimate
