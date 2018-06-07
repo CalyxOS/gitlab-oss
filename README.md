@@ -48,3 +48,19 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Minecordbot
+A powerful way to bridge Minecraft and Discord.
+https://minecordbot.cyr1en.com
+Ultimate
+
+### CommandPrompter
+Making commands more interactive.
+https://gitlab.com/CyR1en/CommandPrompter
+Ultimate
+
+### ExperiencedFlight
+Flights powered by experience.
+https://gitlab.com/CyR1en/ExperiencedFlight
+Ultimate
+
