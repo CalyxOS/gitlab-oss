@@ -48,3 +48,14 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+```
+ ### EOs Design System
+ The EOS Design System is an open source set of guidelines, elements, components, and layouts made to help developers deliver consistent user experience and interfaces, while they concentrate on what they do best: code.
+ The open source community always struggled with design contributions. We believe that making an open design system can help streamline the design process while changing the
+ paradigm of open source products looking not as good as commercial ones.
+ EOS started as a Design System for SUSE and OpenSUSE, but we realised that opening it to everyone can make a big chang. Our first version is barely at the door, and we have a big vision of how we will impact the open source communities in the next years.
+ Our staging server is: (we dont have a production server yet)
+ http://eos-test.herokuapp.com/
+ Gold
+ ```
