@@ -53,9 +53,13 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://github.com/mailman) and Continuous Integration.
     https://list.org
     Ultimate
-    
+
     ### Manjaro Linux
     Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. We use Gitlab for all our [development](https://gitlab.manjaro.org) and Continuous Integration.
     https://manjaro.org
     Ultimate
 
+    ### NOC
+    NOC is web-scale Operation Support System (OSS) for telecom and service providers. Areas covered by NOC include Network Resource Inventory (NRI), IP Address Management (IPAM), Fault Management (FM), Performance Management (PM), Peering Managemen. System is developed by telecom professionals and for telecom professionals.
+    https://nocproject.org/
+    Ultimate
