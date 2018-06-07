@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### CiviCRM
+CiviCRM is a web-based Open Source contact relationship management (CRM) system. CiviCRM emphasizes communicating with individuals, community engagement, activism, outreach, managing contributions, and managing memberships.
+https://civicrm.org/
+Ultimate
