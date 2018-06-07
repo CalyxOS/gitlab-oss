@@ -48,3 +48,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+### Joiner
+Joiner is a Java library which allows to create type-safe JPA queries
+
+https://gitlab.com/eencircled/Joiner
+
+Gold
+
