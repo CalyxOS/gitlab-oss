@@ -68,3 +68,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source mobile phone OS that respects user’s data privacy
     https://www.eelo.io/
     Ultimate
+    
+    ### MathLibrary
+    A Kotlin library to assist you in Multivariable Calculus, Linear Algebra, Electrostatics, and Quantum Computing.
+    https://github.com/ethertyper/mathlibrary
+    Ultimate
