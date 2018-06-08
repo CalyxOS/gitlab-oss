@@ -68,3 +68,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source mobile phone OS that respects user’s data privacy
     https://www.eelo.io/
     Ultimate
+
+    ### CHVote
+    CHVote is one of only two accredited electronic voting systems by the Federal Council in Switzerland.
+    https://republique-et-canton-de-geneve.github.io/chvote-1-0
+    Ultimate
