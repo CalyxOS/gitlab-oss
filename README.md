@@ -68,3 +68,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source mobile phone OS that respects user’s data privacy
     https://www.eelo.io/
     Ultimate
+
+    ### Aurora OSS
+    An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore (https://gitlab.com/AuroraOSS/AuroraStore)
+    https://gitlab.com/AuroraOSS/
+    Ultimate
