@@ -31,13 +31,13 @@ section at the bottom of this page (all lines required):
 
 To apply:
 - You need to be a project lead or a core contributor for an active open source project.
-- Your project needs to use a standard open source license and must be non-commercial.
-- Your project should not have paid support or pay contributors.
+- Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
+- Your project must not seek to make profit from the resulting project software.
 
 If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/). 
 If you're not sure if your project meets these requirements, please [contact our support team](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447) for help.
 
-We'll review all requests and accept them at our discretion. If accepted, your project will stay listed below.
+We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will contact you.
 
 ## License/subscription details
 
@@ -48,5 +48,28 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
-### [LeafPic](https://gitlab.com/HoraApps/LeafPic) (Gold)
-> An ad-free, open-source and material-designed android gallery alternative
+
+    ### GNU Mailman
+    GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://github.com/mailman) and Continuous Integration.
+    https://list.org
+    Ultimate
+
+    ### Manjaro Linux
+    Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. We use Gitlab for all our [development](https://gitlab.manjaro.org) and Continuous Integration.
+    https://manjaro.org
+    Ultimate
+
+    ### NOC
+    NOC is web-scale Operation Support System (OSS) for telecom and service providers. Areas covered by NOC include Network Resource Inventory (NRI), IP Address Management (IPAM), Fault Management (FM), Performance Management (PM), Peering Managemen. System is developed by telecom professionals and for telecom professionals.
+    https://nocproject.org/
+    Ultimate
+
+    ### eelo
+    An open source mobile phone OS that respects user’s data privacy
+    https://www.eelo.io/
+    Ultimate
+    
+    ### LeafPic
+    An ad-free, open-source and material-designed android gallery alternative
+    https://gitlab.com/HoraApps/LeafPic
+    Gold
