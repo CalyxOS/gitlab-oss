@@ -68,3 +68,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source mobile phone OS that respects user’s data privacy
     https://www.eelo.io/
     Ultimate
+    
+    ### Recultis
+    Return to the cult games. On Linux, with modern, open source engines.
+    https://makson.gitlab.io/Recultis/
+    Gold
