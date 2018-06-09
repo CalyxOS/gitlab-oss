@@ -73,3 +73,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source decentralized social network based on open web protocols.
     https://joinmastodon.org
     Ultimate
+    
+    ### CleverSheep
+    An open source high level asynchronous testing framework
