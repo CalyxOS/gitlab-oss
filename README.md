@@ -73,3 +73,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source decentralized social network based on open web protocols.
     https://joinmastodon.org
     Ultimate
+    
+    ### Zclassic Community Edition
+    An open source decentralized p2p permissionless public blockchain leveraging zk-SNARK technology through ZCL cryptocurrency to promote privacy & financial freedom.
+    https://zclassic-ce.org
+    Gold
