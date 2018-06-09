@@ -73,3 +73,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source decentralized social network based on open web protocols.
     https://joinmastodon.org
     Ultimate
+
+    ### Ninja Forms
+    An open source drag-and-drop form builder for WordPress
+    https://ninjaforms.com/
+    Ultimate
