@@ -48,3 +48,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
+
+
+    ### dps8m
+    The dps8m project is an open source collaboration to create an emulator for the Honeywell DPS8/M mainframe computer, with the goal of running th Multics operating system.
+    Ultimate
