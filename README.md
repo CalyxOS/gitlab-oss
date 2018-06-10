@@ -73,3 +73,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source decentralized social network based on open web protocols.
     https://joinmastodon.org
     Ultimate
+    
+    ### Fairytale
+    Community centric file archiver with state-of-the-art features (recompression, deduplication), giving the users all options from best speed to best compression
+    https://github.com/schnaader/fairytale
+    Gold
