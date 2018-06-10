@@ -135,3 +135,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An educative project for CS students to learn about devops, based on a given stack (java, springboot, docker, git/gitlab, k8s)
     https://www.devops.pf or https://gitlab.com/teriiehina/ruetomel
     Ultimate
+    
+    ### Groovybot
+    Groovy is a feature-rich Discord Bot. His main-feature is to play specific songs available on YouTube via high quality streaming.
+    https://groovybot.xyz
+    Ultimate
+
