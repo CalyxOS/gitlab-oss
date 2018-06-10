@@ -49,7 +49,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Project name
-Spack is a package manager for supercomputers, used by HPC centers and developers worldwide.
-https://gitlab.com/spack/spack
-Ultimate
+    ### Spack
+    Spack is a package manager for supercomputers, used by HPC centers and developers worldwide.
+    https://gitlab.com/spack/spack
+    Ultimate
