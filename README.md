@@ -9,7 +9,7 @@ It has already been the case for years that that any public project on GitLab.co
 ## Here's how to apply
 
 1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
-1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimate or Gold](#open-source-projects-using-gitlab-ultimate-or-gold) 
+1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimate or Gold](#open-source-projects-using-gitlab-ultimate-or-gold)
 section at the bottom of this page (all lines required):
 
      ```
@@ -161,3 +161,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Lainradio.club is an open-source static website using Hugo as the generator. It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
     https://lainradio.club
     Ultimate
+
+    ### LibreHealth
+    LibreHealth is a collaborative community for free & open source software projects in Health IT, and is a member project of Software Freedom Conservancy.
+    https://librehealth.io
+    Gold
