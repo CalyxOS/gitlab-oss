@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### OpenAPI
-Rest API for Puppet & Ansible
-https://cyberox.org/rails/openapi
-Ultimate
+
+    ### OpenAPI
+    Rest API for Puppet & Ansible
+    https://cyberox.org/rails/openapi
+    Ultimate
