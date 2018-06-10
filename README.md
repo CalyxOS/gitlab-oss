@@ -116,14 +116,14 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
     ### dps8m
     The dps8m project is an open source collaboration to create an emulator for the Honeywell DPS8/M mainframe computer, with the goal of running th Multics operating system.
+    Ultimate
 
     ### mvdsv
     MVDSV: a QuakeWorld server
     https://github.com/deurk/mvdsv
+    Ultimate
 
     ### Personal Management System
-    Personal Management System is a system used to showcase not only your own personal
-    projects and accomplishments, but also serve as your resume and blog engine. A one
-    stop shop for all your personal branding needs.
+    Personal Management System is a system used to showcase not only your own personal projects and accomplishments, but also serve as your resume and blog engine. A one stop shop for all your personal branding needs.
     https://repo.theoremforge.com/me/PMS
     Ultimate
