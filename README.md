@@ -102,13 +102,17 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### SECU
     SЁCU is a service that allows you to send password protected self-destructing data packages. Thus the recipient will have to provide a password in order to open a package. And once it is opened, it will no longer be available.
     https://secu.su/
+    Ultimate
+
     ### Spack
     Spack is a package manager for supercomputers, used by HPC centers and developers worldwide.
     https://gitlab.com/spack/spack
+    Ultimate
 
     ### Alchemy Viewer
     A client for SecondLife/OpenMetaverse protocol compatible virtual world platforms.
     https://www.alchemyviewer.org
+    Ultimate
 
     ### dps8m
     The dps8m project is an open source collaboration to create an emulator for the Honeywell DPS8/M mainframe computer, with the goal of running th Multics operating system.
