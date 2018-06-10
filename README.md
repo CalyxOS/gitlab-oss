@@ -109,4 +109,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Alchemy Viewer
     A client for SecondLife/OpenMetaverse protocol compatible virtual world platforms.
     https://www.alchemyviewer.org
+
+    ### dps8m
+    The dps8m project is an open source collaboration to create an emulator for the Honeywell DPS8/M mainframe computer, with the goal of running th Multics operating system.
     Ultimate
