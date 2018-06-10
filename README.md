@@ -151,3 +151,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A Kotlin library to assist you in Multivariable Calculus, Linear Algebra, Electrostatics, and Quantum Computing.
     https://github.com/ethertyper/mathlibrary
     Ultimate
+
+    ### Ansible - PostgresXL cluster
+    The main goal of this project is to have an ansible installer for full Postgres-XL cluster with gtms, coordinators, masters and slaves. The other goal is to have tests using role provision docker, to check behavior in a real environment.
+    https://gitlab.com/elrender/postgres-xl-cluster
+    Ultimate
