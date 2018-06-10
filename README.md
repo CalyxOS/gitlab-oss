@@ -126,27 +126,28 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Personal Management System
     Personal Management System is a system used to showcase not only your own personal projects and accomplishments, but also serve as your resume and blog engine. A one stop shop for all your personal branding needs.
     https://repo.theoremforge.com/me/PMS
+    Ultimate
 
     ### OpenAPI
     Rest API for Puppet & Ansible
     https://cyberox.org/rails/openapi
+    Ultimate
 
     ### Ruetomel
     An educative project for CS students to learn about devops, based on a given stack (java, springboot, docker, git/gitlab, k8s)
     https://www.devops.pf or https://gitlab.com/teriiehina/ruetomel
     Ultimate
-    
+
     ### Groovybot
     Groovy is a feature-rich Discord Bot. His main-feature is to play specific songs available on YouTube via high quality streaming.
     https://groovybot.xyz
     Ultimate
 
-    
     ### owlo
     An open source ActivityPub utilizing microblogging and fiction platform.
     http://localtoast.net/
     Ultimate
-    
+
     ### MathLibrary
     A Kotlin library to assist you in Multivariable Calculus, Linear Algebra, Electrostatics, and Quantum Computing.
     https://github.com/ethertyper/mathlibrary
@@ -155,10 +156,12 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Ansible - PostgresXL cluster
     The main goal of this project is to have an ansible installer for full Postgres-XL cluster with gtms, coordinators, masters and slaves. The other goal is to have tests using role provision docker, to check behavior in a real environment.
     https://gitlab.com/elrender/postgres-xl-cluster
+    Ultimate
 
     ### CoCoMS - Construction Correspondence Management System
     CoCoMS is a simple Document Management System designed specifically for the management of correspondence generated during the execution of a construction project. CoCoMS is targeted at document controllers and key staff of a construction project.
     https://gitlab.com/chrmina/cocoms
+    Ultimate
 
     ### lainradio.club
     Lainradio.club is an open-source static website using Hugo as the generator. It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
