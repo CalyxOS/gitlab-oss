@@ -141,3 +141,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://groovybot.xyz
     Ultimate
 
+    
+    ### owlo
+    An open source ActivityPub utilizing microblogging and fiction platform.
+    http://localtoast.net/
+    Ultimate
