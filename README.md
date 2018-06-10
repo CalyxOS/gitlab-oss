@@ -77,18 +77,22 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Ninja Forms
     An open source drag-and-drop form builder for WordPress
     https://ninjaforms.com/
+    Ultimate
 
     ### CHVote
     CHVote is one of only two accredited electronic voting systems by the Federal Council in Switzerland.
     https://republique-et-canton-de-geneve.github.io/chvote-1-0
+    Ultimate
 
     ### Aurora OSS
     An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore (https://gitlab.com/AuroraOSS/AuroraStore)
     https://gitlab.com/AuroraOSS/
+    Ultimate
 
     ### Chakra Linux
     A community-developed GNU/Linux distribution with an emphasis on KDE and Qt technologies, utilizing a unique half-rolling release model that allows users to enjoy the latest versions of the Plasma desktop and their favorite applications on top of a periodically updated system core.
     https://www.chakralinux.org
+    Ultimate
 
     ### CiviCRM
     CiviCRM is a web-based Open Source contact relationship management (CRM) system. CiviCRM emphasizes communicating with individuals, community engagement, activism, outreach, managing contributions, and managing memberships.
