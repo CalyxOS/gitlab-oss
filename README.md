@@ -105,4 +105,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Spack
     Spack is a package manager for supercomputers, used by HPC centers and developers worldwide.
     https://gitlab.com/spack/spack
+
+    ### Alchemy Viewer
+    A client for SecondLife/OpenMetaverse protocol compatible virtual world platforms.
+    https://www.alchemyviewer.org
     Ultimate
