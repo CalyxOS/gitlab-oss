@@ -146,3 +146,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source ActivityPub utilizing microblogging and fiction platform.
     http://localtoast.net/
     Ultimate
+    
+    ### MathLibrary
+    A Kotlin library to assist you in Multivariable Calculus, Linear Algebra, Electrostatics, and Quantum Computing.
+    https://github.com/ethertyper/mathlibrary
+    Ultimate
