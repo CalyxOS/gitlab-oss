@@ -89,6 +89,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Chakra Linux
     A community-developed GNU/Linux distribution with an emphasis on KDE and Qt technologies, utilizing a unique half-rolling release model that allows users to enjoy the latest versions of the Plasma desktop and their favorite applications on top of a periodically updated system core.
     https://www.chakralinux.org
+
     ### CiviCRM
     CiviCRM is a web-based Open Source contact relationship management (CRM) system. CiviCRM emphasizes communicating with individuals, community engagement, activism, outreach, managing contributions, and managing memberships.
     https://civicrm.org/
