@@ -1,16 +1,10 @@
 # GitLab Ultimate or Gold for Open Source Projects
 
-We take our responsibility of open source stewardship very seriously
-(https://about.gitlab.com/2016/01/11/being-a-good-open-source-steward/ and https://about.gitlab.com/stewardship/).
+We take our responsibility of open source stewardship very seriously (https://about.gitlab.com/2016/01/11/being-a-good-open-source-steward/ and https://about.gitlab.com/stewardship/).
 
-GitLab exists today in large part thanks to the work of hundreds of thousands of open source contributors
-around the world. To give back to this community who gives us so much, we want to help teams be
-more efficient, secure, and productive. We believe the best way for them to achieve this is by
-using as many of the capabilities of GitLab as possible.
+GitLab exists today in large part thanks to the work of hundreds of thousands of open source contributors around the world. To give back to this community who gives us so much, we want to help teams be more efficient, secure, and productive. We believe the best way for them to achieve this is by using as many of the capabilities of GitLab as possible.
 
-It has already been the case for years that that any public project on GitLab.com gets all Gold features. We
-are happy to now offer a complimentary license to GitLab Ultimate (self-hosted) or subscription to GitLab
-Gold (SaaS) to all open source projects.
+It has already been the case for years that that any public project on GitLab.com gets all Gold features. We are happy to now offer a complimentary license to GitLab Ultimate (self-hosted) or subscription to GitLab Gold (SaaS) to all open source projects.
 
 ## Here's how to apply
 
@@ -34,7 +28,7 @@ To apply:
 - Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
 - Your project must not seek to make profit from the resulting project software.
 
-If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/). 
+If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/).
 If you're not sure if your project meets these requirements, please [contact our support team](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447) for help.
 
 We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will contact you.
