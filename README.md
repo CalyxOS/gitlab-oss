@@ -126,4 +126,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Personal Management System
     Personal Management System is a system used to showcase not only your own personal projects and accomplishments, but also serve as your resume and blog engine. A one stop shop for all your personal branding needs.
     https://repo.theoremforge.com/me/PMS
+
+    ### OpenAPI
+    Rest API for Puppet & Ansible
+    https://cyberox.org/rails/openapi
     Ultimate
