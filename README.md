@@ -73,3 +73,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source decentralized social network based on open web protocols.
     https://joinmastodon.org
     Ultimate
+    
+    ### OpenSCAD
+    OpenSCAD is a multi-platform solid 3D modeling tool (GPL)
+    http://openscad.org
+    Gold
+
