@@ -159,4 +159,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### CoCoMS - Construction Correspondence Management System
     CoCoMS is a simple Document Management System designed specifically for the management of correspondence generated during the execution of a construction project. CoCoMS is targeted at document controllers and key staff of a construction project.
     https://gitlab.com/chrmina/cocoms
+
+    ### lainradio.club
+    Lainradio.club is an open-source static website using Hugo as the generator. It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
+    https://lainradio.club
     Ultimate
