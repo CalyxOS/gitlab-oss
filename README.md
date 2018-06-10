@@ -141,3 +141,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://groovybot.xyz
     Ultimate
 
+    ### infoDisplay
+    infoDisplay is a telegram bot whose purpose is to have a screen which displays information (pictures or videos) at, for example, schools. I decided to develop it, because everyone in charge of it should be able to upload things to it from home too with a nice looking GUI and without the need to set up a server on ones own.
+    https://gitlab.com/liketechnik/infoDisplay
+    Gold
+
