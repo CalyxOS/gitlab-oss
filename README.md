@@ -83,4 +83,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Aurora OSS
     An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore (https://gitlab.com/AuroraOSS/AuroraStore)
     https://gitlab.com/AuroraOSS/
+    ### Chakra Linux
+    A community-developed GNU/Linux distribution with an emphasis on KDE and Qt technologies, utilizing a unique half-rolling release model that allows users to enjoy the latest versions of the Plasma desktop and their favorite applications on top of a periodically updated system core.
+    https://www.chakralinux.org
     Ultimate
