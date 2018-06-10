@@ -98,3 +98,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     CiviCRM is a web-based Open Source contact relationship management (CRM) system. CiviCRM emphasizes communicating with individuals, community engagement, activism, outreach, managing contributions, and managing memberships.
     https://civicrm.org/
     Ultimate
+
+    ### SECU
+    SЁCU is a service that allows you to send password protected self-destructing data packages. Thus the recipient will have to provide a password in order to open a package. And once it is opened, it will no longer be available.
+    https://secu.su/
+    Ultimate
