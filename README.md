@@ -77,4 +77,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Ninja Forms
     An open source drag-and-drop form builder for WordPress
     https://ninjaforms.com/
+    ### CHVote
+    CHVote is one of only two accredited electronic voting systems by the Federal Council in Switzerland.
+    https://republique-et-canton-de-geneve.github.io/chvote-1-0
     Ultimate
