@@ -49,9 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Minecordbot
-A powerful way to bridge Minecraft and Discord.
-https://minecordbot.cyr1en.com
-Ultimate
 
-
+    ### Minecordbot
+    A powerful way to bridge Minecraft and Discord.
+    https://minecordbot.cyr1en.com
+    Ultimate
