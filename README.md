@@ -169,3 +169,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A powerful way to bridge Minecraft and Discord.
     https://minecordbot.cyr1en.com
     Ultimate
+    
+    ### PisiLinux
+    Pisi Linux is an open source Linux operating system built around the KDE desktop environment and based on the  formaly Pardus Linux distribution.
+    https://www.pisilinux.org
+    Gold
