@@ -169,3 +169,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A powerful way to bridge Minecraft and Discord.
     https://minecordbot.cyr1en.com
     Ultimate
+
+    ### TatSu
+    竜 TatSu generates Python parsers from grammars in a variation of EBNF
+    https://gitlab.com/neogeny/TatSu
+    Gold
