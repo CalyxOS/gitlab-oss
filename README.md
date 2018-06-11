@@ -54,13 +54,4 @@ A powerful way to bridge Minecraft and Discord.
 https://minecordbot.cyr1en.com
 Ultimate
 
-### CommandPrompter
-Making commands more interactive.
-https://gitlab.com/CyR1en/CommandPrompter
-Ultimate
-
-### ExperiencedFlight
-Flights powered by experience.
-https://gitlab.com/CyR1en/ExperiencedFlight
-Ultimate
 
