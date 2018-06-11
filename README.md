@@ -160,4 +160,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### lainradio.club
     Lainradio.club is an open-source static website using Hugo as the generator. It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
     https://lainradio.club
+
+    ### OpenGAG
+    An alternative to 9gag. But 100% open source. Driven by the community a bit like this [awesome thing](https://gitlab.com/gitlab-org/gitlab-ce)
+    No url yet;
     Ultimate
