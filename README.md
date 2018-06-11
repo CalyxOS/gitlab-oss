@@ -161,3 +161,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Lainradio.club is an open-source static website using Hugo as the generator. It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
     https://lainradio.club
     Ultimate
+    
+    ### Gestures
+    A minimal Gtk+ GUI app for libinput-gestures (Linux touchpad gestures)
+    https://gitlab.com/cunidev/gestures
+    Ultimate
+
