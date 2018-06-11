@@ -43,6 +43,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
+    ### Augur
+    Augur is an open-source, decentralized, peer-to-peer oracle and prediction market platform built on the Ethereum blockchain.
+    https://www.augur.net/
+    Gold
+    
     ### GNU Mailman
     GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://gitlab.com/mailman) and Continuous Integration.
     https://list.org
