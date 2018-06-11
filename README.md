@@ -169,3 +169,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A powerful way to bridge Minecraft and Discord.
     https://minecordbot.cyr1en.com
     Ultimate
+
+    ### LogicForall: Categorical Syllogisms
+    Generates exercises, syllogisms, and propositions of categorical logic. The API can serve this and other educational resources. The UI emphasizes students and instructors to create a positive and accessible learning experience.
+    http://logicforall.org/
+    https://gitlab.com/momosa/categorical_syllogisms
+    Gold
