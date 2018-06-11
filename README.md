@@ -164,4 +164,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### OpenGAG
     An alternative to 9gag. But 100% open source. Driven by the community a bit like this [awesome thing](https://gitlab.com/gitlab-org/gitlab-ce)
     No url yet;
+
+    ### Minecordbot
+    A powerful way to bridge Minecraft and Discord.
+    https://minecordbot.cyr1en.com
     Ultimate
