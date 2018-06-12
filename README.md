@@ -51,7 +51,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ### Hamakor – An Israeli Society for Free Software and Open-Source Code (Registered Non Profit)
 
-We promote and assit in promoting open-source and free-software in Israel. As part of that, we hold monthly meetups where volunteers contribute to various open-source projects, as well as mentoring new comers to open-source.
+We promote and assist in promoting open-source and free-software in Israel. As part of that, we hold monthly meetups where volunteers contribute to various open-source projects, as well as mentoring new comers to open-source.
 
 https://www.hamakor.org.il/en/
 
