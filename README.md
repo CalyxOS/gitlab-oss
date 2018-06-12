@@ -169,3 +169,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A powerful way to bridge Minecraft and Discord.
     https://minecordbot.cyr1en.com
     Ultimate
+    
+    ### Open Motors
+    Develop a modular open source electric car platform (Hardware & Software) that enables businesses and startups to design, prototype, and build electric vehicles and transportation services.
+    https://openmotors.co
+    Ultimate
+
