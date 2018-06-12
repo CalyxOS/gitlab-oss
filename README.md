@@ -169,3 +169,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A powerful way to bridge Minecraft and Discord.
     https://minecordbot.cyr1en.com
     Ultimate
+
+    ### LeoFS
+    An Enterprise Open Source Storage. It is a highly available, distributed, eventually consistent object store.
+    https://leo-project.net/leofs/
+    Gold
