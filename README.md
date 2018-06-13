@@ -180,3 +180,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://openmotors.co
     Ultimate
 
+    ### Coinbot
+    Coinbot is a discord bot to check the price of many cryptocurrencies.
+    https://gitlab.com/Abolah/Coinbot
+    https://coinbot.ovh
+    Gold
+
