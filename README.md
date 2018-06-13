@@ -173,7 +173,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Atomix
     A reactive Java framework for building fault-tolerant distributed systems.
     http://atomix.io
-    Ultimate
+    Gold
     
     ### Open Motors
     Develop a modular open source electric car platform (Hardware & Software) that enables businesses and startups to design, prototype, and build electric vehicles and transportation services.
