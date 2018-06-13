@@ -180,3 +180,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://openmotors.co
     Ultimate
 
+
+    ### firma-cda
+    Clinical Documents Repository and Digital Signature using HL7-CDA and IHE-DSG standard for Ecuador Ministry of Health and any other Hospital or Health institution
+    https://gitlab.com/MSP_EC/firma-cda
+    Ultimate
