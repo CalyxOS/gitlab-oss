@@ -169,3 +169,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A powerful way to bridge Minecraft and Discord.
     https://minecordbot.cyr1en.com
     Ultimate
+
+    ### Atomix
+    A reactive Java framework for building fault-tolerant distributed systems.
+    http://atomix.io
+    Ultimate
