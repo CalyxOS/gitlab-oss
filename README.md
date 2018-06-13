@@ -180,3 +180,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://openmotors.co
     Ultimate
 
+    ### Identihub
+    Open Source Design software to host visual assets easily on a page and make it easier to share them in any format. AGPL Free Software.
+    https://identihub.co
+    Ultimate
+
