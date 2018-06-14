@@ -308,4 +308,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Freeradius Admin
     This project is a web GUI for a FreeRADIUS 3 server with a MySQL backend.
     https://freeradiusadmin-demo.junelsolis.com/
+
+    ### AzuraCast
+    A self-hosted, all-in-one, turnkey web radio management suite, including a powerful and intuitive web interface for managing every aspect of a web radio station.
+    https://azuracast.com
     Gold
