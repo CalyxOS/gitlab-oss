@@ -256,4 +256,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Aetherya
     Aetherya is an open-source moderation/utilitarian bot created for a Twitch streamer's Discord server. She tracks users joining, users leaving, users editing/deleting their messages, and has taken a large workload off the mod team.
     https://gitlab.com/TotallyAWeebDev/Aetherya
+
+    ### Mastalab
+    Mastalab is a multi-accounts Android client for Mastodon
+    https://tom79.bitbucket.io
     Gold
