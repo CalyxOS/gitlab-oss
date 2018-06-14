@@ -308,8 +308,4 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Freeradius Admin
     This project is a web GUI for a FreeRADIUS 3 server with a MySQL backend.
     https://freeradiusadmin-demo.junelsolis.com/
-
-    ### InactiveLockette
-    Bukkit plugin to allow removal of Lockette locks when owner is inactive, as they tend to clutter the server
-    http://dev.bukkit.org/bukkit-plugins/inactive-lockette/
     Gold
