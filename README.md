@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Pterodactyl
-Pterodactyl Panel is the free, open-source, game agnostic, self-hosted control panel for users, networks, and game service providers. Control all of your games from one unified interface.
-https://pterodactyl.io
-Gold
+
+    ### Pterodactyl
+    Pterodactyl Panel is the free, open-source, game agnostic, self-hosted control panel for users, networks, and game service providers. Control all of your games from one unified interface.
+    https://pterodactyl.io
+    Gold
