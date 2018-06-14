@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Robigalia
-A highly reliable, persistent capability OS built in rust on the seL4 microkernel.
-https://robigalia.org
-Gold
+
+    ### Robigalia
+    A highly reliable, persistent capability OS built in rust on the seL4 microkernel.
+    https://robigalia.org
+    Gold
