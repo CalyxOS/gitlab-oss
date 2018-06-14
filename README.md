@@ -435,4 +435,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Fairytale
     Community centric file archiver with state-of-the-art features (recompression, deduplication), giving the users all options from best speed to best compression
     https://github.com/schnaader/fairytale
+    
+    ### Zclassic Community Edition
+    An open source decentralized p2p permissionless public blockchain leveraging zk-SNARK technology through ZCL cryptocurrency to promote privacy & financial freedom.
+    https://zclassic-ce.org
     Gold
