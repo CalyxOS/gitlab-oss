@@ -215,3 +215,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Currently an open source site and CI pipeline using Hugo and PostCSS. Can be cloned and served locally. Project is for creating an automated CI pipeline for building and distributing Linux from source inside containers using a tiling window manager, like i3 or Sway.
     https://equalos.org
     Gold
+
+    ### pgjdbc
+    JDBC driver for PostgreSQL
+    jdbc.postgresql.org
+    Gold
