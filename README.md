@@ -236,3 +236,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
    Wownero is a fairly launched software fork of the privacy focused cryptocurrency Monero without a pre-mine. The project aims to implement experimental blockchain features while having fun as a meme coin.
    http://wownero.org
    Gold
+
+    ### coala
+    Linting and fixing code for all languages.
+    https://coala.io
+    Gold
