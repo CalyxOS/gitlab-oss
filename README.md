@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Homeless Intake Manager
-Web based software to manage homeless shelter intake and pantry use
-http://www.switchpointcrc.org/switchpoint_home.php
-Gold
+
+    ### Homeless Intake Manager
+    Web based software to manage homeless shelter intake and pantry use
+    http://www.switchpointcrc.org/switchpoint_home.php
+    Gold
