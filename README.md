@@ -244,4 +244,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Better With Mods
     A highly modular hardcore mod for Minecraft 
     https://betterwithmods.com
+
+    ### Pterodactyl
+    Pterodactyl Panel is the free, open-source, game agnostic, self-hosted control panel for users, networks, and game service providers. Control all of your games from one unified interface.
+    https://pterodactyl.io
     Gold
