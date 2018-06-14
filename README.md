@@ -289,4 +289,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### aGrUM
     aGrUM is a C++ library designed for easily building applications using graphical models such as Bayesian networks, influence diagrams, decision trees or Markov decision processes.
     http://agrum.gitlab.io
+
+    ### Cacophony
+    Cacophony is an open-source Discord Bot built using microservices for improved reliability and performance.
+    https://gitlab.com/Cacophony
     Gold
