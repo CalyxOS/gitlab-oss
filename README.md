@@ -281,4 +281,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Homeless Intake Manager
     Web based software to manage homeless shelter intake and pantry use
     http://www.switchpointcrc.org/switchpoint_home.php
+
+    ### Loopring Protocol
+    Loopring is a protocol for building decentralized exchanges. Besides the protocol smart-contracts, Loopring also offers a collection of open-sourced software to help you build decentralized exchanges.
+    https://loopring.org
     Gold
