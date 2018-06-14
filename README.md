@@ -296,4 +296,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Python Discord
     We're a large, friendly community focused around the Python programming language, open to those who wish to learn the language or improve their skills, as well as those looking to help others. We're a completely voluntary community of Python lovers, and we're passionate about helping our users learn.
     https://pythondiscord.com
+
+    ### NoSQLMap
+    Automated NoSQL database enumeration and web application exploitation tool for security professionals.
+    http://nosqlmap.net/
     Gold
