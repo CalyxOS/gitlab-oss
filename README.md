@@ -219,4 +219,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### pgjdbc
     JDBC driver for PostgreSQL
     jdbc.postgresql.org
+
+    ### CavApps
+    A standalone 'home' application that any Gamming clan can use to manage their community, along with plugin tooling and creation 
+    https://7cav.us
     Gold
