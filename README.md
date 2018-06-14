@@ -49,15 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### aGrUM
-aGrUM is a C++ library designed for easily building applications using graphical 
-models such as Bayesian networks, influence diagrams, decision trees or Markov 
-decision processes. It is written to provide the basic building blocks to perform the following 
-tasks :
-* graphical models learning/elicitation,
-* probabilistic inference with graphical models,
-* planification.
 
-http://agrum.gitlab.io
-
-Gold
+    ### aGrUM
+    aGrUM is a C++ library designed for easily building applications using graphical models such as Bayesian networks, influence diagrams, decision trees or Markov decision processes.
+    http://agrum.gitlab.io
+    Gold
