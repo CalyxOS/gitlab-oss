@@ -352,4 +352,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Joiner
     Joiner is a Java library which allows to create type-safe JPA queries
     https://gitlab.com/eencircled/Joiner
+
+    ### EOS Design System
+    The EOS Design System is an open source set of guidelines, elements, components, and layouts made to help developers deliver consistent user experience and interfaces, while they concentrate on what they do best: code.
+    http://eos-test.herokuapp.com/
     Gold
