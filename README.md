@@ -9,7 +9,7 @@ It has already been the case for years that that any public project on GitLab.co
 ## Here's how to apply
 
 1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
-1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimate or Gold](#open-source-projects-using-gitlab-ultimate-or-gold) 
+1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimate or Gold](#open-source-projects-using-gitlab-ultimate-or-gold)
 section at the bottom of this page (all lines required):
 
      ```
@@ -410,4 +410,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### TatSu
     竜 TatSu generates Python parsers from grammars in a variation of EBNF
     https://gitlab.com/neogeny/TatSu
+    Gold
+    ### LibreHealth
+    LibreHealth is a collaborative community for free & open source software projects in Health IT, and is a member project of Software Freedom Conservancy.
+    https://librehealth.io
     Gold
