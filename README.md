@@ -266,3 +266,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
    We release public information and make it easy for the public to meaningfully engage with the data, using open-source and free-software.
    http://www.hasadna.org.il/en/about/
    Gold
+    ### Hamakor
+    We promote and assist in promoting open-source and free-software in Israel. As part of that, we hold monthly meetups where volunteers contribute to various open-source projects, as well as mentoring new comers to open-source.
+    https://www.hamakor.org.il/en/
+    Gold
