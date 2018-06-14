@@ -49,8 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
- ### Loopring Protocol
-Loopring is a protocol for building decentralized exchanges. Besides the protocol smart-contracts, Loopring also offers a collection of open-sourced software to help you build decentralized exchanges.
-https://loopring.org
-Gold!
 
+    ### Loopring Protocol
+    Loopring is a protocol for building decentralized exchanges. Besides the protocol smart-contracts, Loopring also offers a collection of open-sourced software to help you build decentralized exchanges.
+    https://loopring.org
+    Gold
