@@ -273,4 +273,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Community Hass.io Add-ons for Home Assistant
     The primary goal of this project is to provide Hass.io / Home Assistant users with additional, high quality, add-ons that allow you to take their automated home to the next level.
     https://github.com/hassio-addons/repository/
+
+    ### JRebirth
+    JRebirth is a JavaFX Application Framework used to build efficient desktop applications. it contains some sample projects
+    http://www.jrebirth.org
     Gold
