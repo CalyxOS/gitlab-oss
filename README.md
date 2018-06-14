@@ -338,4 +338,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Robigalia
     A highly reliable, persistent capability OS built in rust on the seL4 microkernel.
     https://robigalia.org
+
+    ### emberclear
+    This project is for demonstrating the latest features of ember and eventually a learning playground for implementation of a private mesh network over the internet.  The application itself is totally encrypted p2p chat.
+    https://gitlab.com/NullVoxPopuli/emberclear
     Gold
