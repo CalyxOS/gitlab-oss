@@ -317,3 +317,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A Cross Linux from Scratch based Linux Distribution I am actively developing in my free time since July 2017
     https://gitlab.com/overflyer/ownlinux
     Gold
+    
+    ### LeafPic
+    An ad-free, open-source and material-designed android gallery alternative
+    https://gitlab.com/HoraApps/LeafPic
+    Gold
