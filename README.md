@@ -356,4 +356,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### EOS Design System
     The EOS Design System is an open source set of guidelines, elements, components, and layouts made to help developers deliver consistent user experience and interfaces, while they concentrate on what they do best: code.
     http://eos-test.herokuapp.com/
+
+    ### papirus-netapp
+    PaPiRus Netapp is a free script for Raspberry Pi's that uses the PaPiRus E-Paper display to carry out various network testing scripts
+    https://www.talktech.info
     Gold
