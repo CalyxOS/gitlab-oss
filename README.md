@@ -375,3 +375,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### CleverSheep
     An open source high level asynchronous testing framework
     Gold
+
+    ### GLPI
+    GLPI stands for Gestionnaire Libre de Parc Informatique is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.
+    http://glpi-project.org/
+    Gold
