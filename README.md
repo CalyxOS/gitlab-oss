@@ -393,4 +393,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Flowee
     Flowee is a Bitcoin Cash full node implementation that is made into a powerful hub. Flowee the Hub provides services to any developer that wants to connect to the Bitcoin network. Our slogan is "The shortest path to Bitcoin"
     http://flowee.org
+    ### LeoFS
+    An Enterprise Open Source Storage. It is a highly available, distributed, eventually consistent object store.
+    https://leo-project.net/leofs/
     Gold
