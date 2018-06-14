@@ -326,4 +326,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### PASSY
     Creating an open source password manager solution.
     https://passy.pw
+
+    ### Drupal Test Traits
+    Traits for testing Drupal sites that have user content (versus unpopulated sites).
+    https://gitlab.com/weitzman/drupal-test-traits
     Gold
