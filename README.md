@@ -420,3 +420,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/liketechnik/infoDisplay
     Gold
 
+    
+    ### Aurora Framework / Aurora Free Software
+    A Powerful General Purpose Framework / Free Software Collection
+    https://aurorafw.lsferreira.net/
+    Gold
