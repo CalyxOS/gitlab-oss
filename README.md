@@ -334,4 +334,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Board Summary For Trello Chrome Extension
     The Board Summary for Trello extension for Google Chrome retrieves and displays summary data for Trello boards, and allows for creating nested boards (i.e. cards that reference other boards).
     https://gitlab.com/aarongoldenthal/BoardSummaryForTrelloChromeExtension
+
+    ### Robigalia
+    A highly reliable, persistent capability OS built in rust on the seL4 microkernel.
+    https://robigalia.org
     Gold
