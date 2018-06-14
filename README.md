@@ -160,10 +160,12 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### lainradio.club
     Lainradio.club is an open-source static website using Hugo as the generator. It's purpose is to simply aggregate past [radio] events (usually bi-friday evenings) and other useful stuff.
     https://lainradio.club
+    Ultimate
 
     ### OpenGAG
     An alternative to 9gag. But 100% open source. Driven by the community a bit like this [awesome thing](https://gitlab.com/gitlab-org/gitlab-ce)
     No url yet;
+    Ultimate
 
     ### Minecordbot
     A powerful way to bridge Minecraft and Discord.
@@ -174,15 +176,17 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A reactive Java framework for building fault-tolerant distributed systems.
     http://atomix.io
     Gold
-    
+
     ### Open Motors
     Develop a modular open source electric car platform (Hardware & Software) that enables businesses and startups to design, prototype, and build electric vehicles and transportation services.
     https://openmotors.co
-    
+    Ultimate
+
     ### Gestures
     A minimal Gtk+ GUI app for libinput-gestures (Linux touchpad gestures)
     https://gitlab.com/cunidev/gestures
-    
+    Ultimate
+
     ### CacheRefs
     Open source module for Drupal 8 that provides advanced caching invalidations. We are also currently in the process of migrating our other opensource projects to this gitlab instance which include other drupal modules, docker images, alpine linux support for wkhtmltopdf with QT support
     https://git.alloylab.com/open-source/cacherefs
@@ -192,16 +196,18 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Nektar++ is a cross-platform open-source framework for the spectral/hp element method. It is designed to support the construction of efficient, high-performance scalable solvers for a wide range of partial differential equations (PDE) encompassing a number of scientific fields.
     https://www.nektar.info/
     Ultimate
+
     ### Identihub
     Open Source Design software to host visual assets easily on a page and make it easier to share them in any format. AGPL Free Software.
     https://identihub.co
     Ultimate
 
-
     ### firma-cda
     Clinical Documents Repository and Digital Signature using HL7-CDA and IHE-DSG standard for Ecuador Ministry of Health and any other Hospital or Health institution
     https://gitlab.com/MSP_EC/firma-cda
-	### Human Cell Atlas
-	To create comprehensive reference maps of all human cells—the fundamental units of life—as a basis for both understanding human health and diagnosing, monitoring, and treating disease.
+    Ultimate
+
+    ### Human Cell Atlas
+    To create comprehensive reference maps of all human cells—the fundamental units of life—as a basis for both understanding human health and diagnosing, monitoring, and treating disease.
     https://www.humancellatlas.org
     Ultimate
