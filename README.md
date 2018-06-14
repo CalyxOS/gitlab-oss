@@ -285,4 +285,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Loopring Protocol
     Loopring is a protocol for building decentralized exchanges. Besides the protocol smart-contracts, Loopring also offers a collection of open-sourced software to help you build decentralized exchanges.
     https://loopring.org
+
+    ### aGrUM
+    aGrUM is a C++ library designed for easily building applications using graphical models such as Bayesian networks, influence diagrams, decision trees or Markov decision processes.
+    http://agrum.gitlab.io
     Gold
