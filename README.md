@@ -49,8 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
- ### Mastalab
- Mastalab is a multi-accounts Android client for Mastodon
- https://tom79.bitbucket.io
- Gold
 
+    ### Mastalab
+    Mastalab is a multi-accounts Android client for Mastodon
+    https://tom79.bitbucket.io
+    Gold
