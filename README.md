@@ -348,3 +348,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://mryacha.github.io/OrangeFox-Site/
     Gold
 
+
+    ### Joiner
+    Joiner is a Java library which allows to create type-safe JPA queries
+    https://gitlab.com/eencircled/Joiner
+    Gold
