@@ -49,9 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-     ```
-     ### Validity
-     A browser extension for validating HTML.
-     https://www.validity.org.uk/
-     Gold
-     ```
+
+    ### Validity
+    A browser extension for validating HTML.
+    https://www.validity.org.uk/
+    Gold
