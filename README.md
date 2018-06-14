@@ -425,3 +425,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A Powerful General Purpose Framework / Free Software Collection
     https://aurorafw.lsferreira.net/
     Gold
+    
+    ### OpenSCAD
+    OpenSCAD is a multi-platform solid 3D modeling tool (GPL)
+    http://openscad.org
+    Gold
+
