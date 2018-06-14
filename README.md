@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Cacophony
-Cacophony is an open-source Discord Bot built using microservices for improved reliability and performance.
-https://gitlab.com/Cacophony
-Gold
+
+    ### Cacophony
+    Cacophony is an open-source Discord Bot built using microservices for improved reliability and performance.
+    https://gitlab.com/Cacophony
+    Gold
