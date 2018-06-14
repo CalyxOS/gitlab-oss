@@ -269,4 +269,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Hamakor
     We promote and assist in promoting open-source and free-software in Israel. As part of that, we hold monthly meetups where volunteers contribute to various open-source projects, as well as mentoring new comers to open-source.
     https://www.hamakor.org.il/en/
+
+    ### Community Hass.io Add-ons for Home Assistant
+    The primary goal of this project is to provide Hass.io / Home Assistant users with additional, high quality, add-ons that allow you to take their automated home to the next level.
+    https://github.com/hassio-addons/repository/
     Gold
