@@ -407,3 +407,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Pisi Linux is an open source Linux operating system built around the KDE desktop environment and based on the  formaly Pardus Linux distribution.
     https://www.pisilinux.org
     Gold
+    ### TatSu
+    竜 TatSu generates Python parsers from grammars in a variation of EBNF
+    https://gitlab.com/neogeny/TatSu
+    Gold
