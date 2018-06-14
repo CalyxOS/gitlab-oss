@@ -385,3 +385,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://coinbot.ovh
     Gold
 
+    
+    ### VerusCoin 
+    VerusCoin is a new, mineable and stakeable cryptocurrency. It is a live fork of Komodo that retains its Zcash lineage and improves it. 
+    VerusCoin leverages the Komodo platform and dPoW notarization for enhanced security and cross-chain interoperability.
+    https://veruscoin.io/
+    Gold
