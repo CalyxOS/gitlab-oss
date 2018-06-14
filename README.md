@@ -402,3 +402,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     http://logicforall.org/
     https://gitlab.com/momosa/categorical_syllogisms
     Gold
+    
+    ### PisiLinux
+    Pisi Linux is an open source Linux operating system built around the KDE desktop environment and based on the  formaly Pardus Linux distribution.
+    https://www.pisilinux.org
+    Gold
