@@ -240,4 +240,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### coala
     Linting and fixing code for all languages.
     https://coala.io
+
+    ### Better With Mods
+    A highly modular hardcore mod for Minecraft 
+    https://betterwithmods.com
     Gold
