@@ -367,3 +367,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://www.trinitycore.org/
     Gold
 
+    
+    ### Recultis
+    Return to the cult games. On Linux, with modern, open source engines.
+    https://makson.gitlab.io/Recultis/
+    Gold
