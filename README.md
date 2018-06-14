@@ -192,3 +192,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Nektar++ is a cross-platform open-source framework for the spectral/hp element method. It is designed to support the construction of efficient, high-performance scalable solvers for a wide range of partial differential equations (PDE) encompassing a number of scientific fields.
     https://www.nektar.info/
     Ultimate
+    ### Identihub
+    Open Source Design software to host visual assets easily on a page and make it easier to share them in any format. AGPL Free Software.
+    https://identihub.co
+    Ultimate
+
