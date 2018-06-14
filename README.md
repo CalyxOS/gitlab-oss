@@ -330,4 +330,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Drupal Test Traits
     Traits for testing Drupal sites that have user content (versus unpopulated sites).
     https://gitlab.com/weitzman/drupal-test-traits
+
+    ### Board Summary For Trello Chrome Extension
+    The Board Summary for Trello extension for Google Chrome retrieves and displays summary data for Trello boards, and allows for creating nested boards (i.e. cards that reference other boards).
+    https://gitlab.com/aarongoldenthal/BoardSummaryForTrelloChromeExtension
     Gold
