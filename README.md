@@ -293,4 +293,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Cacophony
     Cacophony is an open-source Discord Bot built using microservices for improved reliability and performance.
     https://gitlab.com/Cacophony
+    ### Python Discord
+    We're a large, friendly community focused around the Python programming language, open to those who wish to learn the language or improve their skills, as well as those looking to help others. We're a completely voluntary community of Python lovers, and we're passionate about helping our users learn.
+    https://pythondiscord.com
     Gold
