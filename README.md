@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### NoSQLMap
-Automated NoSQL database enumeration and web application exploitation tool for security professionals.
-http://nosqlmap.net/
-Gold
+
+    ### NoSQLMap
+    Automated NoSQL database enumeration and web application exploitation tool for security professionals.
+    http://nosqlmap.net/
+    Gold
