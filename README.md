@@ -211,3 +211,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     To create comprehensive reference maps of all human cells—the fundamental units of life—as a basis for both understanding human health and diagnosing, monitoring, and treating disease.
     https://www.humancellatlas.org
     Ultimate
+    ### equalOS
+    Currently an open source site and CI pipeline using Hugo and PostCSS. Can be cloned and served locally. Project is for creating an automated CI pipeline for building and distributing Linux from source inside containers using a tiling window manager, like i3 or Sway.
+    https://equalos.org
+    Gold
