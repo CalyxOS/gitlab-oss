@@ -371,4 +371,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Recultis
     Return to the cult games. On Linux, with modern, open source engines.
     https://makson.gitlab.io/Recultis/
+    
+    ### CleverSheep
+    An open source high level asynchronous testing framework
     Gold
