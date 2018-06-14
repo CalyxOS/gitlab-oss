@@ -479,4 +479,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Augur
     Augur is an open-source, decentralized, peer-to-peer oracle and prediction market platform built on the Ethereum blockchain.
     https://www.augur.net/
+
+    ### HolyDragon Project
+    An open source android based fork of OmniROM for OnePlus and other devices
+    https://gitlab.com/HolyDragonProject/android
     Gold
