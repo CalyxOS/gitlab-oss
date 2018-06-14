@@ -49,8 +49,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Arctic Engine
-Arctic Engine is an open-source free game engine released under the MIT license. Arctic Engine is implemented in C++ and focuses on simplicity. Many developers have forgotten exactly why it is that we make games. It's joyless, disillusioning and discouraging for them. In the 80's and 90's it was possible for a programmer to make a game alone and it was Fun. Arctic Engine returns the power to the C++ programmer and makes game development fun again.
-https://gitlab.com/huldra/arctic
-Gold
-
+    ### Arctic Engine
+    Arctic Engine is an open-source free game engine released under the MIT license. Arctic Engine is implemented in C++ and focuses on simplicity. Many developers have forgotten exactly why it is that we make games. It's joyless, disillusioning and discouraging for them. In the 80's and 90's it was possible for a programmer to make a game alone and it was Fun. Arctic Engine returns the power to the C++ programmer and makes game development fun again.
+    https://gitlab.com/huldra/arctic
+    Gold
