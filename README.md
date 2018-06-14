@@ -439,4 +439,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Zclassic Community Edition
     An open source decentralized p2p permissionless public blockchain leveraging zk-SNARK technology through ZCL cryptocurrency to promote privacy & financial freedom.
     https://zclassic-ce.org
+    ### Augur
+    Augur is an open-source, decentralized, peer-to-peer oracle and prediction market platform built on the Ethereum blockchain.
+    https://www.augur.net/
     Gold
