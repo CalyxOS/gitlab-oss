@@ -261,3 +261,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Mastalab is a multi-accounts Android client for Mastodon
     https://tom79.bitbucket.io
     Gold
+
+   ### Hasadna - The Public Knowledge Workshop
+   We release public information and make it easy for the public to meaningfully engage with the data, using open-source and free-software.
+   http://www.hasadna.org.il/en/about/
+   Gold
