@@ -49,14 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### emberclear
 
-This project is for demonstrating the latest features of ember 
-and eventually a learning playground for implementation of a private 
-mesh network over the internet.  The application itself is totally
-encrypted p2p chat.
-
-https://gitlab.com/NullVoxPopuli/emberclear
-
-Gold
-
+    ### emberclear
+    This project is for demonstrating the latest features of ember and eventually a learning playground for implementation of a private mesh network over the internet.  The application itself is totally encrypted p2p chat.
+    https://gitlab.com/NullVoxPopuli/emberclear
+    Gold
