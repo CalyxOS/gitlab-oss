@@ -304,4 +304,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### OmniROM
     OmniROM is a Android custom ROM variant.
     https://www.omnirom.org
+
+    ### Freeradius Admin
+    This project is a web GUI for a FreeRADIUS 3 server with a MySQL backend.
+    https://freeradiusadmin-demo.junelsolis.com/
     Gold
