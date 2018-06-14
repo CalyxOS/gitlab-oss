@@ -227,3 +227,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Arctic Engine is an open-source free game engine released under the MIT license. Arctic Engine is implemented in C++ and focuses on simplicity. Many developers have forgotten exactly why it is that we make games. It's joyless, disillusioning and discouraging for them. In the 80's and 90's it was possible for a programmer to make a game alone and it was Fun. Arctic Engine returns the power to the C++ programmer and makes game development fun again.
     https://gitlab.com/huldra/arctic
     Gold
+
+    ### GLPI
+    GLPI stands for Gestionnaire Libre de Parc Informatique is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.
+    http://glpi-project.org/
+    Gold
