@@ -188,3 +188,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://git.alloylab.com/open-source/cacherefs
     Ultimate
 
+    ### Nektar++
+    Nektar++ is a cross-platform open-source framework for the spectral/hp element method. It is designed to support the construction of efficient, high-performance scalable solvers for a wide range of partial differential equations (PDE) encompassing a number of scientific fields.
+    https://www.nektar.info/
+    Ultimate
