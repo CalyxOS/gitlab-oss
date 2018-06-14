@@ -49,9 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-Project Name: pgjdbc
-JDBC driver for PostgreSQL
-Gitlab Gold
-License: PostgreSQL license
 
-
+    ### pgjdbc
+    JDBC driver for PostgreSQL
+    jdbc.postgresql.org
+    Gold
