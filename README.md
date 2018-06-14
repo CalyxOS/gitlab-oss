@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Community Hass.io Add-ons for Home Assistant
-The primary goal of this project is to provide Hass.io / Home Assistant users with additional, high quality, add-ons that allow you to take their automated home to the next level.
-https://github.com/hassio-addons/repository/
-Gold
+
+    ### Community Hass.io Add-ons for Home Assistant
+    The primary goal of this project is to provide Hass.io / Home Assistant users with additional, high quality, add-ons that allow you to take their automated home to the next level.
+    https://github.com/hassio-addons/repository/
+    Gold
