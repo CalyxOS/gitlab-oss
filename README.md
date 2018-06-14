@@ -49,7 +49,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
 ## Open source projects using GitLab Ultimate or Gold
 
-### Drupal Test Traits
- Traits for testing Drupal sites that have user content (versus unpopulated sites).
- https://gitlab.com/weitzman/drupal-test-traits
- Gold
+
+    ### Drupal Test Traits
+    Traits for testing Drupal sites that have user content (versus unpopulated sites).
+    https://gitlab.com/weitzman/drupal-test-traits
+    Gold
