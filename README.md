@@ -484,3 +484,168 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Gitlab server EMBL-EBI
+    Gitlab server hosting Open Spurce project from EMBL-EBI
+    https://gitlabci.ebi.ac.uk or https://gitlab.ebi.ac.uk
+    Ultimate
+    
+    ### ArrayExpress
+MIAME-standard compliant resource that stores functional genomics experiments performed using RNA-Seq/ChIP-Seq and array-based technologies
+https://www.ebi.ac.uk/arrayexpress
+ultimate
+### BioModels
+BioModels is a database of published mathematical models describing biological processes.
+https://www.ebi.ac.uk/biomodels
+ultimate
+### BioSamples
+The BioSamples database aggregates sample information for reference samples (e.g. Coriell Cell lines) and samples for which data exist in one of the EBI's assay databases, such as ArrayExpress, the European Nucleotide Archive or Proteomics Identificates Database.
+https://www.ebi.ac.uk/biosamples
+ultimate
+### BioStudies
+The BioStudies database holds descriptions of biological studies, links to data from these studies in other databases at EMBL-EBI or outside, as well as data that do not fit in the structured archives at EMBL-EBI."
+https://www.ebi.ac.uk/biostudies
+ultimate
+### Chemical Entitites of Biological Interest
+ChEBI (Chemical Entities of Biological Interest) is a dictionary of small molecular entities. It is manually annotated and provides a chemistry ontology to describe small molecules, including their biological and chemical roles.
+https://www.ebi.ac.uk/chebi
+ultimate
+### ChEMBL
+ChEMBL is a database of bioactive compounds that focuses on interactions between small molecules and their macromolecular targets, including medicinal chemistry, clinical development and therapeutics data."
+https://www.ebi.ac.uk/chembl
+ultimate
+### Complex Portal
+The Complex Portal is a manually curated, encyclopaedic resource of macromolecular complexes from a number of key model organisms. All data is freely available for search and download.
+https://www.ebi.ac.uk/complexportal
+ultimate
+### EBI Metagenomics
+The Metagenomics portal is an automated pipeline for the analysis and archiving of metagenomic data.
+https://www.ebi.ac.uk/metagenomics
+ultimate
+### EBI Search
+High performance text search engine specifically design for biological and biomedical data
+https://www.ebi.ac.uk/ebisearch
+ultimate
+### Experimental Factor Ontology
+The Experimental Factor Ontology (EFO) provides a systematic description of many experimental variables available in EBI databases, and for external projects such as the NHGRI GWAS catalog. It combines parts of several biological ontologies, such as UBERON anatomy, ChEBI chemical compounds, and Cell Ontology.
+https://www.ebi.ac.uk/efo
+ultimate
+### European Genome-phenome Archive
+The European Genome-phenome Archive (EGA) allows users to explore datasets from numerous genotype experiments-including case-control, population and family studies-that are supplied by a range of data providers.
+https://www.ebi.ac.uk/ega
+ultimate
+### Electron Microscopy Data Bank
+The Electron Microscopy Data Bank (EMDB) is a public repository for electron microscopy density maps of macromolecular complexes and subcellular structures. It covers a variety of techniques, including single-particle analysis, electron tomography, and electron (2D) crystallography.
+https://www.ebi.ac.uk/emdb
+ultimate
+### Electron Microscopy Public Image Archive
+EMPIAR, the Electron Microscopy Public Image Archive, is a public resource for raw, 2D electron microscopy images. Here, you can browse, upload, download and reprocess the thousands of raw, 2D images used to build a 3D structure
+https://www.ebi.ac.uk/empiar
+ultimate
+### European Nucleotide Archive
+The European Nucleotide Archive (ENA), a member of the International Nucleotide Sequence Database Collaboration, contains all the nucleotide sequences in the public domain and consolidates data from EMBL-Bank, the European Trace Archive and the Sequence Read Archive.
+https://www.ebi.ac.uk/ena
+ultimate
+### Ensembl Curated annotation on selected eukaryotic genomes.
+https://www.ensembl.org
+ultimate
+### Ensembl Genomes
+Ensembl Genomes is a portal providing access to genome-scale data from bacteria, protists, fungi, plants and invertebrate metazoa, through a unified set of interactive and programmatic interfaces based on the Ensembl software platform.
+https://www.ensemblgenomes.org
+ultimate
+### Enzyme Portal
+The Enzyme Portal integrates publicly available information from: the UniProt Knowledgebase; the Protein Data Bank in Europe; Rhea, a database of enzyme-catalyzed reactions; Reactome; IntEnz, a resource with enzyme nomenclature information; ChEBI; ChEMBL; Cofactor and MACiE.
+https://www.ebi.ac.uk/ensymeportal
+ultimate
+### EuropePMC
+Europe PubMedCentral (EuropePMC) contains over 2 million full text life science research articles, of which around 400 000 are open access. It incorporates CiteXplore content and functions to provide integrated text-mining tools as well as grant-reporting services.
+http://www.europepmc.org
+ultimate
+### European Variation Archive,The European Variation Archive is an open-access database of all types of genetic variation data from all species.
+https://www.ebi.ac.uk/eva
+ultimate
+### Expression Atlas
+The Expression Atlas allows users to search for gene expression changes measured in various cell types, organism parts, and disease states. It represents a curated subset of the ArrayExpress Achive experiments.
+https://www.ebi.ac.uk/gxa
+ultimate
+### The Gene Ontology
+The Gene Ontology (GO) provides a controlled vocabulary to describe gene and gene product attributes in any organism.
+https://www.ebi.ac.uk/goa
+ultimate
+### NHGRI-EBI Catalog of published genome-wide association studies
+The Catalog is a quality controlled, manually curated, literature-derived collection of all published genome-wide association studies assaying at least 100,000 SNPs and all SNP-trait associations with p-values < 1.0 x 10-5 (Hindorff et al., 2009).
+https://www.ebi.ac.uk/gwas
+ultimate
+### HGNC
+HGNC is responsible for approving unique symbols and names for human loci, including protein coding genes, ncRNA genes and pseudogenes, to allow unambiguous scientific communication.
+https://www.genenames.org
+ultimate
+### Identifiers.org
+Identifiers.org is a system providing resolvable persistent URIs used to identify data for the scientific community, with a current focus on the Life Sciences domain.
+https://www.identifiers.org
+ultimate
+### International Genome Sample Resource/1000 Genomes
+The International Genome Sample Resource (IGSR) was established to ensure the ongoing usability of data generated by the 1000 Genomes Project and to extend the data set. The goal of the 1000 Genomes Project was to find most genetic variants with frequencies of at least 1% in the populations studied.
+http://www.1000genomes.org
+ultimate
+### IntAct
+IntAct provides a freely available, open source database system and analysis tools for molecular interaction data.
+https://www.ebi.ac.uk/intact
+ultimate
+### IntEnz
+IntEnz is a database of enzyme nomenclature that also provides enzyme classifications based on the nature of catalysed reactions. IntEnz is produced in collaboration with the SIB Swiss Institute of Bioinformatics.
+https://www.ebi.ac.uk/intenz
+ultimate
+### InterPro
+Classifies proteins into families and predicts the presence of important domains and sites
+https://www.ebi.ac.uk/interpro
+ultimate
+### MetaboLights
+MetaboLights is a database for metabolomics experiments and derived information.
+https://www.ebi.ac.uk/metabolights
+ultimate
+### IMPC
+The International Mouse Phenotyping Consortium (IMPC) is an international scientific endeavour to create and characterize the phenotype of 20,000 knockout mouse strains.
+https://www.ebi.ac.uk/impc
+ultimate
+### OLS
+The Ontology Lookup Service provides a web service interface to query multiple ontologies from a single location with a unified output fromat.
+https://www.ebi.ac.uk/ols
+ultimate
+### Protein Databank in Europe
+The Protein Data Bank in Europe (PDBe) is the European part of the wwPDB for the collection, organisation and dissemination of data on biological macromolecular structures.
+https://www.ebi.ac.uk/pdbe
+ultimate
+### Pfam
+Pfam is a large collection of protein families represented by multiple sequence alignments and hidden Markov models.
+https://pfam.xfam.org
+ultimate
+### PRIDE
+PRIDE (The Proteomics Identifications Database) is a standards-compliant, public repository for proteomics data. It contains protein and peptide identifications and their associated supporting evidence.
+https://www.ebi.ac.uk/pride
+ultimate
+### Reactome
+Database of human biological pathways built from connected reactions that encompass all biological events as well as classical biochemical events.
+https://www.reactome.org
+ultimate
+### Rfam
+The Rfam database is a collection of RNA families, each represented by multiple sequence alignments, consensus secondary structures and covariance models.
+https://rfam.xfam.org
+ultimate
+### RNAcentral 
+RNAcentral is a public resource that offers integrated access to a comprehensive and up-to-date set of non-coding RNA sequences provided by a collaborating group of Expert Databases.
+https://www.rnacentral.org
+ultimate
+### SureChEMBL
+SureChEMBL is a publicly available large-scale resource containing compounds extracted from the full text, images and attachments of patent documents.
+https://www.surechembl.org/search/
+ultimate
+### UniChem
+UniChem is a very simple, large-scale non-redundant database of pointers between chemical structures and EMBL-EBI chemistry resources.
+https://www.ebi.ac.uk/unichem
+ultimate
+### Universal Protein Resource
+Curated annotation of publicly available portein sequences
+https://www.uniprot.org
+ultimate
+
