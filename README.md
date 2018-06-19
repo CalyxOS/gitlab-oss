@@ -484,3 +484,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+
+    ### nikita-noark5-core
+    The Oslo Metropolitan University implementation of the Norwegian recordkeeping standard Noark
+    https://gitlab.com/OsloMet-ABI/nikita-noark5-core
+    Gold
+
+    
