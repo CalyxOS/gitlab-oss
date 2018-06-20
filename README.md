@@ -484,3 +484,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Project Yaotsu
+    Project Yaotsu is an open source framework for computer architecture simulation
+    https://gitlab.com/yaotsu
+    Gold
