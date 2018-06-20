@@ -484,3 +484,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+
+    ### NTPsec
+    Secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic, Dave Mills’s original.
+    https://gitlab.com/NTPsec/ntpsec
+    Gold
