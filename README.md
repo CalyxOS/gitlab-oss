@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+
+    ### FWUL
+    FWUL - the most reliable adb/fastboot live system ever - to manage ANY Android without driver hassle
+    https://code.binbash.it:8443/Carbon-Fusion/build_fwul  (details: http://bit.do/FWULatXDA)
+    Ultimate
