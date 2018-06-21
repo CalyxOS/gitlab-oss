@@ -20,6 +20,7 @@ section at the bottom of this page (all lines required):
      ```
 
 1.   Commit your changes to a new branch and start a new Merge Request.
+1.   Fill out the form at https://about.gitlab.com/open-source/
 
 ## Requirements
 
