@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### VoxelGamesLib
+    An open source framework to expand the game Minecraft with simple to complex mini games, promoting the use of modularity and enabling content creators without developer knowledge to customize existing or create new minigames by using a data driven approach.   
+    https://voxelgameslib.com/docs/ and https://github.com/VoxelGamesLib/VoxelGamesLibv2/
+    Ultimate
