@@ -485,3 +485,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Project name
+    A python package to easy acess of brazilian meteorological sites data
+    https://gitlab.com/sehnem/pynmet
+    Gold
+
