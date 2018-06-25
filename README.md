@@ -485,3 +485,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Hyper-Expanse
+    Project scaffolding and release tools to streamline the release process through automation.
+    https://gitlab.com/hyper-expanse/open-source
+    Gold
+
