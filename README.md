@@ -19,7 +19,7 @@ section at the bottom of this page (all lines required):
      Ultimate or Gold?
      ```
 
-1.   Commit your changes to a new branch and start a new Merge Request.
+1.   Commit your changes to a new fork and start a new Merge Request.
 1.   Fill out the form at https://about.gitlab.com/open-source/
 
 ## Requirements
