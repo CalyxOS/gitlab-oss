@@ -485,3 +485,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Open Cloud Platform
+    An open source cloud platform to automate & orchrestrate hybrid cloud and containers. providing IaaS for container for open source & entreprenures.
+    https://stackhatch.org
+    Gold
+    
