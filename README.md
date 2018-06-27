@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### GieselaDev 
+    We're passionate about open-source projects, and love developing intuitive, clean applications ranging from audio to user management - mainly for the Discord platform.
+    http://gitlab.giesela.io
+    Ultimate
