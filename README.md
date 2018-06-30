@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+
+    ### Free Software Mirror Group
+    The Free Software Mirror Group is a New Zealand based organisation that provides local mirroring of free software. Our goal is to provide official, high quality, outage free mirroring to New Zealand and the Pacific Islands.
+    https://fsmg.org.nz/
+    Gold
