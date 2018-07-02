@@ -487,6 +487,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Gold
     
     ### UBports
-    Developer and Mantainer of mobile operative system Ubuntu touch and the Unity8 desktop enviroment stack
+    Developer and Mantainer of mobile operative system Ubuntu touch and the Unity8 desktop environment stack
     http://ubports.com/
     Gold
