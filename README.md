@@ -526,3 +526,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     http://connectors.orbitalbus.com/
     Gold
     
+
+    ### Parity
+    Blockchain clients (Bitcoin, Ethereum, Polkadot), written in Rust
+    https://github.com/paritytech
+    Ultimate
