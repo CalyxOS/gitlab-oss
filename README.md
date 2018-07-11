@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+
+    ### USSRM
+    Minecraft server software written entirely in Rust, making Minecraft fast and easy to use so that you don't have to. Dubbed the United Soviet Repositories of Minecraft.
+    https://gitlab.com/USSRM
+    Gold
