@@ -47,7 +47,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### GNU Mailman
     GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://gitlab.com/mailman) and Continuous Integration.
     https://list.org
-    Ultimate
+    Gold
 
     ### Manjaro Linux
     Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. We use Gitlab for all our [development](https://gitlab.manjaro.org) and Continuous Integration.
