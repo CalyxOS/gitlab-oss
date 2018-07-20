@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+
+    ### LAVA Software Project
+    LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running tests.
+    https://www.linaro.org/initiatives/lava/
+    Ultimate
