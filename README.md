@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Fly Delta Virtual: Open Source Projects (OSP)
+    Open sourced, community built projects for the phpVMS platform.
+    https://gitlab.com/flydeltavirtual/osp
+    Ultimate
