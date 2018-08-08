@@ -485,3 +485,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Machinecoin Project
+    Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
+    https://machinecoin.io
+    Ultimate
+
