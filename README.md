@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Unnamed Arma Group
+    We are an active group of modders for Bohemia Interactive's Arma franchise, all of our work is open-source and available to the community.
+    https://gitlab.com/uag
+    Gold
