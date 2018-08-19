@@ -485,3 +485,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
+    
+    ### Zest Kernel Projecc
+    Custom Linux kernels for various Android devices
+    https://gitlab.com/ZKP
+    Gold
