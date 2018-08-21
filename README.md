@@ -569,3 +569,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://tygercaddy.com
     Ultimate
 
+### Gibberfish
+Gibberfish provides free software tools to activists
+https://gibberfish.org
+Gold
