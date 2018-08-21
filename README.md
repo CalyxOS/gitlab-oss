@@ -573,3 +573,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 Gibberfish provides free software tools to activists
 https://gibberfish.org
 Gold
+
+    ### Pleio
+    Pleio is an open source collaboration platform for governments.
+    https://www.pleio.nl
+    Gold
