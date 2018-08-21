@@ -526,3 +526,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     http://connectors.orbitalbus.com/
     Gold
     
+    ### Sandwich Cloud
+    An open source VMWare orchestration system that adds public cloud like features to traditional VMWare vCenter deployments.
+    https://github.com/sandwichcloud
+    Gold
