@@ -491,3 +491,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/hyper-expanse/open-source
     Gold
 
+    ### Open Cloud Platform
+    An open source cloud platform to automate & orchrestrate hybrid cloud and containers. providing IaaS for container for open source & entreprenures.
+    https://stackhatch.org
+    Gold
+    
