@@ -496,3 +496,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://stackhatch.org
     Gold
     
+    ### GieselaDev 
+    We're passionate about open-source projects, and love developing intuitive, clean applications ranging from audio to user management - mainly for the Discord platform.
+    http://gitlab.giesela.io
+    Ultimate
