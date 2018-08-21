@@ -500,3 +500,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     We're passionate about open-source projects, and love developing intuitive, clean applications ranging from audio to user management - mainly for the Discord platform.
     http://gitlab.giesela.io
     Ultimate
+
+    ### Free Software Mirror Group
+    The Free Software Mirror Group is a New Zealand based organisation that provides local mirroring of free software. Our goal is to provide official, high quality, outage free mirroring to New Zealand and the Pacific Islands.
+    https://fsmg.org.nz/
+    Gold
