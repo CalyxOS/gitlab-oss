@@ -540,3 +540,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     The de-facto Jenkins plugin providing integration with GitLab.
     https://github.com/jenkinsci/gitlab-plugin
     Ultimate
+    ### Glucosio
+    Glucosio is an open source project dedicated to bringing open source apps to smartphone, desktop and web in order to help people with diabetes improve their health outcomes by better self-management of their disease. 
+    https://www.glucosio.org
+    Ultimate
+
