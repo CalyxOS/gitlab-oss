@@ -488,7 +488,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     
     ### Budgt
     Helping you plan and keep track of your budget.
-    No project homepage yet.
+    https://gitlab.pahofmann.com/pahofmann/budget
     Ultimate
 
 
