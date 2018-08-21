@@ -554,3 +554,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Blockchain clients (Bitcoin, Ethereum, Polkadot), written in Rust
     https://github.com/paritytech
     Ultimate
+
+    ### USSRM
+    Minecraft server software written entirely in Rust, making Minecraft fast and easy to use so that you don't have to. Dubbed the United Soviet Repositories of Minecraft.
+    https://gitlab.com/USSRM
+    Gold
