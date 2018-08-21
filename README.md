@@ -549,3 +549,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Developer and Mantainer of mobile operative system Ubuntu touch and the Unity8 desktop environment stack
     http://ubports.com/
     Gold
+
+    ### Parity
+    Blockchain clients (Bitcoin, Ethereum, Polkadot), written in Rust
+    https://github.com/paritytech
+    Ultimate
