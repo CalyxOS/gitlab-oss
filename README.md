@@ -530,3 +530,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source VMWare orchestration system that adds public cloud like features to traditional VMWare vCenter deployments.
     https://github.com/sandwichcloud
     Gold
+    
+    ### Screencam screen recorder
+    Android app to record screen using native API and without root
+    https://gitlab.com/vijai/screenrecorder
+    Gold
