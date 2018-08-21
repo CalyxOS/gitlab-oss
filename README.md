@@ -505,3 +505,24 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     The Free Software Mirror Group is a New Zealand based organisation that provides local mirroring of free software. Our goal is to provide official, high quality, outage free mirroring to New Zealand and the Pacific Islands.
     https://fsmg.org.nz/
     Gold
+
+    ### Orbital Bus
+    Orbital Bus is an enterprise service bus project that is mesh-based rather than hub-and-spoke. It seeks to enable enterprises to explore the possibilities of ESB without worrying about licensing costs and with a language-agnostic approach.
+    http://orbitalbus.com/
+    Gold
+
+    ### Orbital CodeGeneration
+    The Orbital Code Generation project is a companion for the Orbital Bus project. It is used to generate components that work with the receiver for consumer services.
+    http://codegeneration.orbitalbus.com/
+    Gold
+
+    ### Orbital Adapters
+    One of the essential components for the Orbital Bus are Adapters. The adapters allow the receiver to communicate to consumers over different protocols, databases, or file systems. Over time more Orbital Adapters will appear for more protocols, databases, and file systems.
+    http://adapters.orbitalbus.com/
+    Gold
+
+    ### Orbital Connectors
+    Orbital Connector is a term we use to refer to the integration library used by producers to send messages to the Receiver. The Connector also handles any response, fault, or timeout received in return. Over time more Orbital Connectors will appear for more languages.
+    http://connectors.orbitalbus.com/
+    Gold
+    
