@@ -578,3 +578,8 @@ Gold
     Pleio is an open source collaboration platform for governments.
     https://www.pleio.nl
     Gold
+    ### Machinecoin Project
+    Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
+    https://machinecoin.io
+    Ultimate
+
