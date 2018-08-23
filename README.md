@@ -540,6 +540,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     The de-facto Jenkins plugin providing integration with GitLab.
     https://github.com/jenkinsci/gitlab-plugin
     Ultimate
+    
     ### Glucosio
     Glucosio is an open source project dedicated to bringing open source apps to smartphone, desktop and web in order to help people with diabetes improve their health outcomes by better self-management of their disease. 
     https://www.glucosio.org
@@ -564,22 +565,29 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running tests.
     https://www.linaro.org/initiatives/lava/
     Ultimate
+    
     ### TygerCaddy
     A Python based reverse proxy app with Web GUI
     https://tygercaddy.com
     Ultimate
 
-### Gibberfish
-Gibberfish provides free software tools to activists
-https://gibberfish.org
-Gold
+    ### Gibberfish
+    Gibberfish provides free software tools to activists
+    https://gibberfish.org
+    Gold
 
     ### Pleio
     Pleio is an open source collaboration platform for governments.
     https://www.pleio.nl
     Gold
+    
     ### Machinecoin Project
     Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
     https://machinecoin.io
+    Ultimate
+    
+    ### TaxonWorks
+    TaxonWorks is an open-source workbench for those studying the Earth's Biodiversity.
+    http://taxonworks.org
     Ultimate
 
