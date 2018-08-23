@@ -582,4 +582,9 @@ Gold
     Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
     https://machinecoin.io
     Ultimate
+    
+    ### Zamphyr
+    Open and free school platform for School 2.0
+    https://zamphyr.com
+    Gold
 
