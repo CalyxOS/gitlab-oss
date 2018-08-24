@@ -582,4 +582,9 @@ Gold
     Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
     https://machinecoin.io
     Ultimate
+    ### Autosubmit
+    Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
+    https://earth.bsc.es/gitlab/es/autosubmit
+    Ultimate    
+    
 
