@@ -583,3 +583,8 @@ Gold
     https://machinecoin.io
     Ultimate
 
+	### WarEmu
+	A Warhammer Online Emulator 1.4.8
+	https://github.com/WarEmu/WarEmu
+	Ultimate
+
