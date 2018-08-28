@@ -583,3 +583,8 @@ Gold
     https://machinecoin.io
     Ultimate
 
+    ### MyBB
+    MyBB is a free and open source, community-based forum software project.
+    https://mybb.com/
+    Gold
+
