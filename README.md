@@ -568,6 +568,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A Python based reverse proxy app with Web GUI
     https://tygercaddy.com
     Ultimate
+    ### Free Speedway Manager
+    Free Speedway Manager, simple speedway sport manager game, python, pyqt.
+    https://gitlab.com/freesm/freesm
+    Ultimate
+
 
 ### Gibberfish
 Gibberfish provides free software tools to activists
