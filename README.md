@@ -627,10 +627,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/uag
     Gold
 
-	  ### WarEmu
-	  A Warhammer Online Emulator 1.4.8
-	  https://github.com/WarEmu/WarEmu
-	  Ultimate
+    ### WarEmu
+    A Warhammer Online Emulator 1.4.8
+    https://github.com/WarEmu/WarEmu
+    Ultimate
 
     ### Autosubmit
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
