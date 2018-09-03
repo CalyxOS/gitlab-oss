@@ -604,3 +604,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Custom Linux kernels for various Android devices
     https://gitlab.com/ZKP
     Gold
+    ### Unnamed Arma Group
+    We are an active group of modders for Bohemia Interactive's Arma franchise, all of our work is open-source and available to the community.
+    https://gitlab.com/uag
+    Gold
