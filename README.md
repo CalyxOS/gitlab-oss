@@ -575,6 +575,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Hunter 2 is a platform for running puzzle hunts
     https://gitlab.com/hunter2.app/hunter2
     Gold
+    ### Free Speedway Manager
+    Free Speedway Manager, simple speedway sport manager game, python, pyqt.
+    https://gitlab.com/freesm/freesm
+    Ultimate
+
 
 
     ### Gibberfish
