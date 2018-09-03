@@ -490,7 +490,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
-    
+
     ### Hyper-Expanse
     Project scaffolding and release tools to streamline the release process through automation.
     https://gitlab.com/hyper-expanse/open-source
@@ -500,8 +500,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An open source cloud platform to automate & orchrestrate hybrid cloud and containers. providing IaaS for container for open source & entreprenures.
     https://stackhatch.org
     Gold
-    
-    ### GieselaDev 
+
+    ### GieselaDev
     We're passionate about open-source projects, and love developing intuitive, clean applications ranging from audio to user management - mainly for the Discord platform.
     http://gitlab.giesela.io
     Ultimate
@@ -530,24 +530,24 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Orbital Connector is a term we use to refer to the integration library used by producers to send messages to the Receiver. The Connector also handles any response, fault, or timeout received in return. Over time more Orbital Connectors will appear for more languages.
     http://connectors.orbitalbus.com/
     Gold
-    
+
     ### Sandwich Cloud
     An open source VMWare orchestration system that adds public cloud like features to traditional VMWare vCenter deployments.
     https://github.com/sandwichcloud
     Gold
+
     ### Budgt
     Helping you plan and keep track of your budget.
     https://gitlab.pahofmann.com/pahofmann/budget
     Ultimate
 
-
     ### Jenkins GitLab plugin
     The de-facto Jenkins plugin providing integration with GitLab.
     https://github.com/jenkinsci/gitlab-plugin
     Ultimate
-    
+
     ### Glucosio
-    Glucosio is an open source project dedicated to bringing open source apps to smartphone, desktop and web in order to help people with diabetes improve their health outcomes by better self-management of their disease. 
+    Glucosio is an open source project dedicated to bringing open source apps to smartphone, desktop and web in order to help people with diabetes improve their health outcomes by better self-management of their disease.
     https://www.glucosio.org
     Ultimate
 
@@ -570,22 +570,21 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running tests.
     https://www.linaro.org/initiatives/lava/
     Ultimate
-    
+
     ### TygerCaddy
     A Python based reverse proxy app with Web GUI
     https://tygercaddy.com
     Ultimate
-    
+
     ### Hunter 2
     Hunter 2 is a platform for running puzzle hunts
     https://gitlab.com/hunter2.app/hunter2
     Gold
+
     ### Free Speedway Manager
     Free Speedway Manager, simple speedway sport manager game, python, pyqt.
     https://gitlab.com/freesm/freesm
     Ultimate
-
-
 
     ### Gibberfish
     Gibberfish provides free software tools to activists
@@ -596,16 +595,17 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Pleio is an open source collaboration platform for governments.
     https://www.pleio.nl
     Gold
-    
+
     ### Machinecoin Project
     Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
     https://machinecoin.io
     Ultimate
-    
+
     ### Zamphyr
     Open and free school platform for School 2.0
     https://zamphyr.com
     Gold
+
     ### TaxonWorks
     TaxonWorks is an open-source workbench for those studying the Earth's Biodiversity.
     http://taxonworks.org
@@ -616,21 +616,23 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     An android app to get phone number location and other info.
     https://github.com/xdtianyu/CallerInfo
     Ultimate
+
     ### Zest Kernel Projecc
     Custom Linux kernels for various Android devices
     https://gitlab.com/ZKP
     Gold
+
     ### Unnamed Arma Group
     We are an active group of modders for Bohemia Interactive's Arma franchise, all of our work is open-source and available to the community.
     https://gitlab.com/uag
     Gold
-	### WarEmu
-	A Warhammer Online Emulator 1.4.8
-	https://github.com/WarEmu/WarEmu
-	Ultimate
+
+    ### WarEmu
+    A Warhammer Online Emulator 1.4.8
+    https://github.com/WarEmu/WarEmu
+    Ultimate
+
     ### Autosubmit
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
     Ultimate    
-    
-
