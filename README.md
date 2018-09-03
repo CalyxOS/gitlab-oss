@@ -570,6 +570,12 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A Python based reverse proxy app with Web GUI
     https://tygercaddy.com
     Ultimate
+    
+    ### Hunter 2
+    Hunter 2 is a platform for running puzzle hunts
+    https://gitlab.com/hunter2.app/hunter2
+    Gold
+
 
     ### Gibberfish
     Gibberfish provides free software tools to activists
