@@ -636,3 +636,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
     Ultimate    
+
+    ### Inko
+    Inko is a gradually-typed, safe, object-oriented programming language for writing concurrent programs.
+    https://inko-lang.org/
+    Gold
