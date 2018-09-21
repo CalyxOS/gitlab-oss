@@ -636,3 +636,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
     Ultimate    
+
+    ### ASE
+    Atomic Simulation Environment, A Python library for working with atoms
+    https://wiki.fysik.dtu.dk/ase/
+    Gold
+    
