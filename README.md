@@ -636,3 +636,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
     Ultimate    
+
+    ### ZeroGravity CMS
+    A flat-file based CMS to be used as a drop-in content solution for Symfony projects.
+    https://gitlab.com/zero-gravity/zero-gravity-cms
+    Gold
