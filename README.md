@@ -635,4 +635,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Autosubmit
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
-    Ultimate    
+    Ultimate
+
+    ### Shizuku
+    Shizuku is GPU Pathtracing renderer for hobby artists.
+    https://gitlab.com/shizuku-render/Shizuku
+    Gold
