@@ -636,3 +636,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
     Ultimate    
+
+    ### Passit
+    Passit is an open source, web based password manager that focuses on simplicity and group sharing. Source code is available at http://gitlab.com/passit/
+    https://passit.io
+    Gold
