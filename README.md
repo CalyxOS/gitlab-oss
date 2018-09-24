@@ -635,4 +635,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Autosubmit
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
-    Ultimate    
+    Ultimate
+
+    ### OpenCI
+    Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
+    https://openci.io
+    Gold
