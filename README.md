@@ -648,4 +648,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### ZeroGravity CMS
     A flat-file based CMS to be used as a drop-in content solution for Symfony projects.
     https://gitlab.com/zero-gravity/zero-gravity-cms
+
+    ### Passit
+    Passit is an open source, web based password manager that focuses on simplicity and group sharing. Source code is available at http://gitlab.com/passit/
+    https://passit.io
     Gold
