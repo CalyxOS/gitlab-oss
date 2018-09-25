@@ -636,3 +636,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
     Ultimate    
+    
+    ### Project Yaotsu
+    Project Yaotsu is an open source framework for computer architecture simulation
+    https://gitlab.com/yaotsu
+    Gold
