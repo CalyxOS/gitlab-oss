@@ -656,4 +656,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Inko
     Inko is a gradually-typed, safe, object-oriented programming language for writing concurrent programs.
     https://inko-lang.org/
+    Ultimate
+
+    ### Shizuku
+    Shizuku is GPU Pathtracing renderer for hobby artists.
+    https://gitlab.com/shizuku-render/Shizuku
     Gold
