@@ -635,4 +635,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Autosubmit
     Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
     https://earth.bsc.es/gitlab/es/autosubmit
-    Ultimate    
+    Ultimate   
+
+    ### KWB-R
+    Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools 
+    (mainly in R) for performing our research in a more reproducible way.  
+    https://github.com/kwb-r
+    Gold   
+
