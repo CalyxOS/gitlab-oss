@@ -640,4 +640,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Project Yaotsu
     Project Yaotsu is an open source framework for computer architecture simulation
     https://gitlab.com/yaotsu
+
+    ### Panto
+    A modern monitoring solution
+    https://pantomath.io
     Gold
