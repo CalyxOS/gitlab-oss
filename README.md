@@ -662,13 +662,3 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Shizuku is GPU Pathtracing renderer for hobby artists.
     https://gitlab.com/shizuku-render/Shizuku
     Gold
-    
-    ### @apifie/node-microservice
-    node-microservice is a Node JS module / framework / boiler-plate / blueprint to accelerate and standardize micro-services development
-    https://gitlab.com/apifie/nodems/node-microservice
-    Gold    
-    
-    ### @apifie/node-microservice
-    It provies some examples / samples to use @apifie/node-microservice (above)
-    https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example
-    Gold    
