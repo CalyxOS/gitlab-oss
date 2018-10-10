@@ -662,3 +662,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Shizuku is GPU Pathtracing renderer for hobby artists.
     https://gitlab.com/shizuku-render/Shizuku
     Gold
+
+    ### HydrOffice
+    A research framework in ocean mapping (https://www.hydroffice.org)
+    https://gitlab.com/HydrOffice
+    Gold
+
