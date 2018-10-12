@@ -667,4 +667,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A research framework in ocean mapping (https://www.hydroffice.org)
     https://gitlab.com/HydrOffice
     Gold
+    
+    ### SIM-ScALA-BIM
+    SIM-ScALA-BIM is an Abraca-what? board game clone written in Scala as final project elaboration for University exam.
+    https://gitlab.com/abra-team/sim-scala-bim
+    Gold
 
