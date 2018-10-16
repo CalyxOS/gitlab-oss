@@ -668,3 +668,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/HydrOffice
     Gold
 
+    ### malscan
+    A linux malware scanner for web servers.
+    https://malscan.com
+    Gold
+
