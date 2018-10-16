@@ -667,4 +667,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A research framework in ocean mapping (https://www.hydroffice.org)
     https://gitlab.com/HydrOffice
     Gold
+    
+    ### Fudaa
+    Integration Platform For Scientific Codes
+    https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview
+    Gold
 
