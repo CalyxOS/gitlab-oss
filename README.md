@@ -668,3 +668,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/HydrOffice
     Gold
 
+    ### Mpm
+    A cross-platform Assembler that supports Zilog Z80/Z180/Z380 CPU assembly language. Future works will support Elf format and Arm + Mips CPU's.
+    https://gitlab.com/bits4fun/mpm
+    Ultimate
