@@ -688,3 +688,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://malscan.com
     Gold
 
+    ### Typhon
+    Typhon is a secrets manager that aims to provide similar function to an HSM or extend the usage of an HSM.
+    https://git.blesstherains.africa/typhon
+    Ultimate
