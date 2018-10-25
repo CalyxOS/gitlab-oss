@@ -649,6 +649,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A flat-file based CMS to be used as a drop-in content solution for Symfony projects.
     https://gitlab.com/zero-gravity/zero-gravity-cms
 
+    ### RVM
+    RVM is a command-line tool which allows you to easily install, manage, and work with multiple Ruby versions.
+    https://rvm.io
+    Gold
+
     ### Passit
     Passit is an open source, web based password manager that focuses on simplicity and group sharing. Source code is available at http://gitlab.com/passit/
     https://passit.io
