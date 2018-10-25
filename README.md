@@ -698,3 +698,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
     https://openci.io
     Gold
+    
+    ### Fantom Foundation
+    Fantom Foundation engages in blockchain research and open-sources everything.
+    https://fantom.foundation
+    Ultimate
