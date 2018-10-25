@@ -692,3 +692,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Typhon is a secrets manager that aims to provide similar function to an HSM or extend the usage of an HSM.
     https://git.blesstherains.africa/typhon
     Ultimate
+    Ultimate
+
+    ### OpenCI
+    Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
+    https://openci.io
+    Gold
