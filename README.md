@@ -673,3 +673,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/HydrOffice
     Gold
 
+    
+    ### eQuartier
+     eQuartier is an association under the French law of 1901. We aim to give the local independant shops a way to take back the marketshare of big retail stores and online retailers. We empower local communities build around small local bike transportation companies, local shopkeepers and inhabitants. To do so we're developping an AGPL licenced web platform, first with prestashop and next based on solid project together with the cooperativism platform community in France.
+     https://equartier.fr
+     Gold
