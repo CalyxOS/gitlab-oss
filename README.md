@@ -698,3 +698,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
     https://openci.io
     Gold
+    
+    ### Propositum
+    Combine open-source, portable tools to facilitate task & information management, automation, data manipulation and analytics.
+    https://gitlab.com/xeijin/propositum
+    Gold
