@@ -703,3 +703,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     RiSiRiPlugin is a open-source plugin for schools with an warehouse that want to keep track of there stuff. 
     https://github.com/MextroNL/risiriplugin
     Gold
+    ### Fantom Foundation
+    Fantom Foundation engages in blockchain research and open-sources everything.
+    https://fantom.foundation
+    Ultimate
