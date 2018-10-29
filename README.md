@@ -707,3 +707,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Fantom Foundation engages in blockchain research and open-sources everything.
     https://fantom.foundation
     Ultimate
+    
+    ### PantherX OS
+    The only user-friendly desktop operating system, that gives people without a PHD in computer science, the power to control how their computer operates and connects.
+    https://www.pantherx.org/
+    Ultimate
+
