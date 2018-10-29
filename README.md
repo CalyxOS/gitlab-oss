@@ -707,3 +707,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Fantom Foundation engages in blockchain research and open-sources everything.
     https://fantom.foundation
     Ultimate
+    
+    ### Screencam screen recorder
+    Android app to record screen using native API and without root
+    https://gitlab.com/vijai/screenrecorder
+    Gold
