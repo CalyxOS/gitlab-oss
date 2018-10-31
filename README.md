@@ -736,7 +736,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Gold   
     
     ### RedServ
-     A emi-fast python web framework.
+     A semi-fast python web framework.
      https://gitlab.com/Red_M/redserv
      Ultimate
 
