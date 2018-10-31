@@ -739,4 +739,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     MyBB is a free and open source, community-based forum software project.
     https://mybb.com/
     Gold
+    
+    ### TreasureHunt
+    We develop a treasure hunt game for Android that started out as a student project and now because our hobby.
+    https://gitlab.com/mowies/TreasureHunt
+    Gold
 
