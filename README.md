@@ -716,3 +716,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     A cross-platform Assembler that supports Zilog Z80/Z180/Z380 CPU assembly language. Future works will support Elf format and Arm + Mips CPU's.
     https://gitlab.com/bits4fun/mpm
     Ultimate
+    ### Propositum
+    Combine open-source, portable tools to facilitate task & information management, automation, data manipulation and analytics.
+    https://gitlab.com/xeijin/propositum
+    Gold
