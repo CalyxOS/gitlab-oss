@@ -676,6 +676,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Fudaa
     Integration Platform For Scientific Codes
     https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview
+    ### SIM-ScALA-BIM
+    SIM-ScALA-BIM is an Abraca-what? board game clone written in Scala as final project elaboration for University exam.
+    https://gitlab.com/abra-team/sim-scala-bim
     Gold
 
     
