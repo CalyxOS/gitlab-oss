@@ -727,3 +727,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     We aim to make Push notifications accessible for anyone who doesn't want to rely on others. https://gitlab.com/PushFish
     http://push.fish
     Gold
+    Ultimate   
+
+    ### KWB-R
+    Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools 
+    (mainly in R) for performing our research in a more reproducible way.  
+    https://github.com/kwb-r
+    Gold   
+
