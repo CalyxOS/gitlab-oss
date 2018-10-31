@@ -734,4 +734,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     (mainly in R) for performing our research in a more reproducible way.  
     https://github.com/kwb-r
     Gold   
+    
+    ### RedServ
+     A semi-fast python web framework.
+     https://gitlab.com/Red_M/redserv
+     Ultimate
 
