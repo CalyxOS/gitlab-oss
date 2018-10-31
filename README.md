@@ -733,5 +733,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools 
     (mainly in R) for performing our research in a more reproducible way.  
     https://github.com/kwb-r
-    Gold   
+    Gold
+    
+    ### TreasureHunt
+    We develop a treasure hunt game for Android that started out as a student project and now because our hobby.
+    https://gitlab.com/mowies/TreasureHunt
+    Gold
 
