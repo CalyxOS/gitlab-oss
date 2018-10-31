@@ -735,3 +735,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
      https://gitlab.com/Red_M/redserv
      Ultimate
 
+    ### MyBB
+    MyBB is a free and open source, community-based forum software project.
+    https://mybb.com/
+    Gold
+
