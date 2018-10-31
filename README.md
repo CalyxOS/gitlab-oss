@@ -745,3 +745,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/mowies/TreasureHunt
     Gold
 
+    
+    
+    ### Aha Event by Forksociety
+    Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
+    https://www.ahaevent.org
+    Ultimate
