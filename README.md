@@ -751,3 +751,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
     https://www.ahaevent.org
     Ultimate
+    
+    ### LIP Computing
+    Experimental Particle Physics Portuguese Laboratory, Computing Center group
+    https://www.lip.pt
+    Ultimate
