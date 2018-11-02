@@ -755,4 +755,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Atomic Simulation Environment, A Python library for working with atoms
     https://wiki.fysik.dtu.dk/ase/
     Gold
+
+    ### Our-Sci
+    We are building a scientific platform to easily run experiments using Android and pretty much any kind of hardware that supports USB Serial or BT Serial. Our goal is to make possible for everyone to build their own survey, run measurements and compare results with other contributors.
+    http://blog.our-sci.net/
+    Gold
     
