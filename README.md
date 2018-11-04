@@ -756,3 +756,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://wiki.fysik.dtu.dk/ase/
     Gold
     
+    
+    ### Microservice Patterns
+    This project will produce libraries to facilitate Microservice development using CQRS and ES patterns
+    https://gitlab.com/cloud.yantra.oss/microservice-patterns-cqrs
+    Gold
+    
+    
