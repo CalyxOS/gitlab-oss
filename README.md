@@ -761,5 +761,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     This project will produce libraries to facilitate Microservice development using CQRS and ES patterns
     https://gitlab.com/cloud.yantra.oss/microservice-patterns-cqrs
     Gold
+
+
+    ### LineageOS
+    A free and open-source operating system for handheld devices, based on the Android mobile platform.
+    https://lineageos.org
+    Gold
     
     
