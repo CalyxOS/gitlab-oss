@@ -762,4 +762,14 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/cloud.yantra.oss/microservice-patterns-cqrs
     Gold
     
+    ### OpenWISP
+    A Hackable Network Management System for the 21st Century.
+    OpenWISP is a network management system that allows managing and automating several aspects of a network:
+     - dynamic auto-configuration of new nodes
+     - creation of VPN tunnels
+     - initialization of WiFi access points
+     - configuration of mesh networks
+     - configuration of any other network configuration supported by OpenWRT
+    http://openwisp.org/
+    Gold
     
