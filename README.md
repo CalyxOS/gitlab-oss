@@ -763,3 +763,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Gold
     
     
+    ### Neurochain
+	Neurochain is a new augmented blockchain based on intelligent decision making mechanisms.
+    https://www.neurochaintech.io/
+    Gold
