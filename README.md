@@ -795,11 +795,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://codaprotocol.com
     Gold
     
-    ### Project name
+    ### pynmet
     A python package to easy acess of brazilian meteorological sites data
     https://gitlab.com/sehnem/pynmet
     Gold
-
 
     ### Freifunk Frankfurt
     Freifunk is a non-commercial wireless community network providing free and open internet access to the general public for that we are building the Freifunk mesh network in the metropolitan area of Frankfurt. Not just with the goal of supplying Internet access but also with the idea of building a decentralized public network and imparting the knowledge and the technical skills to do so. We use Gitlab for all our developments that are open source.
@@ -813,6 +812,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### FWUL
     FWUL - the most reliable adb/fastboot live system ever - to manage ANY Android without driver hassle
     https://code.binbash.it:8443/Carbon-Fusion/build_fwul  (details: http://bit.do/FWULatXDA)
+    Ultimate
+    
     ### Linuxserver.io
     We containerise dozens of applications from across the web and release them as well documented, maintained and updated containers.
     https://linuxserver.io
@@ -822,19 +823,18 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic, Dave Mills’s original.
     https://gitlab.com/NTPsec/ntpsec
     Gold
-     ### The Hammer
-     An open source multifunctional Discord bot
-     https://gitlab.com/TheHammerBot
-     Gold
+    
+    ### The Hammer
+    An open source multifunctional Discord bot
+    https://gitlab.com/TheHammerBot
+    Gold
 
     ### Common Ground NLX
     NLX is an open source inter-organisational system facilitating federated authentication, secure connecting and protocolling in a large-scale, dynamic API landscape.
     https://gitlab.com/commonground/nlx
     Gold
+    
     ### Open Technologies Alliance - GFOSS
-    GFOSS – Open Technologies Alliance  is a non-profit organization founded in 2008, 36 Universities and Research Centers are shareholders of GFOSS. 
-    Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece. 
-    We are platform for Open Standards, Free Software, Open Content, Open Data & Open Hardware in Greece. 
-    The major Greek Universities and Research Centers participate in GFOSS – Open Technologies Alliance, while leading members of the Greek community of developers play a key role in the implementation of our policies.
+    GFOSS – Open Technologies Alliance  is a non-profit organization founded in 2008, 36 Universities and Research Centers are shareholders of GFOSS. Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece. We are platform for Open Standards, Free Software, Open Content, Open Data & Open Hardware in Greece. The major Greek Universities and Research Centers participate in GFOSS – Open Technologies Alliance, while leading members of the Greek community of developers play a key role in the implementation of our policies.
     http:/gfoss.eu
     Gold
