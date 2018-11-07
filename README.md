@@ -806,3 +806,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://frickel.cloud/
     Ultimate
     
+    ### VoxelGamesLib
+    An open source framework to expand the game Minecraft with simple to complex mini games, promoting the use of modularity and enabling content creators without developer knowledge to customize existing or create new minigames by using a data driven approach.   
+    https://voxelgameslib.com/docs/ and https://github.com/VoxelGamesLib/VoxelGamesLibv2/
+    Ultimate
