@@ -772,3 +772,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     HueMagic provides several input and output nodes for Node-RED and is the most in-depth and easy to use solution to control Philips Hue bridges, lights, groups, scenes, taps, switches, motion sensors, temperature sensors and Lux sensors.
     https://gitlab.com/foddy/huemagic
     Gold
+    ### LIP Computing
+    Experimental Particle Physics Portuguese Laboratory, Computing Center group
+    https://www.lip.pt
+    Ultimate
