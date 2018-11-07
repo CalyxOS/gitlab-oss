@@ -795,3 +795,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://codaprotocol.com
     Gold
     
+    ### Project name
+    A python package to easy acess of brazilian meteorological sites data
+    https://gitlab.com/sehnem/pynmet
+    Gold
+
