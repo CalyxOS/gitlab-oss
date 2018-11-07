@@ -47,7 +47,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### GNU Mailman
     GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://gitlab.com/mailman) and Continuous Integration.
     https://list.org
-    Ultimate
+    Gold
 
     ### Manjaro Linux
     Manjaro is a user-friendly Linux distribution based on the independently developed Arch operating system. We use Gitlab for all our [development](https://gitlab.manjaro.org) and Continuous Integration.
@@ -211,6 +211,11 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Human Cell Atlas
     To create comprehensive reference maps of all human cells—the fundamental units of life—as a basis for both understanding human health and diagnosing, monitoring, and treating disease.
     https://www.humancellatlas.org
+    Ultimate
+
+    ### BillRun Project
+    An open source billing for big-data
+    https://git.bill.run/
     Ultimate
 
     ### equalOS
@@ -422,11 +427,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://veruscoin.io/
     Gold
 
-    ### Flowee
-    Flowee is a Bitcoin Cash full node implementation that is made into a powerful hub. Flowee the Hub provides services to any developer that wants to connect to the Bitcoin network. Our slogan is "The shortest path to Bitcoin".
-    http://flowee.org
-    Gold
-
     ### LeoFS
     An Enterprise Open Source Storage. It is a highly available, distributed, eventually consistent object store.
     https://leo-project.net/leofs/
@@ -490,3 +490,301 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Open sourced, community built projects for the phpVMS platform.
     https://gitlab.com/flydeltavirtual/osp
     Ultimate
+
+    ### Hyper-Expanse
+    Project scaffolding and release tools to streamline the release process through automation.
+    https://gitlab.com/hyper-expanse/open-source
+    Gold
+
+    ### Open Cloud Platform
+    An open source cloud platform to automate & orchrestrate hybrid cloud and containers. providing IaaS for container for open source & entreprenures.
+    https://stackhatch.org
+    Gold
+
+    ### GieselaDev
+    We're passionate about open-source projects, and love developing intuitive, clean applications ranging from audio to user management - mainly for the Discord platform.
+    http://gitlab.giesela.io
+    Ultimate
+
+    ### Free Software Mirror Group
+    The Free Software Mirror Group is a New Zealand based organisation that provides local mirroring of free software. Our goal is to provide official, high quality, outage free mirroring to New Zealand and the Pacific Islands.
+    https://fsmg.org.nz/
+    Gold
+
+    ### Orbital Bus
+    Orbital Bus is an enterprise service bus project that is mesh-based rather than hub-and-spoke. It seeks to enable enterprises to explore the possibilities of ESB without worrying about licensing costs and with a language-agnostic approach.
+    http://orbitalbus.com/
+    Gold
+
+    ### Orbital CodeGeneration
+    The Orbital Code Generation project is a companion for the Orbital Bus project. It is used to generate components that work with the receiver for consumer services.
+    http://codegeneration.orbitalbus.com/
+    Gold
+
+    ### Orbital Adapters
+    One of the essential components for the Orbital Bus are Adapters. The adapters allow the receiver to communicate to consumers over different protocols, databases, or file systems. Over time more Orbital Adapters will appear for more protocols, databases, and file systems.
+    http://adapters.orbitalbus.com/
+    Gold
+
+    ### Orbital Connectors
+    Orbital Connector is a term we use to refer to the integration library used by producers to send messages to the Receiver. The Connector also handles any response, fault, or timeout received in return. Over time more Orbital Connectors will appear for more languages.
+    http://connectors.orbitalbus.com/
+    Gold
+
+    ### Sandwich Cloud
+    An open source VMWare orchestration system that adds public cloud like features to traditional VMWare vCenter deployments.
+    https://github.com/sandwichcloud
+    Gold
+
+    ### Budgt
+    Helping you plan and keep track of your budget.
+    https://gitlab.pahofmann.com/pahofmann/budget
+    Ultimate
+
+    ### Jenkins GitLab plugin
+    The de-facto Jenkins plugin providing integration with GitLab.
+    https://github.com/jenkinsci/gitlab-plugin
+    Ultimate
+
+    ### Glucosio
+    Glucosio is an open source project dedicated to bringing open source apps to smartphone, desktop and web in order to help people with diabetes improve their health outcomes by better self-management of their disease.
+    https://www.glucosio.org
+    Ultimate
+
+    ### UBports
+    Developer and Mantainer of mobile operative system Ubuntu touch and the Unity8 desktop environment stack
+    http://ubports.com/
+    Gold
+
+    ### Parity
+    Blockchain clients (Bitcoin, Ethereum, Polkadot), written in Rust
+    https://github.com/paritytech
+    Ultimate
+
+    ### USSRM
+    Minecraft server software written entirely in Rust, making Minecraft fast and easy to use so that you don't have to. Dubbed the United Soviet Repositories of Minecraft.
+    https://gitlab.com/USSRM
+    Gold
+
+    ### LAVA Software Project
+    LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running tests.
+    https://www.linaro.org/initiatives/lava/
+    Ultimate
+
+    ### TygerCaddy
+    A Python based reverse proxy app with Web GUI
+    https://tygercaddy.com
+    Ultimate
+
+    ### Hunter 2
+    Hunter 2 is a platform for running puzzle hunts
+    https://gitlab.com/hunter2.app/hunter2
+    Gold
+
+    ### Free Speedway Manager
+    Free Speedway Manager, simple speedway sport manager game, python, pyqt.
+    https://gitlab.com/freesm/freesm
+    Ultimate
+
+    ### Gibberfish
+    Gibberfish provides free software tools to activists
+    https://gibberfish.org
+    Gold
+
+    ### Pleio
+    Pleio is an open source collaboration platform for governments.
+    https://www.pleio.nl
+    Gold
+
+    ### Machinecoin Project
+    Machinecoin is a peer-to-peer, decentralized crypto-currency, based on Litecoin which was created back in 2014.
+    https://machinecoin.io
+    Ultimate
+
+    ### Zamphyr
+    Open and free school platform for School 2.0
+    https://zamphyr.com
+    Gold
+
+    ### TaxonWorks
+    TaxonWorks is an open-source workbench for those studying the Earth's Biodiversity.
+    http://taxonworks.org
+    Ultimate
+
+
+    ### CallerInfo Project
+    An android app to get phone number location and other info.
+    https://github.com/xdtianyu/CallerInfo
+    Ultimate
+
+    ### Zest Kernel Projecc
+    Custom Linux kernels for various Android devices
+    https://gitlab.com/ZKP
+    Gold
+
+    ### Unnamed Arma Group
+    We are an active group of modders for Bohemia Interactive's Arma franchise, all of our work is open-source and available to the community.
+    https://gitlab.com/uag
+    Gold
+
+    ### WarEmu
+    A Warhammer Online Emulator 1.4.8
+    https://github.com/WarEmu/WarEmu
+    Ultimate
+
+    ### Autosubmit
+    Autosubmit is a python-based tool to create, manage and monitor experiments by using Computing Clusters, HPC’s and Supercomputers remotely via ssh.
+    https://earth.bsc.es/gitlab/es/autosubmit
+    Ultimate    
+
+    ### Project Yaotsu
+    Project Yaotsu is an open source framework for computer architecture simulation
+    https://gitlab.com/yaotsu
+
+    ### Panto
+    A modern monitoring solution
+    https://pantomath.io
+
+    ### ZeroGravity CMS
+    A flat-file based CMS to be used as a drop-in content solution for Symfony projects.
+    https://gitlab.com/zero-gravity/zero-gravity-cms
+
+    ### RVM
+    RVM is a command-line tool which allows you to easily install, manage, and work with multiple Ruby versions.
+    https://rvm.io
+    Gold
+
+    ### Passit
+    Passit is an open source, web based password manager that focuses on simplicity and group sharing. Source code is available at http://gitlab.com/passit/
+    https://passit.io
+
+    ### Inko
+    Inko is a gradually-typed, safe, object-oriented programming language for writing concurrent programs.
+    https://inko-lang.org/
+    Ultimate
+
+    ### Shizuku
+    Shizuku is GPU Pathtracing renderer for hobby artists.
+    https://gitlab.com/shizuku-render/Shizuku
+    Gold
+
+    ### HydrOffice
+    A research framework in ocean mapping (https://www.hydroffice.org)
+    https://gitlab.com/HydrOffice
+    Gold
+    
+    ### Fudaa
+    Integration Platform For Scientific Codes
+    https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview
+    ### SIM-ScALA-BIM
+    SIM-ScALA-BIM is an Abraca-what? board game clone written in Scala as final project elaboration for University exam.
+    https://gitlab.com/abra-team/sim-scala-bim
+    Gold
+
+    
+    ### eQuartier
+     eQuartier is an association under the French law of 1901. We aim to give the local independant shops a way to take back the marketshare of big retail stores and online retailers. We empower local communities build around small local bike transportation companies, local shopkeepers and inhabitants. To do so we're developping an AGPL licenced web platform, first with prestashop and next based on solid project together with the cooperativism platform community in France.
+     https://equartier.fr
+     Gold
+    ### malscan
+    A linux malware scanner for web servers.
+    https://malscan.com
+    Gold
+
+    ### Typhon
+    Typhon is a secrets manager that aims to provide similar function to an HSM or extend the usage of an HSM.
+    https://git.blesstherains.africa/typhon
+    Ultimate
+    Ultimate
+
+    ### OpenCI
+    Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
+    https://openci.io
+    Gold
+    
+     ### RiSiRiPlugin
+    RiSiRiPlugin is a open-source plugin for schools with an warehouse that want to keep track of there stuff. 
+    https://github.com/MextroNL/risiriplugin
+    Gold
+    ### Fantom Foundation
+    Fantom Foundation engages in blockchain research and open-sources everything.
+    https://fantom.foundation
+    Ultimate
+    
+    ### Screencam screen recorder
+    Android app to record screen using native API and without root
+    https://gitlab.com/vijai/screenrecorder
+    Gold
+    ### Mpm
+    A cross-platform Assembler that supports Zilog Z80/Z180/Z380 CPU assembly language. Future works will support Elf format and Arm + Mips CPU's.
+    https://gitlab.com/bits4fun/mpm
+    Ultimate
+    ### Propositum
+    Combine open-source, portable tools to facilitate task & information management, automation, data manipulation and analytics.
+    https://gitlab.com/xeijin/propositum
+    Gold
+    ### PushFish
+    We aim to make Push notifications accessible for anyone who doesn't want to rely on others. https://gitlab.com/PushFish
+    http://push.fish
+    Gold
+    Ultimate   
+
+    ### KWB-R
+    Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools 
+    (mainly in R) for performing our research in a more reproducible way.  
+    https://github.com/kwb-r
+    Gold   
+    
+    ### RedServ
+     A semi-fast python web framework.
+     https://gitlab.com/Red_M/redserv
+     Ultimate
+
+    ### MyBB
+    MyBB is a free and open source, community-based forum software project.
+    https://mybb.com/
+    Gold
+    
+    ### TreasureHunt
+    We develop a treasure hunt game for Android that started out as a student project and now because our hobby.
+    https://gitlab.com/mowies/TreasureHunt
+    Gold
+    
+
+    ### Aha Event by Forksociety
+    Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
+    https://www.ahaevent.org
+    Ultimate
+    
+    ### ASE
+    Atomic Simulation Environment, A Python library for working with atoms
+    https://wiki.fysik.dtu.dk/ase/
+    Gold
+    
+    
+    ### Microservice Patterns
+    This project will produce libraries to facilitate Microservice development using CQRS and ES patterns
+    https://gitlab.com/cloud.yantra.oss/microservice-patterns-cqrs
+    Gold
+
+
+    ### LineageOS
+    A free and open-source operating system for handheld devices, based on the Android mobile platform.
+    https://lineageos.org
+    Gold
+    
+    
+    ### HueMagic
+    HueMagic provides several input and output nodes for Node-RED and is the most in-depth and easy to use solution to control Philips Hue bridges, lights, groups, scenes, taps, switches, motion sensors, temperature sensors and Lux sensors.
+    https://gitlab.com/foddy/huemagic
+    Gold
+    ### LIP Computing
+    Experimental Particle Physics Portuguese Laboratory, Computing Center group
+    https://www.lip.pt
+    Ultimate
+    ### CodaProtocol
+    Coda is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.
+    https://codaprotocol.com
+    Gold
+    
+    
