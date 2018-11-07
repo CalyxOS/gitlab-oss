@@ -817,3 +817,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     We containerise dozens of applications from across the web and release them as well documented, maintained and updated containers.
     https://linuxserver.io
     Ultimate
+
+    ### NTPsec
+    Secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic, Dave Mills’s original.
+    https://gitlab.com/NTPsec/ntpsec
+    Gold
