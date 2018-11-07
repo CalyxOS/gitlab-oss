@@ -744,13 +744,12 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     We develop a treasure hunt game for Android that started out as a student project and now because our hobby.
     https://gitlab.com/mowies/TreasureHunt
     Gold
-
-    
     
     ### Aha Event by Forksociety
     Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
     https://www.ahaevent.org
     Ultimate
+    
     ### ASE
     Atomic Simulation Environment, A Python library for working with atoms
     https://wiki.fysik.dtu.dk/ase/
@@ -769,3 +768,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Gold
     
     
+    ### HueMagic
+    HueMagic provides several input and output nodes for Node-RED and is the most in-depth and easy to use solution to control Philips Hue bridges, lights, groups, scenes, taps, switches, motion sensors, temperature sensors and Lux sensors.
+    https://gitlab.com/foddy/huemagic
+    Gold
