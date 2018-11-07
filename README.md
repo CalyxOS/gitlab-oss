@@ -831,3 +831,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     NLX is an open source inter-organisational system facilitating federated authentication, secure connecting and protocolling in a large-scale, dynamic API landscape.
     https://gitlab.com/commonground/nlx
     Gold
+    ### Open Technologies Alliance - GFOSS
+    GFOSS – Open Technologies Alliance  is a non-profit organization founded in 2008, 36 Universities and Research Centers are shareholders of GFOSS. 
+    Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece. 
+    We are platform for Open Standards, Free Software, Open Content, Open Data & Open Hardware in Greece. 
+    The major Greek Universities and Research Centers participate in GFOSS – Open Technologies Alliance, while leading members of the Greek community of developers play a key role in the implementation of our policies.
+    http:/gfoss.eu
+    Gold
