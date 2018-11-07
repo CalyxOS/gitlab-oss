@@ -111,6 +111,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
     ### dps8m
     The dps8m project is an open source collaboration to create an emulator for the Honeywell DPS8/M mainframe computer, with the goal of running th Multics operating system.
+    https://gitlab.com/dps8m
     Ultimate
 
     ### mvdsv
@@ -165,7 +166,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
     ### OpenGAG
     An alternative to 9gag. But 100% open source. Driven by the community a bit like this [awesome thing](https://gitlab.com/gitlab-org/gitlab-ce)
-    No url yet;
+    https://gitlab.com/bancarel.valentin/open-gag
     Ultimate
 
     ### Minecordbot
@@ -410,6 +411,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 
     ### CleverSheep
     An open source high level asynchronous testing framework
+    https://gitlab.com/LCaraccio/cleversheep
     Gold
 
     ### GLPI
@@ -480,6 +482,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Augur
     Augur is an open-source, decentralized, peer-to-peer oracle and prediction market platform built on the Ethereum blockchain.
     https://www.augur.net/
+    Gold
 
     ### HolyDragon Project
     An open source android based fork of OmniROM for OnePlus and other devices
@@ -611,7 +614,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     http://taxonworks.org
     Ultimate
 
-
     ### CallerInfo Project
     An android app to get phone number location and other info.
     https://github.com/xdtianyu/CallerInfo
@@ -640,14 +642,17 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Project Yaotsu
     Project Yaotsu is an open source framework for computer architecture simulation
     https://gitlab.com/yaotsu
+    Gold
 
     ### Panto
     A modern monitoring solution
     https://pantomath.io
+    Gold
 
     ### ZeroGravity CMS
     A flat-file based CMS to be used as a drop-in content solution for Symfony projects.
     https://gitlab.com/zero-gravity/zero-gravity-cms
+    Gold
 
     ### RVM
     RVM is a command-line tool which allows you to easily install, manage, and work with multiple Ruby versions.
@@ -657,6 +662,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Passit
     Passit is an open source, web based password manager that focuses on simplicity and group sharing. Source code is available at http://gitlab.com/passit/
     https://passit.io
+    Gold
 
     ### Inko
     Inko is a gradually-typed, safe, object-oriented programming language for writing concurrent programs.
@@ -676,16 +682,18 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     ### Fudaa
     Integration Platform For Scientific Codes
     https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview
+    Gold
+    
     ### SIM-ScALA-BIM
     SIM-ScALA-BIM is an Abraca-what? board game clone written in Scala as final project elaboration for University exam.
     https://gitlab.com/abra-team/sim-scala-bim
     Gold
-
     
     ### eQuartier
-     eQuartier is an association under the French law of 1901. We aim to give the local independant shops a way to take back the marketshare of big retail stores and online retailers. We empower local communities build around small local bike transportation companies, local shopkeepers and inhabitants. To do so we're developping an AGPL licenced web platform, first with prestashop and next based on solid project together with the cooperativism platform community in France.
-     https://equartier.fr
-     Gold
+    eQuartier is an association under the French law of 1901. We aim to give the local independant shops a way to take back the marketshare of big retail stores and online retailers. We empower local communities build around small local bike transportation companies, local shopkeepers and inhabitants. To do so we're developping an AGPL licenced web platform, first with prestashop and next based on solid project together with the cooperativism platform community in France.
+    https://equartier.fr
+    Gold
+    
     ### malscan
     A linux malware scanner for web servers.
     https://malscan.com
@@ -695,17 +703,17 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Typhon is a secrets manager that aims to provide similar function to an HSM or extend the usage of an HSM.
     https://git.blesstherains.africa/typhon
     Ultimate
-    Ultimate
 
     ### OpenCI
     Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
     https://openci.io
     Gold
     
-     ### RiSiRiPlugin
+    ### RiSiRiPlugin
     RiSiRiPlugin is a open-source plugin for schools with an warehouse that want to keep track of there stuff. 
     https://github.com/MextroNL/risiriplugin
     Gold
+    
     ### Fantom Foundation
     Fantom Foundation engages in blockchain research and open-sources everything.
     https://fantom.foundation
@@ -715,19 +723,21 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Android app to record screen using native API and without root
     https://gitlab.com/vijai/screenrecorder
     Gold
+    
     ### Mpm
     A cross-platform Assembler that supports Zilog Z80/Z180/Z380 CPU assembly language. Future works will support Elf format and Arm + Mips CPU's.
     https://gitlab.com/bits4fun/mpm
     Ultimate
+    
     ### Propositum
     Combine open-source, portable tools to facilitate task & information management, automation, data manipulation and analytics.
     https://gitlab.com/xeijin/propositum
     Gold
+    
     ### PushFish
     We aim to make Push notifications accessible for anyone who doesn't want to rely on others. https://gitlab.com/PushFish
     http://push.fish
     Gold
-    Ultimate   
 
     ### KWB-R
     Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools 
@@ -736,9 +746,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Gold   
     
     ### RedServ
-     A semi-fast python web framework.
-     https://gitlab.com/Red_M/redserv
-     Ultimate
+    A semi-fast python web framework.
+    https://gitlab.com/Red_M/redserv
+    Ultimate
 
     ### MyBB
     MyBB is a free and open source, community-based forum software project.
@@ -749,7 +759,6 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     We develop a treasure hunt game for Android that started out as a student project and now because our hobby.
     https://gitlab.com/mowies/TreasureHunt
     Gold
-    
 
     ### Aha Event by Forksociety
     Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
@@ -760,31 +769,29 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Atomic Simulation Environment, A Python library for working with atoms
     https://wiki.fysik.dtu.dk/ase/
     Gold
-    
-    
+        
     ### Microservice Patterns
     This project will produce libraries to facilitate Microservice development using CQRS and ES patterns
     https://gitlab.com/cloud.yantra.oss/microservice-patterns-cqrs
     Gold
-
 
     ### LineageOS
     A free and open-source operating system for handheld devices, based on the Android mobile platform.
     https://lineageos.org
     Gold
     
-    
     ### HueMagic
     HueMagic provides several input and output nodes for Node-RED and is the most in-depth and easy to use solution to control Philips Hue bridges, lights, groups, scenes, taps, switches, motion sensors, temperature sensors and Lux sensors.
     https://gitlab.com/foddy/huemagic
     Gold
+    
     ### LIP Computing
     Experimental Particle Physics Portuguese Laboratory, Computing Center group
     https://www.lip.pt
     Ultimate
+    
     ### CodaProtocol
     Coda is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.
     https://codaprotocol.com
     Gold
-    
     
