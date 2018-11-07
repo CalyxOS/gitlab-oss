@@ -826,3 +826,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
      An open source multifunctional Discord bot
      https://gitlab.com/TheHammerBot
      Gold
+
+    ### Common Ground NLX
+    NLX is an open source inter-organisational system facilitating federated authentication, secure connecting and protocolling in a large-scale, dynamic API landscape.
+    https://gitlab.com/commonground/nlx
+    Gold
