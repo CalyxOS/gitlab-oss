@@ -745,6 +745,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/mowies/TreasureHunt
     Gold
     
+
     ### Aha Event by Forksociety
     Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
     https://www.ahaevent.org
@@ -776,3 +777,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Experimental Particle Physics Portuguese Laboratory, Computing Center group
     https://www.lip.pt
     Ultimate
+    ### CodaProtocol
+    Coda is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.
+    https://codaprotocol.com
+    Gold
+    
+    
