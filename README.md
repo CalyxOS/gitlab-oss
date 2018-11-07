@@ -800,3 +800,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/sehnem/pynmet
     Gold
 
+
+    ### Freifunk Frankfurt
+    Freifunk is a non-commercial wireless community network providing free and open internet access to the general public for that we are building the Freifunk mesh network in the metropolitan area of Frankfurt. Not just with the goal of supplying Internet access but also with the idea of building a decentralized public network and imparting the knowledge and the technical skills to do so. We use Gitlab for all our developments that are open source.
+    https://frickel.cloud/
+    Ultimate
+    
