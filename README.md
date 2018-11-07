@@ -822,3 +822,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic, Dave Mills’s original.
     https://gitlab.com/NTPsec/ntpsec
     Gold
+     ### The Hammer
+     An open source multifunctional Discord bot
+     https://gitlab.com/TheHammerBot
+     Gold
