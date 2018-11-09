@@ -838,3 +838,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     GFOSS – Open Technologies Alliance  is a non-profit organization founded in 2008, 36 Universities and Research Centers are shareholders of GFOSS. Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece. We are platform for Open Standards, Free Software, Open Content, Open Data & Open Hardware in Greece. The major Greek Universities and Research Centers participate in GFOSS – Open Technologies Alliance, while leading members of the Greek community of developers play a key role in the implementation of our policies.
     http:/gfoss.eu
     Gold
+
+    ### Cucumber Linux
+    Cucumber Linux aims to provide a Linux distribution that is usable as an every day, general purpose operating system. It aims to do this in as minimalistic a way as possible and in a way that follows the Unix Philosophy. Our mission is three fold: to focus on the distribution's simplicity, stability and security. 
+    https://cucumberlinux.com/
+    Ultimate
+
