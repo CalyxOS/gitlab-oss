@@ -878,3 +878,10 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     It provies some examples / samples to use @apifie/node-microservice (above)
     https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example
     Gold  
+
+    ### nikita-noark5-core
+    The Oslo Metropolitan University implementation of the Norwegian recordkeeping standard Noark
+    https://gitlab.com/OsloMet-ABI/nikita-noark5-core
+    Gold
+
+    
