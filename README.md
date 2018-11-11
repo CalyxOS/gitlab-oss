@@ -844,3 +844,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     http://blog.our-sci.net/
     Gold
     
+    
+    ### Daedalus Project
+    Daedalus project aims to be a powerfull in interface for managing orchestrated applications and server configuration across multiple SaaS providers.
+    https://git.daedalus-project.io/daedalusproject
+    Ultimate
