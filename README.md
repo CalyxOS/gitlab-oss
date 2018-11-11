@@ -868,3 +868,13 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 	Neurochain is a new augmented blockchain based on intelligent decision making mechanisms.
     https://www.neurochaintech.io/
     Gold
+    
+    ### @apifie/node-microservice
+    node-microservice is a Node JS module / framework / boiler-plate / blueprint to accelerate and standardize micro-services development
+    https://gitlab.com/apifie/nodems/node-microservice
+    Gold    
+    
+    ### @apifie/full-feature-micro-service-example
+    It provies some examples / samples to use @apifie/node-microservice (above)
+    https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example
+    Gold  
