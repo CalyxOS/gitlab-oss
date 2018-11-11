@@ -838,3 +838,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     GFOSS – Open Technologies Alliance  is a non-profit organization founded in 2008, 36 Universities and Research Centers are shareholders of GFOSS. Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece. We are platform for Open Standards, Free Software, Open Content, Open Data & Open Hardware in Greece. The major Greek Universities and Research Centers participate in GFOSS – Open Technologies Alliance, while leading members of the Greek community of developers play a key role in the implementation of our policies.
     http:/gfoss.eu
     Gold
+
+    ### Our-Sci
+    We are building a scientific platform to easily run experiments using Android and pretty much any kind of hardware that supports USB Serial or BT Serial. Our goal is to make possible for everyone to build their own survey, run measurements and compare results with other contributors.
+    http://blog.our-sci.net/
+    Gold
+    
