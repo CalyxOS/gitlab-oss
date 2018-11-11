@@ -849,3 +849,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Daedalus project aims to be a powerfull in interface for managing orchestrated applications and server configuration across multiple SaaS providers.
     https://git.daedalus-project.io/daedalusproject
     Ultimate
+    
+    ### Glasgow Haskell Compiler
+    An industrial-strength implementation of the Haskell programming language
+    http://ghc.haskell.org/
+    Gold
+    
