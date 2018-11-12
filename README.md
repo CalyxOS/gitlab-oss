@@ -891,3 +891,8 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     Universal modding platform and plugin API for Unity, Unreal, .NET/C#, and C++ games
     https://umod.org
     Gold
+
+    ### Libre Space Foundation
+    A non-profit organization creating open source space technologies.
+    https://libre.space
+    Gold
