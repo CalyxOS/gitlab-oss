@@ -1061,3 +1061,8 @@ Curated annotation of publicly available portein sequences
 https://www.uniprot.org
 ultimate
 
+
+    ### Libre Space Foundation
+    A non-profit organization creating open source space technologies.
+    https://libre.space
+    Gold
