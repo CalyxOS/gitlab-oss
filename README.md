@@ -884,7 +884,9 @@ We'll review all requests and accept them at our discretion. If accepted, your p
     https://gitlab.com/OsloMet-ABI/nikita-noark5-core
     Gold
 
-    
+    ### Internet Cleanup Foundation / Failmap
+    A safer internet through transparency: on a mission to have 1.000.000 vulnerabilities fixed, forever.
+    Showcase: https://faalkaart.nl Repo: https://gitlab.com/failmap
     Gold
     
     ### uMod
