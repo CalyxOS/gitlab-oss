@@ -1069,3 +1069,8 @@ ultimate
     It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](ḧttps://astian.org)
     https://www.astian.org/astian-os
     Gold
+
+### ella
+Open source variant interpretation tool
+https://allel.es
+Gold
