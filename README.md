@@ -1079,3 +1079,8 @@ ultimate
 Open source variant interpretation tool
 https://allel.es
 Gold
+
+### Event Store
+An open-source and functional database in Java.
+https://gitlab.com/mwillema/eventstore
+Gold
