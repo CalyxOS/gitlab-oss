@@ -1084,3 +1084,8 @@ Gold
 An open-source and functional database in Java.
 https://gitlab.com/mwillema/eventstore
 Gold
+
+### MathHub.info
+MathHub.info is a portal for active mathematical documents and knowledge. It uses [a slightly patched instance of GitLab](http://gl.mathhub.info) for storing and versioning the source and generated files representing the mathematical knowledge.
+https://mathhub.info
+Ultimate
