@@ -1084,3 +1084,8 @@ Gold
 An open-source and functional database in Java.
 https://gitlab.com/mwillema/eventstore
 Gold
+
+### Okapi Framework
+A cross-platform and free open-source set of components and applications that offer extensive support for localizing and translating documentation and software.
+http://okapiframework.org/
+Gold
