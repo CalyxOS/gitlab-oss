@@ -1089,3 +1089,7 @@ Gold
 A cross-platform and free open-source set of components and applications that offer extensive support for localizing and translating documentation and software.
 http://okapiframework.org/
 Gold
+### MathHub.info
+MathHub.info is a portal for active mathematical documents and knowledge. It uses [a slightly patched instance of GitLab](http://gl.mathhub.info) for storing and versioning the source and generated files representing the mathematical knowledge.
+https://mathhub.info
+Ultimate
