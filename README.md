@@ -1093,3 +1093,8 @@ Gold
 MathHub.info is a portal for active mathematical documents and knowledge. It uses [a slightly patched instance of GitLab](http://gl.mathhub.info) for storing and versioning the source and generated files representing the mathematical knowledge.
 https://mathhub.info
 Ultimate
+    ### Fork AD
+    Fork AD is a fork of 0 A.D. a free, open-source,
+    cross-platform real-time strategy game of ancient warfare.
+    https://gitlab.com/fork-ad
+    Gold
