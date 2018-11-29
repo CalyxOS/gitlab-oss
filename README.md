@@ -1098,3 +1098,8 @@ Ultimate
     cross-platform real-time strategy game of ancient warfare.
     https://gitlab.com/fork-ad
     Gold
+    
+### Amethyst Engine
+     A free, open-source game engine written in Rust
+     https://amethyst.rs
+     Gold
