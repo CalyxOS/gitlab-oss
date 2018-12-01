@@ -1103,3 +1103,9 @@ Ultimate
      A free, open-source game engine written in Rust
      https://amethyst.rs
      Gold
+     
+     
+### cqOS
+We're CryptoQuarry Inc, a small team of engineers working on fully autonomous and self-healing crypto mining warehouses. We noticed there's no usable open source OS for mining crypto, and that lots of people have capitalized on making very minor features and selling them for major costs. We want to change that space and create a free, open-source OS that miners can use at any scale: small, medium, or large! The whole spirit of cryptocurrencies is that everything is community-driven and that any layman can start mining, and we want to help bridge that gap. 
+https://gitlab.com/CryptoQuarry/cqOS
+Gold
