@@ -6,6 +6,18 @@ GitLab exists today in large part thanks to the work of hundreds of thousands of
 
 It has already been the case for years that that any public project on GitLab.com gets all Gold features. We are happy to now offer a complimentary license to GitLab Ultimate (self-hosted) or subscription to GitLab Gold (SaaS) to all open source projects.
 
+## Requirements
+
+To apply:
+- You need to be a project lead or a core contributor for an active open source project.
+- Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
+- Your project must not seek to make profit from the resulting project software.
+
+If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/).
+If you're not sure if your project meets these requirements, please send an email to opensource@gitlab.com. 
+
+We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will send you a quote.
+
 ## Here's how to apply
 
 1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
@@ -20,19 +32,7 @@ section at the bottom of this page (all lines required):
      ```
 
 1.   Commit your changes to a new fork and start a new Merge Request.
-1.   Fill out the form at https://about.gitlab.com/open-source/
-
-## Requirements
-
-To apply:
-- You need to be a project lead or a core contributor for an active open source project.
-- Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
-- Your project must not seek to make profit from the resulting project software.
-
-If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/).
-If you're not sure if your project meets these requirements, please [contact our support team](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334447) for help.
-
-We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will contact you.
+1.   Fill out the form at our [OSS page](https://about.gitlab.com/solutions/open-source/)
 
 ## License/subscription details
 
