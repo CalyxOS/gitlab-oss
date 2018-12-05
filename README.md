@@ -44,6 +44,11 @@ section at the bottom of this page (all lines required):
 
 ## Open source projects using GitLab Ultimate or Gold
 
+    ### STE||AR-Group
+    The STE||AR-Group is an organisation fostering the development of Open Source and highly scalable solutions for the HPC community. Our most prominent product is [HPX](http://stellar-group.org/libraries/hpx/). We use Gitlab for Continuos Integration.
+    https://stellar-group.org
+    Gold
+
     ### GNU Mailman
     GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://gitlab.com/mailman) and Continuous Integration.
     https://list.org
