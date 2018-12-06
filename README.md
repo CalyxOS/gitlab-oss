@@ -493,7 +493,7 @@ section at the bottom of this page (all lines required):
     An open source android based fork of OmniROM for OnePlus and other devices
     https://gitlab.com/HolyDragonProject/android
     Gold
-    
+
     ### Fly Delta Virtual: Open Source Projects (OSP)
     Open sourced, community built projects for the phpVMS platform.
     https://gitlab.com/flydeltavirtual/osp
@@ -683,22 +683,22 @@ section at the bottom of this page (all lines required):
     A research framework in ocean mapping (https://www.hydroffice.org)
     https://gitlab.com/HydrOffice
     Gold
-    
+
     ### Fudaa
     Integration Platform For Scientific Codes
     https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview
     Gold
-    
+
     ### SIM-ScALA-BIM
     SIM-ScALA-BIM is an Abraca-what? board game clone written in Scala as final project elaboration for University exam.
     https://gitlab.com/abra-team/sim-scala-bim
     Gold
-    
+
     ### eQuartier
     eQuartier is an association under the French law of 1901. We aim to give the local independant shops a way to take back the marketshare of big retail stores and online retailers. We empower local communities build around small local bike transportation companies, local shopkeepers and inhabitants. To do so we're developping an AGPL licenced web platform, first with prestashop and next based on solid project together with the cooperativism platform community in France.
     https://equartier.fr
     Gold
-    
+
     ### malscan
     A linux malware scanner for web servers.
     https://malscan.com
@@ -713,32 +713,32 @@ section at the bottom of this page (all lines required):
     Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation.
     https://openci.io
     Gold
-    
+
     ### RiSiRiPlugin
     RiSiRiPlugin is a open-source plugin for schools with an warehouse that want to keep track of there stuff. 
     https://github.com/MextroNL/risiriplugin
     Gold
-    
+
     ### Fantom Foundation
     Fantom Foundation engages in blockchain research and open-sources everything.
     https://fantom.foundation
     Ultimate
-    
+
     ### Screencam screen recorder
     Android app to record screen using native API and without root
     https://gitlab.com/vijai/screenrecorder
     Gold
-    
+
     ### Mpm
     A cross-platform Assembler that supports Zilog Z80/Z180/Z380 CPU assembly language. Future works will support Elf format and Arm + Mips CPU's.
     https://gitlab.com/bits4fun/mpm
     Ultimate
-    
+
     ### Propositum
     Combine open-source, portable tools to facilitate task & information management, automation, data manipulation and analytics.
     https://gitlab.com/xeijin/propositum
     Gold
-    
+
     ### PushFish
     We aim to make Push notifications accessible for anyone who doesn't want to rely on others. https://gitlab.com/PushFish
     http://push.fish
@@ -748,7 +748,7 @@ section at the bottom of this page (all lines required):
     Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools (mainly in R) for performing our research in a more reproducible way.  
     https://github.com/kwb-r
     Gold   
-    
+
     ### RedServ
     A semi-fast python web framework.
     https://gitlab.com/Red_M/redserv
@@ -758,7 +758,7 @@ section at the bottom of this page (all lines required):
     MyBB is a free and open source, community-based forum software project.
     https://mybb.com/
     Gold
-    
+
     ### TreasureHunt
     We develop a treasure hunt game for Android that started out as a student project and now because our hobby.
     https://gitlab.com/mowies/TreasureHunt
@@ -768,12 +768,12 @@ section at the bottom of this page (all lines required):
     Aha! Event is built on the idea of showcasing a curated list of all the FLOSS conferences on a single platform. This helps open source enthusiasts track call for proposal (CFP), important dates, venue details etc. effortlessly. 
     https://www.ahaevent.org
     Ultimate
-    
+
     ### ASE
     Atomic Simulation Environment, A Python library for working with atoms
     https://wiki.fysik.dtu.dk/ase/
     Gold
-        
+
     ### Microservice Patterns
     This project will produce libraries to facilitate Microservice development using CQRS and ES patterns
     https://gitlab.com/cloud.yantra.oss/microservice-patterns-cqrs
@@ -783,22 +783,22 @@ section at the bottom of this page (all lines required):
     A free and open-source operating system for handheld devices, based on the Android mobile platform.
     https://lineageos.org
     Gold
-    
+
     ### HueMagic
     HueMagic provides several input and output nodes for Node-RED and is the most in-depth and easy to use solution to control Philips Hue bridges, lights, groups, scenes, taps, switches, motion sensors, temperature sensors and Lux sensors.
     https://gitlab.com/foddy/huemagic
     Gold
-    
+
     ### LIP Computing
     Experimental Particle Physics Portuguese Laboratory, Computing Center group
     https://www.lip.pt
     Ultimate
-    
+
     ### CodaProtocol
     Coda is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.
     https://codaprotocol.com
     Gold
-    
+
     ### pynmet
     A python package to easy acess of brazilian meteorological sites data
     https://gitlab.com/sehnem/pynmet
@@ -808,7 +808,7 @@ section at the bottom of this page (all lines required):
     Freifunk is a non-commercial wireless community network providing free and open internet access to the general public for that we are building the Freifunk mesh network in the metropolitan area of Frankfurt. Not just with the goal of supplying Internet access but also with the idea of building a decentralized public network and imparting the knowledge and the technical skills to do so. We use Gitlab for all our developments that are open source.
     https://frickel.cloud/
     Ultimate
-    
+
     ### VoxelGamesLib
     An open source framework to expand the game Minecraft with simple to complex mini games, promoting the use of modularity and enabling content creators without developer knowledge to customize existing or create new minigames by using a data driven approach.   
     https://voxelgameslib.com/docs/ and https://github.com/VoxelGamesLib/VoxelGamesLibv2/
@@ -818,7 +818,7 @@ section at the bottom of this page (all lines required):
     FWUL - the most reliable adb/fastboot live system ever - to manage ANY Android without driver hassle
     https://code.binbash.it:8443/Carbon-Fusion/build_fwul  (details: http://bit.do/FWULatXDA)
     Ultimate
-    
+
     ### Linuxserver.io
     We containerise dozens of applications from across the web and release them as well documented, maintained and updated containers.
     https://linuxserver.io
@@ -827,12 +827,13 @@ section at the bottom of this page (all lines required):
     ### NTPsec
     Secure, hardened, and improved implementation of Network Time Protocol derived from NTP Classic, Dave Mills’s original.
     https://gitlab.com/NTPsec/ntpsec
-    
+    Gold
+
     ### OpenWISP
-    OpenWISP is a network management system that allows managing and automating several aspects of a network:, dynamic auto-configuration of new nodes, creation of VPN tunnels, initialization of WiFi access points, configuration of mesh networks, configuration of any other network configuration supported by OpenWRT
+    OpenWISP is a network management system that allows managing and automating several aspects of a network: dynamic auto-configuration of new nodes, creation of VPN tunnels, initialization of WiFi access points, configuration of mesh networks, configuration of any other network configuration supported by OpenWRT
     http://openwisp.org/
     Gold
-    
+
     ### The Hammer
     An open source multifunctional Discord bot
     https://gitlab.com/TheHammerBot
@@ -842,7 +843,7 @@ section at the bottom of this page (all lines required):
     NLX is an open source inter-organisational system facilitating federated authentication, secure connecting and protocolling in a large-scale, dynamic API landscape.
     https://gitlab.com/commonground/nlx
     Gold
-    
+
     ### Open Technologies Alliance - GFOSS
     GFOSS – Open Technologies Alliance  is a non-profit organization founded in 2008, 36 Universities and Research Centers are shareholders of GFOSS. Our main goal is to promote Openness through the use and the development of Open Standards and Open Technologies in Education, Public Administration and Business in Greece. We are platform for Open Standards, Free Software, Open Content, Open Data & Open Hardware in Greece. The major Greek Universities and Research Centers participate in GFOSS – Open Technologies Alliance, while leading members of the Greek community of developers play a key role in the implementation of our policies.
     http:/gfoss.eu
@@ -852,27 +853,27 @@ section at the bottom of this page (all lines required):
     We are building a scientific platform to easily run experiments using Android and pretty much any kind of hardware that supports USB Serial or BT Serial. Our goal is to make possible for everyone to build their own survey, run measurements and compare results with other contributors.
     http://blog.our-sci.net/
     Gold
-    
+
     ### Daedalus Project
-    Daedalus project aims to be a powerfull in interface for managing orchestrated applications and server configuration across multiple SaaS providers.
+    Daedalus project aims to be a powerful in interface for managing orchestrated applications and server configuration across multiple SaaS providers.
     https://git.daedalus-project.io/daedalusproject
     Ultimate
-    
+
     ### Glasgow Haskell Compiler
     An industrial-strength implementation of the Haskell programming language
     http://ghc.haskell.org/
     Gold
-    
+
     ### Neurochain
     Neurochain is a new augmented blockchain based on intelligent decision making mechanisms.
     https://www.neurochaintech.io/
     Gold
-    
+
     ### @apifie/node-microservice
     node-microservice is a Node JS module / framework / boiler-plate / blueprint to accelerate and standardize micro-services development
     https://gitlab.com/apifie/nodems/node-microservice
     Gold    
-    
+
     ### @apifie/full-feature-micro-service-example
     It provies some examples / samples to use @apifie/node-microservice (above)
     https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example
@@ -887,7 +888,7 @@ section at the bottom of this page (all lines required):
     A safer internet through transparency: on a mission to have 1.000.000 vulnerabilities fixed, forever.
     Showcase: https://faalkaart.nl Repo: https://gitlab.com/failmap
     Gold
-    
+
     ### uMod
     Universal modding platform and plugin API for Unity, Unreal, .NET/C#, and C++ games
     https://umod.org
@@ -902,7 +903,7 @@ section at the bottom of this page (all lines required):
     Gitlab server hosting Open Spurce project from EMBL-EBI
     https://gitlabci.ebi.ac.uk or https://gitlab.ebi.ac.uk
     Ultimate
-    
+
     ### ArrayExpress
     MIAME-standard compliant resource that stores functional genomics experiments performed using RNA-Seq/ChIP-Seq and array-based technologies
     https://www.ebi.ac.uk/arrayexpress
@@ -973,7 +974,8 @@ section at the bottom of this page (all lines required):
     https://www.ebi.ac.uk/ena
     ultimate
 
-    ### Ensembl Curated annotation on selected eukaryotic genomes.
+    ### Ensembl
+    Curated annotation on selected eukaryotic genomes.
     https://www.ensembl.org
     ultimate
 
@@ -992,7 +994,8 @@ section at the bottom of this page (all lines required):
     http://www.europepmc.org
     ultimate
 
-    ### European Variation Archive,The European Variation Archive is an open-access database of all types of genetic variation data from all species.
+    ### European Variation Archive
+    The European Variation Archive is an open-access database of all types of genetic variation data from all species.
     https://www.ebi.ac.uk/eva
     ultimate
 
@@ -1104,6 +1107,7 @@ section at the bottom of this page (all lines required):
     ### Libre Space Foundation
     A non-profit organization creating open source space technologies.
     https://libre.space
+    Gold
 
     ### Astian OS
     It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](ḧttps://astian.org)
@@ -1146,6 +1150,6 @@ section at the bottom of this page (all lines required):
     Gold
 
     ### cqOS
-    We're CryptoQuarry Inc, a small team of engineers working on fully autonomous and self-healing crypto mining warehouses. We noticed there's no usable open source OS for mining crypto, and that lots of people have capitalized on making very minor features and selling them for major costs. We want to change that space and create a free, open-source OS that miners can use at any scale: small, medium, or large! The whole spirit of cryptocurrencies is that everything is community-driven and that any layman can start mining, and we want to help bridge that gap. 
+    We're CryptoQuarry Inc, a small team of engineers working on fully autonomous and self-healing crypto mining warehouses. We noticed there's no usable open source OS for mining crypto, and that lots of people have capitalized on making very minor features and selling them for major costs. We want to change that space and create a free, open-source OS that miners can use at any scale: small, medium, or large! The whole spirit of cryptocurrencies is that everything is community-driven and that any layman can start mining, and we want to help bridge that gap.
     https://gitlab.com/CryptoQuarry/cqOS
     Gold
