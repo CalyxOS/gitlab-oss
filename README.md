@@ -745,8 +745,7 @@ section at the bottom of this page (all lines required):
     Gold
 
     ### KWB-R
-    Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools 
-    (mainly in R) for performing our research in a more reproducible way.  
+    Kompetenzzentrum Wasser Berlin gGmbH (KWB) is an international centre for water research and knowledge transfer. We are developing open-source tools (mainly in R) for performing our research in a more reproducible way.  
     https://github.com/kwb-r
     Gold   
     
@@ -830,12 +829,7 @@ section at the bottom of this page (all lines required):
     https://gitlab.com/NTPsec/ntpsec
     
     ### OpenWISP
-    OpenWISP is a network management system that allows managing and automating several aspects of a network:
-     - dynamic auto-configuration of new nodes
-     - creation of VPN tunnels
-     - initialization of WiFi access points
-     - configuration of mesh networks
-     - configuration of any other network configuration supported by OpenWRT
+    OpenWISP is a network management system that allows managing and automating several aspects of a network:, dynamic auto-configuration of new nodes, creation of VPN tunnels, initialization of WiFi access points, configuration of mesh networks, configuration of any other network configuration supported by OpenWRT
     http://openwisp.org/
     Gold
     
@@ -1142,8 +1136,7 @@ section at the bottom of this page (all lines required):
     Ultimate
 
     ### Fork AD
-    Fork AD is a fork of 0 A.D. a free, open-source,
-    cross-platform real-time strategy game of ancient warfare.
+    Fork AD is a fork of 0 A.D. a free, open-source, cross-platform real-time strategy game of ancient warfare.
     https://gitlab.com/fork-ad
     Gold
 
