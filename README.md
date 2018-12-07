@@ -18,28 +18,28 @@ If you're not sure if your project meets these requirements, please send an emai
 
 We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will send you a quote.
 
-## Here's how to apply
+## How to apply
 
 1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
-1.   Edit this file and add an entry to the [Open source projects using GitLab Ultimate or Gold](#open-source-projects-using-gitlab-ultimate-or-gold)
-section at the bottom of this page (all lines required):
-
+1.   Create a fork of this project
+1.   Edit the [`projects.yaml` file](data/projects.yaml) and add an entry for your project using this template:
      ```
-     ### Project name
-     A short description of what you do and why.
-     https://myawesomeproject.org
-     Ultimate or Gold?
+     -
+     project_name: 'Project awesome'
+     project_description: 'Describe what your project is about.'
+     project_url: 'https://projectawesome.org (if you do not have a project site, use the GitLab repository URL)'
+     gitlab_plan: Gold or Ultimate
      ```
-
-1.   Commit your changes to a new fork and start a new Merge Request.
+1.   Commit the changes to your fork and submit a new Merge Request against this project.
 1.   Fill out the form at our [OSS page](https://about.gitlab.com/solutions/open-source/)
 
 ## License/subscription details
 
-- You'll receive a 1 year license for GitLab Ultimate or subscription for GitLab Gold.
-- Support is not included, but can be purchased for 95% off, at $4.95/user/month. [Contact Sales](https://ultimate-free-post.about.gitlab.com/sales/) for that.
-- Your license/subscription can be renewed each year if your project still meets the requirements.
-   - [Contact Sales](https://ultimate-free-post.about.gitlab.com/sales/) 30 days before your license/subscription ends.
+- You'll receive either a license for GitLab Ultimate or a subscription for GitLab Gold.
+- Either of those will be valid for 1 year. After that period, a renewal will be required, which will be at no cost.
+- Support is not included, but can be purchased for 95% off, at $4.95/user/month. [Contact Sales](https://about.gitlab.com/sales/) for that.
+- Your license/subscription can be renewed each year for free if your project still meets the requirements.
+   - [Contact Sales](https://about.gitlab.com/sales/) 30 days before your license/subscription ends.
 - Licenses and subscriptions cannot be transferred or sold.
 
 ## Open source projects using GitLab Ultimate or Gold
