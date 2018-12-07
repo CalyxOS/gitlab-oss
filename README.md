@@ -11,7 +11,7 @@ It has already been the case for years that that any public project on GitLab.co
 To apply:
 - You need to be a project lead or a core contributor for an active open source project.
 - Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
-- Your project must not seek to make profit from the resulting project software.
+- Your project **must not seek to make profit from the resulting project software**.
 
 If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/).
 If you're not sure if your project meets these requirements, please send an email to opensource@gitlab.com. 
