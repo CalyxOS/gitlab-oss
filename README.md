@@ -1,29 +1,31 @@
 ![](images/gitlab-loves-open-source.png)
 
-# GitLab Ultimate or Gold for Open Source Projects
+# GitLab top tiers are free for Open Source Projects
 
-We take our responsibility of open source stewardship very seriously (https://about.gitlab.com/2016/01/11/being-a-good-open-source-steward/ and https://about.gitlab.com/stewardship/).
+GitLab exists today in large part thanks to the work of a vast community of open source contributors around the world. As a company, we are deeply committed to being a good [steward for the Open Source project](https://about.gitlab.com/stewardship). To give back to this community who gives us so much, we want to enable teams be more efficient, secure, and productive. We believe the best way for them to achieve this is by using as many of the capabilities of GitLab as possible.
 
-GitLab exists today in large part thanks to the work of hundreds of thousands of open source contributors around the world. To give back to this community who gives us so much, we want to help teams be more efficient, secure, and productive. We believe the best way for them to achieve this is by using as many of the capabilities of GitLab as possible.
+As such, we are offering a complimentary license to GitLab Ultimate (self-hosted) or subscription to GitLab Gold (SaaS) to any Open Source project using GitLab.
 
-It has already been the case for years that that any public project on GitLab.com gets all Gold features. We are happy to now offer a complimentary license to GitLab Ultimate (self-hosted) or subscription to GitLab Gold (SaaS) to all open source projects.
+## Benefits
+
+- Free Ultimate license (self-managed), or alternatively free Gold subscription (hosted at gitlab.com) for Open Source projects.
+- Optional paid support at a 95% discount ($4.95/user/month instead of $99/user/month).
 
 ## Requirements
 
-To apply:
+To be eligible:
 - You need to be a project lead or a core contributor for an active open source project.
-- Your project needs to use an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
+- Your project needs to be under an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
 - Your project **must not seek to make profit from the resulting project software**.
 
-If you or your company work on commercial projects, consider our [plans for businesses](https://about.gitlab.com/pricing/).
-If you're not sure if your project meets these requirements, please send an email to opensource@gitlab.com. 
+If you or your company work on commercial projects, please consider our [plans for businesses](https://about.gitlab.com/pricing/) instead.
 
-We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will send you a quote.
+If you are not sure whether your project meets these requirements, please send us an email at [mailto:opensource@gitlab.com](opensource@gitlab.com) and we will be happy to help.
 
 ## How to apply
 
-1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
-1.   Create a fork of this project
+1.   [Create a gitlab.com account](https://gitlab.com/users/sign_in) if you do not have one already
+1.   [Create a fork of this project](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/gitlab-oss/forks/new)
 1.   Edit the [`projects.yaml` file](data/projects.yaml) and add an entry for your project using this template:
      ```yaml
      -
@@ -35,11 +37,15 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 1.   Commit the changes to your fork and submit a new Merge Request against this project.
 1.   Fill out the form at our [OSS page](https://about.gitlab.com/solutions/open-source/)
 
-## License/subscription details
 
-- You'll receive either a license for GitLab Ultimate or a subscription for GitLab Gold.
+We'll review all requests and accept them at our discretion. If accepted, your project will be listed below and we will send you a quote.
+
+## License and subscription details
+
+- Once your application has been accepted, you'll be granted either a free license for GitLab Ultimate or a free subscription for GitLab Gold.
 - Either of those will be valid for 1 year. After that period, a renewal will be required, which will be at no cost.
-- Support is not included, but can be purchased for 95% off, at $4.95/user/month. [Contact Sales](https://about.gitlab.com/sales/) for that.
-- Your license/subscription can be renewed each year for free if your project still meets the requirements.
-   - [Contact Sales](https://about.gitlab.com/sales/) 30 days before your license/subscription ends.
+- Paid support is not included, but can be optionally purchased at a 95% discount ($4.95/user/month).
+- You can also purchase support after your application has been accepte by directly [contacting the GitLab Sales team](https://about.gitlab.com/sales/).
+- Your license or subscription can be renewed each year for free if your project still meets the requirements.
+   - [Contact Sales](https://about.gitlab.com/sales/) 30 days before your license or subscription ends for the renewal.
 - Licenses and subscriptions cannot be transferred or sold.
