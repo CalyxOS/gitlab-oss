@@ -1,4 +1,6 @@
-![](images/gitlab-loves-open-source.png)
+<p align="center">
+  <img src="https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/gitlab-oss/raw/readme-improvements/images/gitlab-loves-open-source.png" alt="Markdownify" width="600">
+</p>
 
 # GitLab Ultimate or Gold for Open Source Projects
 
