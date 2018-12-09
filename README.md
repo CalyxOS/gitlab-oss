@@ -23,7 +23,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
 1.   Create a gitlab.com account for your open source project: https://gitlab.com/users/sign_in
 1.   Create a fork of this project
 1.   Edit the [`projects.yaml` file](data/projects.yaml) and add an entry for your project using this template:
-     ```
+     ```yaml
      -
      project_name: 'Project awesome'
      project_description: 'Describe what your project is about.'
