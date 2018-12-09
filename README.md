@@ -1,3 +1,5 @@
+![](images/gitlab-loves-open-source.png)
+
 # GitLab Ultimate or Gold for Open Source Projects
 
 We take our responsibility of open source stewardship very seriously (https://about.gitlab.com/2016/01/11/being-a-good-open-source-steward/ and https://about.gitlab.com/stewardship/).
