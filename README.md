@@ -27,7 +27,7 @@ We'll review all requests and accept them at our discretion. If accepted, your p
      -
      project_name: 'Project awesome'
      project_description: 'Describe what your project is about.'
-     project_url: 'https://projectawesome.org (if you do not have a project site, use the GitLab repository URL)'
+     project_url: 'https://projectawesome.org (if you don't have a project site, use the GitLab project URL)'
      gitlab_plan: Gold or Ultimate
      ```
 1.   Commit the changes to your fork and submit a new Merge Request against this project.
