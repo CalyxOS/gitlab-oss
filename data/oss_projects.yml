@@ -40,7 +40,7 @@
     gitlab_plan: Ultimate
 -
     project_name: 'Astian OS'
-    project_description: 'It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](ḧttps://astian.org)'
+    project_description: 'It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](https://astian.org)'
     project_url: 'https://www.astian.org/astian-os'
     gitlab_plan: Gold
 -
@@ -60,7 +60,7 @@
     gitlab_plan: Gold
 -
     project_name: 'Aurora OSS'
-    project_description: 'An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore (https://gitlab.com/AuroraOSS/AuroraStore)'
+    project_description: 'An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore'
     project_url: 'https://gitlab.com/AuroraOSS/'
     gitlab_plan: Ultimate
 -
