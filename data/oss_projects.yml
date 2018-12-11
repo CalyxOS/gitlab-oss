@@ -1,6 +1,6 @@
-﻿-
+-
     project_name: ASE
-    project_description: 'Atomic Simulation Environment, A Python library for working with atoms'
+    project_description: 'Atomic Simulation Environment, a Python library for working with atoms'
     project_url: 'https://wiki.fysik.dtu.dk/ase/'
     gitlab_plan: Gold
 -
