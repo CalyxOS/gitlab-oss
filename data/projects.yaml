@@ -1108,3 +1108,8 @@
     project_description: 'Universal modding platform and plugin API for Unity, Unreal, .NET/C#, and C++ games'
     project_url: 'https://umod.org'
     gitlab_plan: Gold
+
+    project_name: Crown Platform
+    project_description: 'A decentralized blockchain platform for building and running new economy applications. It is completely decentralized, no company behind it. The project is managed using its own governance system, which is part of the software.'
+    project_url: 'https://crown.tech'
+    gitlab_plan: Ultimate
