@@ -1,4 +1,4 @@
-﻿-
+-
     project_name: '@apifie/full-feature-micro-service-example'
     project_description: 'It provies some examples / samples to use @apifie/node-microservice (above)'
     project_url: 'https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example'
@@ -1108,3 +1108,8 @@
     project_description: 'Universal modding platform and plugin API for Unity, Unreal, .NET/C#, and C++ games'
     project_url: 'https://umod.org'
     gitlab_plan: Gold
+-
+    project_name: 'Phanda PHP Framework'
+    project_description: 'Phanda is a new, fast and modern PHP framework that aims at being simple to use and highly configurable.'
+    project_url: 'https://phandaframework.com/docs'
+    gitlab_plan: Ultimate
