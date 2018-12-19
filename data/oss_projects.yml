@@ -1,16 +1,6 @@
-﻿-
-    project_name: '@apifie/full-feature-micro-service-example'
-    project_description: 'It provies some examples / samples to use @apifie/node-microservice (above)'
-    project_url: 'https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example'
-    gitlab_plan: Gold
--
-    project_name: '@apifie/node-microservice'
-    project_description: 'node-microservice is a Node JS module / framework / boiler-plate / blueprint to accelerate and standardize micro-services development'
-    project_url: 'https://gitlab.com/apifie/nodems/node-microservice'
-    gitlab_plan: Gold
 -
     project_name: ASE
-    project_description: 'Atomic Simulation Environment, A Python library for working with atoms'
+    project_description: 'Atomic Simulation Environment, a Python library for working with atoms'
     project_url: 'https://wiki.fysik.dtu.dk/ase/'
     gitlab_plan: Gold
 -
@@ -50,7 +40,7 @@
     gitlab_plan: Ultimate
 -
     project_name: 'Astian OS'
-    project_description: 'It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](ḧttps://astian.org)'
+    project_description: 'It is an operating system based on Ubuntu but inheriting the concept of Firefox OS, we developed an operating system that fully promotes WebApps, user privacy and security. At the moment Astian OS is aimed at desktop and ARM devices and later will be for mobile devices. Using the desktop environment Sauce Desktop also free software project using GTK and web technology. Developed by [Astian Foundation](https://astian.org)'
     project_url: 'https://www.astian.org/astian-os'
     gitlab_plan: Gold
 -
@@ -70,7 +60,7 @@
     gitlab_plan: Gold
 -
     project_name: 'Aurora OSS'
-    project_description: 'An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore (https://gitlab.com/AuroraOSS/AuroraStore)'
+    project_description: 'An open source ecosystem to provide an alternate to Google Ecosystem. Currently we provide AuroraStore as an alternate to Google PlayStore'
     project_url: 'https://gitlab.com/AuroraOSS/'
     gitlab_plan: Ultimate
 -
@@ -339,6 +329,11 @@
     project_url: 'https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview'
     gitlab_plan: Gold
 -
+    project_name: 'full-feature-micro-service-example'
+    project_description: 'It provies some examples / samples to use @apifie/node-microservice (above)'
+    project_url: 'https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example'
+    gitlab_plan: Gold
+-
     project_name: GLPI
     project_description: 'GLPI stands for Gestionnaire Libre de Parc Informatique is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.'
     project_url: 'http://glpi-project.org/'
@@ -346,7 +341,7 @@
 -
     project_name: 'GNU Mailman'
     project_description: 'GNU Mailman is a free and open source mailing list manager. We use Gitlab for all our [development](https://gitlab.com/mailman) and Continuous Integration.'
-    project_url: 'https://list.org'
+    project_url: 'https://www.list.org'
     gitlab_plan: Gold
 -
     project_name: Gestures
@@ -633,6 +628,11 @@
     project_description: 'An open source drag-and-drop form builder for WordPress'
     project_url: 'https://ninjaforms.com/'
     gitlab_plan: Ultimate
+-
+    project_name: 'node-microservice'
+    project_description: 'node-microservice is a Node JS module / framework / boiler-plate / blueprint to accelerate and standardize micro-services development'
+    project_url: 'https://gitlab.com/apifie/nodems/node-microservice'
+    gitlab_plan: Gold
 -
     project_name: NoSQLMap
     project_description: 'Automated NoSQL database enumeration and web application exploitation tool for security professionals.'
