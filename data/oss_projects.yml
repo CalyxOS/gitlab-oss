@@ -1108,3 +1108,8 @@
     project_description: 'Universal modding platform and plugin API for Unity, Unreal, .NET/C#, and C++ games'
     project_url: 'https://umod.org'
     gitlab_plan: Gold
+-
+    project_name: purify
+    project_description: 'Vulnerability management tool for simplifying SecOps workflow'
+    project_url: 'https://gitlab.com/purify-dev/purify'
+    gitlab_plan: Gold
