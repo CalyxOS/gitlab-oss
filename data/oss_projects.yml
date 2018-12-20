@@ -1109,7 +1109,14 @@
     project_url: 'https://umod.org'
     gitlab_plan: Gold
 -
+<<<<<<< HEAD:data/oss_projects.yml
     project_name: purify
     project_description: 'Vulnerability management tool for simplifying SecOps workflow'
     project_url: 'https://gitlab.com/purify-dev/purify'
     gitlab_plan: Gold
+=======
+    project_name: Crown Platform
+    project_description: 'A decentralized blockchain platform for building and running new economy applications. It is completely decentralized, no company behind it. The project is managed using its own governance system, which is part of the software.'
+    project_url: 'https://crown.tech'
+    gitlab_plan: Ultimate
+>>>>>>> artem-brazhnikov/gitlab-oss-master:data/projects.yaml
