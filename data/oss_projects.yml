@@ -1133,3 +1133,8 @@
     project_description: 'Phanda is a new, fast and modern PHP framework that aims at being simple to use and highly configurable.'
     project_url: 'https://phandaframework.com/docs'
     gitlab_plan: Ultimate
+-
+    project_name: 'Discordlist.org'
+    project_description: 'Discordlist.org is a project which provides free high quality Discord bots like Groovybot.co'
+    project_url: 'https://discordlist.org'
+    gitlab_plan: Ultimate
