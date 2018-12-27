@@ -1,4 +1,4 @@
-![](images/gitlab-loves-open-source.png)
+![GitLab loves Open Source](images/gitlab-loves-open-source.png)
 
 # GitLab top tiers are free for Open Source Projects
 
@@ -15,18 +15,18 @@ As such, we are offering a complimentary license to GitLab Ultimate (self-hosted
 
 To be eligible:
 - You need to be a project lead or a core contributor for an active open source project.
-- Your project needs to be under an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical#)
+- Your project needs to be under an [OSI-accepted open source license](https://opensource.org/licenses/alphabetical)
 - Your project **must not seek to make profit from the resulting project software**.
 
 If you or your company work on commercial projects, please consider our [plans for businesses](https://about.gitlab.com/pricing/) instead.
 
-If you are not sure whether your project meets these requirements, please send us an email at [mailto:opensource@gitlab.com](opensource@gitlab.com) and we will be happy to help.
+If you are not sure whether your project meets these requirements, please send us an email at [opensource@gitlab.com](mailto:opensource@gitlab.com) and we will be happy to help.
 
 ## How to apply
 
 1.   [Create a gitlab.com account](https://gitlab.com/users/sign_in) if you do not have one already
 1.   [Create a fork of this project](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/gitlab-oss/forks/new)
-1.   Edit the [`projects.yaml` file](data/projects.yaml) and add an entry for your project using this template:
+1.   Edit the [`oss_projects.yml` file](data/oss_projects.yml) and add an entry for your project using this template:
      ```yaml
      -
      project_name: 'Project awesome'
