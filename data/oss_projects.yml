@@ -1138,3 +1138,8 @@
     project_description: 'Discordlist.org is a project which provides free high quality Discord bots like Groovybot.co'
     project_url: 'https://discordlist.org'
     gitlab_plan: Ultimate
+-
+    project_name: 'Dekko'
+    project_description: 'Dekko is an email client for Ubuntu devices'
+    project_url: 'https://dekkoproject.org'
+    gitlab_plan: Gold
