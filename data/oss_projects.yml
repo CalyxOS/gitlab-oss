@@ -1143,3 +1143,8 @@
     project_description: 'Dekko is an email client for Ubuntu devices'
     project_url: 'https://dekkoproject.org'
     gitlab_plan: Gold
+
+    project_name: 'ns-3 network simulator'
+    project_description: 'ns-3 is a discrete-event network simulator for performance evaluation of networks'
+    project_url: 'https://www.nsnam.org'
+    gitlab_plan: Gold
