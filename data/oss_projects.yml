@@ -1143,8 +1143,28 @@
     project_description: 'Dekko is an email client for Ubuntu devices'
     project_url: 'https://dekkoproject.org'
     gitlab_plan: Gold
-
+-
     project_name: 'ns-3 network simulator'
     project_description: 'ns-3 is a discrete-event network simulator for performance evaluation of networks'
     project_url: 'https://www.nsnam.org'
     gitlab_plan: Gold
+-
+    project_name: 'Contao Bootstrap Customizer'
+    project_description: 'Backend module for Contao to generate and manage bootstrap themes'
+    project_url: 'https://gitlab.fipps.de:8443/contao/contao4/contao-bootstrapcustomizer-bundle'
+    gitlab_plan: Ultimate
+-
+    project_name: 'Contao Isotope Colorattribute'
+    project_description: 'Extension for Contao Isotope which adds color attributes to products'
+    project_url: 'https://gitlab.fipps.de:8443/contao/contao4/isotope-colorattribute-bundle'
+    gitlab_plan: Ultimate
+-
+    project_name: 'Contao Download Lists'
+    project_description: 'Extension for Contao to manage download lists'
+    project_url: 'https://gitlab.fipps.de:8443/contao/contao4/downloadlists-bundle'
+    gitlab_plan: Ultimate
+-
+    project_name: 'Contao RSS Import '
+    project_description: 'Extension for Contao to import news from RSS feeds'
+    project_url: 'https://gitlab.fipps.de:8443/contao/contao4/rssimport-bundle'
+    gitlab_plan: Ultimate
