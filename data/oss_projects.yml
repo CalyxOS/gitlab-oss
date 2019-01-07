@@ -1168,3 +1168,9 @@
     project_description: 'Extension for Contao to import news from RSS feeds'
     project_url: 'https://gitlab.fipps.de:8443/contao/contao4/rssimport-bundle'
     gitlab_plan: Ultimate
+-
+    project_name: 'Pipeline Components'
+    project_description: 'A Collection of easy to use, small and up to date containers for builing gitlab pipelines'
+    project_url: 'http://pipeline-components.gitlab.io'
+    gitlab_plan: Gold
+    
