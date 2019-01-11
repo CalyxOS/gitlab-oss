@@ -979,6 +979,11 @@
     project_url: 'https://www.validity.org.uk/'
     gitlab_plan: Gold
 -
+    project_name: 'Verbose Equals True'
+    project_description: 'Verbose Equals True demonstrates and explains the full process of building, testing and deploying web applications built with Django, VueJS, Docker, nginx, Traefik and GitLab.'
+    project_url: 'https://verbose-equals-true.tk'
+    project_plan: Gold
+-
     project_name: VerusCoin
     project_description: 'VerusCoin is a new, mineable and stakeable cryptocurrency. It is a live fork of Komodo that retains its Zcash lineage and improves it.'
     project_url: 'https://veruscoin.io/'
