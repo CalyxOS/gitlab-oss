@@ -1,4 +1,10 @@
 -
+    project_name: PERLUR Group
+    project_description: Several different open-source projects, libraries, scripts, Docker images, you name it
+    project_url: 'https://github.com/PERLUR'
+    gitlab_plan: Ultimate
+-
+-
     project_name: '@apifie/full-feature-micro-service-example'
     project_description: 'It provies some examples / samples to use @apifie/node-microservice (below)'
     project_url: 'https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example'
