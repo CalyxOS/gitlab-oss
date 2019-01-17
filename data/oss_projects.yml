@@ -1178,4 +1178,9 @@
     project_description: 'A Collection of easy to use, small and up to date containers for builing gitlab pipelines'
     project_url: 'http://pipeline-components.gitlab.io'
     gitlab_plan: Gold
-    
+-
+    project_name: 'Coriolis'
+    project_description: 'Describe what your project is about.'
+    project_url: 'https://coriolis.io'
+    gitlab_plan: Ultimate
+
