@@ -1178,4 +1178,9 @@
     project_description: 'A Collection of easy to use, small and up to date containers for builing gitlab pipelines'
     project_url: 'http://pipeline-components.gitlab.io'
     gitlab_plan: Gold
-    
+-
+    project_name: 'S2OPC'
+    project_description: 'Open-source OPC-UA Toolkit designed with security and embedded devices in mind'
+    project_url: 'https://gitlab.com/systerel/S2OPC'
+    gitlab_plan: Gold
+        
