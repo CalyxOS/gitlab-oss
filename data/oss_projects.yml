@@ -1178,4 +1178,8 @@
     project_description: 'A Collection of easy to use, small and up to date containers for builing gitlab pipelines'
     project_url: 'http://pipeline-components.gitlab.io'
     gitlab_plan: Gold
-    
+-
+    project_name: 'Echo Three'
+    project_description: 'A Java EE application toolkit providing an extensible platform for customer management (CRM), product information management (PIM), content management (CMS) and other functionality. Easily integrated with other applications through a GraphQL API, Java EE EJBs or JSP taglib.'
+    project_url: 'https://gitlab.echothree.com/echothree/echothree'
+    gitlab_plan: Ultimate
