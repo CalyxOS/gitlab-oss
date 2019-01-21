@@ -1193,3 +1193,8 @@
     project_description: 'Describe what your project is about.'
     project_url: 'https://coriolis.io'
     gitlab_plan: Ultimate
+-
+    project_name: 'S2OPC'
+    project_description: 'Open-source OPC-UA Toolkit designed with security and embedded devices in mind'
+    project_url: 'https://gitlab.com/systerel/S2OPC'
+    gitlab_plan: Gold
