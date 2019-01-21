@@ -4,7 +4,6 @@
     project_url: 'https://github.com/PERLUR'
     gitlab_plan: Ultimate
 -
--
     project_name: '@apifie/full-feature-micro-service-example'
     project_description: 'It provies some examples / samples to use @apifie/node-microservice (below)'
     project_url: 'https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example'
@@ -1188,4 +1187,9 @@
     project_name: 'Echo Three'
     project_description: 'A Java EE application toolkit providing an extensible platform for customer management (CRM), product information management (PIM), content management (CMS) and other functionality. Easily integrated with other applications through a GraphQL API, Java EE EJBs or JSP taglib.'
     project_url: 'https://gitlab.echothree.com/echothree/echothree'
+    gitlab_plan: Ultimate
+-
+    project_name: 'Coriolis'
+    project_description: 'Describe what your project is about.'
+    project_url: 'https://coriolis.io'
     gitlab_plan: Ultimate
