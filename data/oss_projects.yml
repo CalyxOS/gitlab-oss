@@ -184,6 +184,11 @@
     project_url: 'https://codaprotocol.com'
     gitlab_plan: Gold
 -
+    project_name: 'Code Shelter'
+    project_description: 'Code Shelter is a collective of volunteer software developers that aims to help with maintaining popular open source projects whose authors need a hand or don\'t have the time to maintain them any more.'
+    project_url: 'https://www.codeshelter.co/'
+    gitlab_plan: Gold
+-
     project_name: Coinbot
     project_description: 'Coinbot is a discord bot to check the price of many cryptocurrencies.'
     project_url: 'https://coinbot.ovh'
