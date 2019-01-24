@@ -1198,3 +1198,8 @@
     project_description: 'Open-source OPC-UA Toolkit designed with security and embedded devices in mind'
     project_url: 'https://gitlab.com/systerel/S2OPC'
     gitlab_plan: Gold
+    
+    project_name: 'AbsencesManager OS'
+    project_description: 'Open-source Manager for managing Attendences for Schools'
+    project_url: 'https://absenzium.de'
+    gitlab_plan: Ultimate
