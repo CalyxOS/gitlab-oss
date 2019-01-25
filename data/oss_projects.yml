@@ -1198,3 +1198,8 @@
     project_description: 'Open-source OPC-UA Toolkit designed with security and embedded devices in mind'
     project_url: 'https://gitlab.com/systerel/S2OPC'
     gitlab_plan: Gold
+-
+    project_name: 'toil'
+    project_description: ' A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.'
+    project_url: 'https://github.com/DataBiosphere/toil'
+    gitlab_plan: Gold
