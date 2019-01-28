@@ -349,11 +349,6 @@
     project_url: 'https://fudaa-project.atlassian.net/wiki/spaces/FUDAA/overview'
     gitlab_plan: Gold
 -
-    project_name: 'full-feature-micro-service-example'
-    project_description: 'It provies some examples / samples to use @apifie/node-microservice (above)'
-    project_url: 'https://gitlab.com/apifie/nodems/examples/full-feature-micro-service-example'
-    gitlab_plan: Gold
--
     project_name: GLPI
     project_description: 'GLPI stands for Gestionnaire Libre de Parc Informatique is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.'
     project_url: 'http://glpi-project.org/'
@@ -648,11 +643,6 @@
     project_description: 'An open source drag-and-drop form builder for WordPress'
     project_url: 'https://ninjaforms.com/'
     gitlab_plan: Ultimate
--
-    project_name: 'node-microservice'
-    project_description: 'node-microservice is a Node JS module / framework / boiler-plate / blueprint to accelerate and standardize micro-services development'
-    project_url: 'https://gitlab.com/apifie/nodems/node-microservice'
-    gitlab_plan: Gold
 -
     project_name: NoSQLMap
     project_description: 'Automated NoSQL database enumeration and web application exploitation tool for security professionals.'
