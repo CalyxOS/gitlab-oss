@@ -694,6 +694,11 @@
     project_url: 'https://gitlab.com/bancarel.valentin/open-gag'
     gitlab_plan: Ultimate
 -
+    project_name: Openki
+    project_description: 'Openki.net is a web-platform for building up a worldwide p2p school. We have the the ambition to facilitate a barrier-free access to education for everyone.'
+    project_url: 'https://about.openki.net'
+    gitlab_plan: Gold
+-
     project_name: OpenSCAD
     project_description: 'OpenSCAD is a multi-platform solid 3D modeling tool (GPL).'
     project_url: 'http://openscad.org'
