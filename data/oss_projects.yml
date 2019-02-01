@@ -1198,12 +1198,12 @@
     project_description: 'Open-source OPC-UA Toolkit designed with security and embedded devices in mind'
     project_url: 'https://gitlab.com/systerel/S2OPC'
     gitlab_plan: Gold
-    
+-
     project_name: 'AbsencesManager OS'
     project_description: 'Open-source Manager for managing Attendences for Schools'
     project_url: 'https://absenzium.de'
     gitlab_plan: Ultimate
-    
+-    
     project_name: 'OpenPLi'
     project_description: 'Open-source firmware for DVB receivers / set-top boxes'
     project_url: 'https://openpli.org'
@@ -1213,4 +1213,3 @@
     project_description: 'Minds is an open source and decentralized platform for Internet freedom where members can be paid in crypto for contributions to the community.'
     project_url: 'https://gitlab.com/minds'
     gitlab_plan: Ultimate
--
