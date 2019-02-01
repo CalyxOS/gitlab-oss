@@ -1213,3 +1213,8 @@
     project_description: 'Minds is an open source and decentralized platform for Internet freedom where members can be paid in crypto for contributions to the community.'
     project_url: 'https://gitlab.com/minds'
     gitlab_plan: Ultimate
+-
+    project_name: 'toil'
+    project_description: ' A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.'
+    project_url: 'https://github.com/DataBiosphere/toil'
+    gitlab_plan: Gold
