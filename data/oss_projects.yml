@@ -1218,3 +1218,8 @@
     project_description: ' A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.'
     project_url: 'https://github.com/DataBiosphere/toil'
     gitlab_plan: Gold
+-    
+    project_name: 'BeeScreens'
+    project_description: 'Interactive screens for events.'
+    project_url: 'https://gitlab.com/beescreens'
+    gitlab_plan: Gold
