@@ -1223,3 +1223,8 @@
     project_description: 'Interactive screens for events.'
     project_url: 'https://gitlab.com/beescreens'
     gitlab_plan: Gold
+-
+    project_name: 'Dokku Dashboard'
+    project_description: 'OpenSource (MIT) Admin Dashboard for Dokku'
+    project_url: 'https://gitlab.com/arturh85/dokku-dashboard'
+    gitlab_plan: Ultimate
