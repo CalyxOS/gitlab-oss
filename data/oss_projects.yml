@@ -1228,3 +1228,8 @@
     project_description: '[Surfliner](https://surfliner.ucsd.edu/) is a software suite for digital library infrastructure.'
     project_url: 'https://gitlab.com/surfliner/surfliner'
     gitlab_plan: Gold
+-
+    project_name: 'Dokku Dashboard'
+    project_description: 'OpenSource (MIT) Admin Dashboard for Dokku'
+    project_url: 'https://gitlab.com/arturh85/dokku-dashboard'
+    gitlab_plan: Ultimate
