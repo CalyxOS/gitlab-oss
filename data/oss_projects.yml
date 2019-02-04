@@ -1233,3 +1233,9 @@
     project_description: 'OpenSource (MIT) Admin Dashboard for Dokku'
     project_url: 'https://gitlab.com/arturh85/dokku-dashboard'
     gitlab_plan: Ultimate
+-
+    project_name: 'Linux Guide and Hints'
+    project_description: 'Tutorials and generally useful information regarding
+packages and system administration in Fedora and CentOS'
+    project_url: 'https://gitlab.com/remyabel/linux-guide-and-hints'
+    gitlab_plan: Ultimate
