@@ -1,4 +1,9 @@
 -
+    project_name: 'gitlab-inspector'
+    project_description: 'A light web app to monitor gitlab repositories'
+    project_url: 'https://gitlab.com/jeroli.co/gitlab-inspector'
+    gitlab_plan: Gold
+-
     project_name: PERLUR Group
     project_description: Several different open-source projects, libraries, scripts, Docker images, you name it
     project_url: 'https://github.com/PERLUR'
