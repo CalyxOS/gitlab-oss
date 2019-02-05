@@ -414,6 +414,11 @@
     project_url: 'http://www.hasadna.org.il/en/about/'
     gitlab_plan: Gold
 -
+    project_name: 'Hydra Wiki Platform'
+    project_description: 'Collection of extensions, services, and utilities to create a wiki farm platform with MediaWiki.'
+    project_url: 'https://gitlab.com/hydrawiki'
+    gitlab_plan: Gold
+-
     project_name: 'HolyDragon Project'
     project_description: 'An open source android based fork of OmniROM for OnePlus and other devices'
     project_url: 'https://gitlab.com/HolyDragonProject/android'
