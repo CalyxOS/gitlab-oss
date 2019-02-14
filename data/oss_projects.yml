@@ -1245,12 +1245,17 @@
     gitlab_plan: Ultimate
 -
     project_name: 'Linux Guide and Hints'
-    project_description: 'Tutorials and generally useful information regarding
-packages and system administration in Fedora and CentOS'
+    project_description: 'Tutorials and generally useful information regarding packages and system administration in Fedora and CentOS'
     project_url: 'https://gitlab.com/remyabel/linux-guide-and-hints'
     gitlab_plan: Ultimate
-
-project_name: 'Triple20'
+-
+    project_name: 'Triple20'
     project_description: 'Triple20 is an application made for Developers and Designers to prevent eye strain caused by spending most of their time in front of digital screens.'
     project_url: 'https://gitlab.com/daksh7011/triple20'
     gitlab_plan: Gold
+-
+    project_name: 'Locha Mesh'
+    project_description: 'A decentralized mesh network using IoT Devices.'
+    project_url: 'https://gitlab.com/btcven/locha/app'
+    gitlab_plan: Gold
+   
