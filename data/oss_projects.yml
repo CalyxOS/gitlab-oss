@@ -1258,4 +1258,9 @@
     project_description: 'A decentralized mesh network using IoT Devices.'
     project_url: 'https://gitlab.com/btcven/locha/app'
     gitlab_plan: Gold
+-
+    project_name: 'CDNJS'
+    project_description: 'Free and Open Source Public Web CDN for web developer! '
+    project_url: 'https://cdnjs.com'
+    gitlab_plan: Ultimate
    
