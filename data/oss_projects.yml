@@ -1,4 +1,9 @@
 -
+project_name: 'Peerplays Blockchain Standards Association'
+project_description: 'Building technology and community for provably fair gaming'
+project_url: 'https://pbsa.info/'
+gitlab_plan: Gold
+-
     project_name: 'gitlab-inspector'
     project_description: 'A light web app to monitor gitlab repositories'
     project_url: 'https://gitlab.com/jeroli.co/gitlab-inspector'
