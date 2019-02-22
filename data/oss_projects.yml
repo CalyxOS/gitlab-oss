@@ -1268,7 +1268,6 @@
     project_description: 'Free and Open Source Public Web CDN for web developer! '
     project_url: 'https://cdnjs.com'
     gitlab_plan: Ultimate
-   
 -
     project_name: 'foodsharing.de'
     project_description: 'A web platform to help manage volunteers rescue foodwaste.'
