@@ -1269,3 +1269,8 @@
     project_url: 'https://cdnjs.com'
     gitlab_plan: Ultimate
    
+-
+    project_name: 'Flask-HTMLmin'
+    project_description: 'Flask html response minifier'
+    project_url: 'https://github.com/hamidfzm/Flask-HTMLmin'
+    gitlab_plan: Ultimate
