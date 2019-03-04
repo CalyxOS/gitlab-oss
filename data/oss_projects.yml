@@ -324,6 +324,11 @@
     project_url: 'https://fantom.foundation'
     gitlab_plan: Ultimate
 -
+    project_name: 'First Draft'
+    project_description: 'FOSS live drawing and annotation tool'
+    project_url: 'https://first-draft.xyz'
+    gitlab_plan: Gold
+-
     project_name: 'Fly Delta Virtual: Open Source Projects (OSP)'
     project_description: 'Open sourced, community built projects for the phpVMS platform.'
     project_url: 'https://gitlab.com/flydeltavirtual/osp'
