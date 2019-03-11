@@ -1,4 +1,9 @@
 -
+    project_name: 'OpenMW'
+    project_description: 'OpenMW is an open-source open-world RPG game engine'
+    project_url: 'https://openmw.org/'
+    gitlab_plan: Gold
+-
     project_name: 'Peerplays Blockchain Standards Association'
     project_description: 'Building technology and community for provably fair gaming'
     project_url: 'https://pbsa.info/'
