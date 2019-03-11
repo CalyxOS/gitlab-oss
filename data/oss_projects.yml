@@ -1242,7 +1242,7 @@
     project_name: 'toil'
     project_description: ' A scalable, efficient, cross-platform (Linux/macOS) and easy-to-use workflow engine in pure Python.'
     project_url: 'https://github.com/DataBiosphere/toil'
-    gitlab_plan: Gold
+    gitlab_plan: Ultimate
 -
     project_name: 'BeeScreens'
     project_description: 'Interactive screens for events.'
