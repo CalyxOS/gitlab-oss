@@ -1279,3 +1279,8 @@
     project_description: 'Flask html response minifier'
     project_url: 'https://github.com/hamidfzm/Flask-HTMLmin'
     gitlab_plan: Ultimate
+-
+    project_name: 'Beezig'
+    project_description: 'Free and Open Source 5zig plugin, adding HiveMC functionality.'
+    project_url: 'https://beezig.eu'
+    gitlab_plan: Gold
