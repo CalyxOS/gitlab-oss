@@ -1298,3 +1298,8 @@
     project_description: 'Jaeger is an OSS distributed tracing platform'
     project_url: 'https://www.jaegertracing.io'
     gitlab_plan: Gold
+    -
+    project_name: 'Hazaar MVC'
+    project_description: 'The MVC framework that makes PHP not suck!'
+    project_url: 'http://hazaarmvc.com'
+    gitlab_plan: Ultimate
