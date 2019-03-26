@@ -1303,3 +1303,8 @@
     project_description: 'The MVC framework that makes PHP not suck!'
     project_url: 'http://hazaarmvc.com'
     gitlab_plan: Ultimate
+-
+    project_name: 'Phalcon PHP'
+    project_description: 'A full-stack PHP framework delivered as a C-extension'
+    project_url: 'https://phalconphp.com'
+    gitlab_plan: Ultimate
