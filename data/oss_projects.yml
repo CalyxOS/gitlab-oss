@@ -1308,3 +1308,8 @@
     project_description: 'A full-stack PHP framework delivered as a C-extension'
     project_url: 'https://phalconphp.com'
     gitlab_plan: Ultimate
+-
+    project_name: 'PikaTrack'
+    project_description: 'Fitness tracker for running and cycling'
+    project_url: 'https://pikatrack.com'
+    gitlab_plan: Gold
