@@ -1318,3 +1318,8 @@
     project_description: 'Distributed, automated baseline scanning tool.'
     project_url: 'https://gitlab.godshell.com/Godshell/skynet'
     gitlab_plan: Ultimate
+-
+    project_name: 'foodsharing.de'
+    project_description: 'A web platform to help manage volunteers rescue foodwaste.'
+    project_url: 'https://foodsharing.de'
+    gitlab_plan: Gold
