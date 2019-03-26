@@ -1313,3 +1313,8 @@
     project_description: 'Fitness tracker for running and cycling'
     project_url: 'https://pikatrack.com'
     gitlab_plan: Gold
+-    
+    project_name: 'Skynet Cloud Scanner'
+    project_description: 'Distributed, automated baseline scanning tool.'
+    project_url: 'https://gitlab.godshell.com/Godshell/skynet'
+    gitlab_plan: Ultimate
