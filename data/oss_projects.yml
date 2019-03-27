@@ -1323,3 +1323,8 @@
     project_description: 'A web platform to help manage volunteers rescue foodwaste.'
     project_url: 'https://foodsharing.de'
     gitlab_plan: Gold
+-
+    project_name: 'logport'
+    project_description: 'A log shipper to kafka.'
+    project_url: 'https://github.com/homer6/logport'
+    gitlab_plan: Gold    
