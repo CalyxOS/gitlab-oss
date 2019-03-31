@@ -1323,3 +1323,11 @@
     project_description: 'A web platform to help manage volunteers rescue foodwaste.'
     project_url: 'https://foodsharing.de'
     gitlab_plan: Gold
+    
+-
+    project_name: 'Project MANAS'
+    project_description: 'Robotics software stacks for autonomous systems'
+    project_url: 'http://projectmanas.in'
+    gitlab_plan: Gold
+    
+    
