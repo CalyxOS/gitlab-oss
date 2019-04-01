@@ -1329,5 +1329,9 @@
     project_description: 'Robotics software stacks for autonomous systems'
     project_url: 'http://projectmanas.in'
     gitlab_plan: Gold
-    
+-
+    project_name: 'SpazUtils'
+    project_description: 'Utilities for automating moderation on reddit.'
+    project_url: 'https://github.com/LilSpazJoekp/SpazUtils'
+    gitlab_plan: Ultimate
     
