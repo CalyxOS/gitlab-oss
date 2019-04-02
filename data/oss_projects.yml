@@ -1330,4 +1330,8 @@
     project_url: 'http://projectmanas.in'
     gitlab_plan: Gold
     
-    
+-
+    project_name: 'SKA Telescope'
+    project_description: 'The Square Kilometre Array (SKA) project is an international effort to build the world’s largest radio telescope, with eventually over a square kilometre (one million square metres) of collecting area.'
+    project_url: 'https://skatelescope.org'
+    gitlab_plan: Gold
