@@ -969,6 +969,11 @@
     project_url: 'https://gitlab.com/mowies/TreasureHunt'
     gitlab_plan: Gold
 -
+    project_name: TrueNTH Portal
+    project_description: The TrueNTH program is a Movember-funded effort to develop a comprehensive patient-centered online portal that will cover a full spectrum of prostate cancer survivor needs
+    project_url: https://gitlab.com/uwcirg/truenth-portal
+    gitlab_plan: Ultimate
+-
     project_name: TygerCaddy
     project_description: 'A Python based reverse proxy app with Web GUI'
     project_url: 'https://tygercaddy.com'
