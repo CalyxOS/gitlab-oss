@@ -1348,3 +1348,8 @@
     project_description: 'Utilities for automating moderation on reddit.'
     project_url: 'https://github.com/LilSpazJoekp/SpazUtils'
     gitlab_plan: Ultimate
+-
+    project_name: 'Clenz'
+    project_description: 'Clenz will be an open-source technology platform that will act as a two-sided marketplace for connecting service professionals and customers.'
+    project_url: 'https://gitlab.com/clenz-id/web'
+    gitlab_plan: Gold
