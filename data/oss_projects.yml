@@ -4,6 +4,11 @@
     project_url: 'https://openmw.org/'
     gitlab_plan: Gold
 -
+    project_name: 'Thera-pi'
+    project_description: 'Thera-pi is a management and planning tool for therapists (Heilmittelerbringer) working under German healthcare law'
+    project_url: 'https://gitlab.com/thera-pi/thera-pi'
+    gitlab_plan: Gold
+-
     project_name: 'Peerplays Blockchain Standards Association'
     project_description: 'Building technology and community for provably fair gaming'
     project_url: 'https://pbsa.info/'
