@@ -384,6 +384,11 @@
     project_url: 'https://www.list.org'
     gitlab_plan: Gold
 -
+    project_name: 'Gentoo'
+    project_description: 'Gentoo is a highly flexible, source-based Linux distribution.'
+    project_url: 'https://www.gentoo.org'
+    gitlab_plan: Gold
+-
     project_name: Gestures
     project_description: 'A minimal Gtk+ GUI app for libinput-gestures (Linux touchpad gestures)'
     project_url: 'https://gitlab.com/cunidev/gestures'
