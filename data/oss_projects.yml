@@ -1358,3 +1358,8 @@
     project_description: "The Square Kilometre Array (SKA) project is an international effort to build the world’s largest radio telescope, with eventually over a square kilometre (one million square metres) of collecting area."
     project_url: 'https://skatelescope.org'
     gitlab_plan: Gold
+-
+    project_name: 'DOMjudge'
+    project_description: "DOMjudge is a Programming Contest Control System, which can be used, amongst others, he ICPC regional and world championship programming contests."
+    project_url: 'https://domjudge.org'
+    gitlab_plan: Gold
