@@ -1373,3 +1373,8 @@
     project_description: 'Grin is a minimal implementation of the Mimblewimble protocol. Electronic transactions for all. Without censorship or restrictions.'
     project_url: 'https://grin-tech.org'
     gitlab_plan: Gold
+-
+    project_name: 'Autoware'
+    project_description: 'Autoware is the premiere open-source solution for self-driving vehicles. Its development is managed by The Autoware Foundation.'
+    project_url: 'https://www.autoware.org'
+    gitlab_plan: Gold
