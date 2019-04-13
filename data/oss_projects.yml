@@ -549,6 +549,11 @@
     project_url: 'https://www.linaro.org/initiatives/lava/'
     gitlab_plan: Ultimate
 -
+    project_name: 'LBScrobbler'
+    project_description: 'Synchronise ListenBrainz listens to scrobbling platforms.'
+    project_url: 'https://gitlab.com/Freso/lbscrobbler'
+    gitlab_plan: Gold
+-
     project_name: 'LIP Computing'
     project_description: 'Experimental Particle Physics Portuguese Laboratory, Computing Center group'
     project_url: 'https://www.lip.pt'
@@ -1367,4 +1372,14 @@
     project_name: 'DOMjudge'
     project_description: "DOMjudge is a Programming Contest Control System, which can be used, amongst others, he ICPC regional and world championship programming contests."
     project_url: 'https://domjudge.org'
+    gitlab_plan: Gold
+-
+    project_name: 'Grin'
+    project_description: 'Grin is a minimal implementation of the Mimblewimble protocol. Electronic transactions for all. Without censorship or restrictions.'
+    project_url: 'https://grin-tech.org'
+    gitlab_plan: Gold
+-
+    project_name: 'Autoware'
+    project_description: 'Autoware is the premiere open-source solution for self-driving vehicles. Its development is managed by The Autoware Foundation.'
+    project_url: 'https://www.autoware.org'
     gitlab_plan: Gold
