@@ -1378,3 +1378,8 @@
     project_description: 'Autoware is the premiere open-source solution for self-driving vehicles. Its development is managed by The Autoware Foundation.'
     project_url: 'https://www.autoware.org'
     gitlab_plan: Gold
+-
+    project_name: 'NeSTiNg'
+    project_description: 'NeSTiNg is a simulation model for Time-sensitive Networking (TSN) using the OMNeT++ discrete event simulation framework. '
+    project_url: 'https://gitlab.com/ipvs/nesting'
+    gitlab_plan: Gold
