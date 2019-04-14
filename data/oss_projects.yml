@@ -1383,3 +1383,10 @@
     project_description: 'Autoware is the premiere open-source solution for self-driving vehicles. Its development is managed by The Autoware Foundation.'
     project_url: 'https://www.autoware.org'
     gitlab_plan: Gold
+
+-
+    project_name: 'Airsonic'
+    project_description: 'Airsonic is a free, web-based media streamer, providing ubiquitous access to your music. It is a continuation of the now-closed-source Subsonic project.'
+    project_url: 'https://airsonic.github.io/'
+    gitlab_plan: Gold
+
