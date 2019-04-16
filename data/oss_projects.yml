@@ -1393,3 +1393,8 @@
     project_description: 'Airsonic is a free, web-based media streamer, providing ubiquitous access to your music. It is a continuation of the now-closed-source Subsonic project.'
     project_url: 'https://airsonic.github.io/'
     gitlab_plan: Gold
+-
+    project_name: 'Vegan on a Desert Island'
+    project_description: 'Adventure video game with fully free art, music, and code. GPL-3.0 and CC-BY-SA-4.0.'
+    project_url: 'https://voadi.com'
+    gitlab_plan: Gold
