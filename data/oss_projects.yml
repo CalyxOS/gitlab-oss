@@ -239,6 +239,11 @@
     project_url: 'https://git.daedalus-project.io/daedalusproject'
     gitlab_plan: Ultimate
 -
+    project_name: 'Deconst Next'
+    project_description: 'Deconst is a continuous delivery pipeline for heterogenous documentation'
+    project_url: 'https://gitlab.com/deconst-next'
+    gitlab_plan: Gold
+-
     project_name: 'Drupal Test Traits'
     project_description: 'Traits for testing Drupal sites that have user content (versus unpopulated sites).'
     project_url: 'https://gitlab.com/weitzman/drupal-test-traits'
