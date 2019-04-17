@@ -1403,3 +1403,8 @@
     project_description: 'Adventure video game with fully free art, music, and code. GPL-3.0 and CC-BY-SA-4.0.'
     project_url: 'https://voadi.com'
     gitlab_plan: Gold
+-
+    project_name: 'CalyxOS'
+    project_description: 'A mobile phone operating system built with "Privacy by Design".'
+    project_url: 'https://calyxos.org'
+    gitlab_plan: Gold
